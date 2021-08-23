@@ -12,3 +12,4 @@ title: SVG
 - [Animating an SVG Menu Icon with Segment | Codrops](http://tympanus.net/codrops/2015/11/12/animating-svg-menu-icon-segment/)
 - [PNG to SVG (Online & Free) — Convertio](https://convertio.co/png-svg/)
 - [Icon System with SVG Sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+- [SVG to PNG - Convert SVG files to PNG Online](https://svgtopng.com)
