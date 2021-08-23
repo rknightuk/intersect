@@ -37,7 +37,7 @@ module.exports = async function() {
         return path.endsWith('/') ? path : `${path}/`
     })
 
-    results = [...new Set(results)]
+    results = [...new Set(results)].splice(0, 10)
 
     console.log('[INTERSECT] Loading updated pages from git log')
     await asset.save(results, "json")
