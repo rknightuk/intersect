@@ -7,7 +7,8 @@
     "cache:clear": "rm -rf .cache",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx gulp & npx gulp watch & npx eleventy --serve --incremental",
-    "build": "rm -rf public/* && rm -rf .cache && npx gulp && npx eleventy"
+    "build": "rm -rf public/* && rm -rf .cache && npx gulp && npx eleventy",
+    "update:blog": "node updateBlogPosts.js"
   },
   "keywords": [],
   "author": "",
