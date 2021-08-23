@@ -1,6 +1,6 @@
 # Intersect
 
-<img src="src/_eleventy/assets/img/logos/logo.svg" style="width:150px;height:150px" alt="Intersect Logo">
+<img src="src/_eleventy/assets/img/logos/readme_logo.png" alt="Intersect Logo">
 
 A personal wiki built with [Eleventy](https://11ty.dev).
 
