@@ -2,6 +2,14 @@
 title: Laravel
 ---
 
+## NVM not Working on Deploy on Laravel Forge
+
+Source `nvm` in the deploy script to fix this:
+
+```bash
+. ~/.nvm/nvm.sh
+```
+
 ## Links
 
 - [Installation - Laravel - The PHP Framework For Web Artisans](https://laravel.com/docs)
