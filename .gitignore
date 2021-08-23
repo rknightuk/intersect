@@ -1,0 +1,8 @@
+node_modules
+public
+src/_eleventy/assets/css/dist.min.css
+src/_eleventy/assets/js/dist.min.js
+fathom_cache.json
+.env
+.cache
+src/_eleventy/_data/config.json

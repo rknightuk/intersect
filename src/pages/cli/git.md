@@ -1,0 +1,82 @@
+---
+title: Git
+---
+
+[Git](https://git-scm.com) is a version control system I use for all my projects.
+
+## Aliases
+
+I almost never type a full git command but instead have a variety of aliases like `g` for `git status`. You can view the [full list on Github](https://github.com/rknightuk/dotfiles/blob/master/git/aliases.zsh). Some of the more useful and unusual ones are listed below.
+
+## Git Logs
+
+```bash
+git log --graph --pretty=format'\'':%C(red)%h%Cgreen%d%Creset %s %C(blue) %an, %ar%Creset'\
+```
+
+I alias this to `gl` which gives a nicer output than standard:
+
+```git
+* ecf4ca4 Fix typo Robb Knight, 4 hours ago
+* fecce5a Add copy to clipboard feature Robb Knight, 5 hours ago
+* 418d17c Menu now shows and hides Robb Knight, 10 hours ago
+```
+
+### Limit Commits
+
+```bash
+# limit to 5 commits
+git log -n 5
+```
+## Interactively Stage Partial Changes
+
+`git add -p` will go through each hunk of changes and allow you to add them ready for commiting.
+
+## Git Cherry Pick
+
+`git cherry-pick HASH` allows you to take a commit from another branch and add it to your current one. Useful when you commit to the wrong branch, or have changes you need from elsewhere.
+
+## Git Stash
+
+Git stash allows you to temporarily _staash_ changes you've made and then apply them again later.
+
+```bash
+$ git stash
+
+# change branch, pull recent changes, etc
+
+$ git stash apply
+```
+
+## Get Deleted File Back Before Commit
+
+```bash
+git checkout path/to/file.txt
+```
+
+## Git Remote
+
+### Viewing Git Repository Remote Urls
+
+`git remote -v`
+
+Output:
+
+```bash
+origin  git@github.com:rknightuk/awesome-repo.git (fetch)
+origin  git@github.com:rknightuk/awesome-repo.git (push)
+```
+
+### Changing a Git Remote
+
+e.g. Changing the `origin` remote url
+
+1. Remove the current one `git remote rm origin`
+2. Add the new one with `git remote add origin https://github.com/rknightuk/awesome-repo.git`
+
+## Links
+
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [The Git Commit Hash - Mike Street](https://www.mikestreety.co.uk/blog/the-git-commit-hash)
+- [imsky/git-fresh: Keep your Git repo fresh.](https://github.com/imsky/git-fresh)
+- [Mastering Git submodules. Hair-pulling. Helpless rage… | by Christophe Porteneuve | Medium](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)

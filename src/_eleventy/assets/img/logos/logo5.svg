@@ -1,0 +1,43 @@
+<svg viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg" class="intersect-logo-idea">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect stroke="#000" stroke-width="35" id="svg_1" height="660.74809" width="665.00001" y="60.03368" x="70.99999" fill="none"/>
+  <rect stroke="#000" rx="20" id="svg_3" height="145.35679" width="34" y="51.75832" x="212" fill="#000000"/>
+  <rect stroke="#000" rx="20" id="svg_4" height="247.35678" width="34" y="55.75832" x="326" fill="#000000"/>
+  <rect transform="rotate(90 645.5 238.437)" stroke="#000" rx="20" id="svg_5" height="186.35678" width="34" y="145.25832" x="628.5" fill="#000000"/>
+  <rect transform="rotate(90 142 482.437)" stroke="#000" id="svg_6" height="143.35678" width="34" y="410.75863" x="125.00032" fill="#000000"/>
+  <rect stroke="#000" rx="20" id="svg_11" height="207.35678" width="34" y="515.75832" x="410" fill="#000000"/>
+  <rect stroke="#000" rx="20" id="svg_15" height="246.35678" width="34" y="475.75832" x="410" fill="#000000"/>
+  <rect transform="rotate(45 467.5 452.937)" stroke="#000" rx="20" id="svg_17" height="140.88874" width="34" y="382.49235" x="450.5" fill="#000000"/>
+  <rect stroke="#000" rx="20" id="svg_18" height="167.35679" width="34" y="554.75832" x="490" fill="#000000"/>
+  <rect transform="rotate(45 543 536.437)" stroke="#000" rx="20" id="svg_19" height="128.16082" width="34" y="472.35639" x="526.00018" fill="#000000"/>
+  <ellipse stroke-width="30" stroke="#000" ry="29.63679" rx="30.5" id="svg_20" cy="390.2217" cx="531.5" fill="none"/>
+  <ellipse stroke-width="30" stroke="#000" ry="29.63679" rx="30.5" id="svg_21" cy="319.2217" cx="343.5" fill="none"/>
+  <ellipse stroke-width="30" stroke="#000" ry="29.63679" rx="30.5" id="svg_22" cy="218.2217" cx="227.5" fill="none"/>
+  <ellipse stroke-width="30" stroke="#000" ry="29.63679" rx="30.5" id="svg_23" cy="237.2217" cx="531.5" fill="none"/>
+  <ellipse stroke-width="30" stroke="#000" ry="29.63679" rx="30.5" id="svg_24" cy="480.2217" cx="232.5" fill="none"/>
+  <ellipse stroke-width="30" stroke="#000" ry="29.63679" rx="30.5" id="svg_31" cy="482.2217" cx="600.83334" fill="none"/>
+  <ellipse stroke="#000" stroke-width="10" ry="16.03302" rx="16.5" id="svg_36" cy="668.49213" cx="125.16667" fill="none"/>
+  <ellipse stroke="#000" stroke-width="10" ry="16.03302" rx="16.5" id="svg_37" cy="113.82547" cx="682.50002" fill="none"/>
+  <ellipse stroke="#000" stroke-width="10" ry="16.03302" rx="16.5" id="svg_38" cy="668.49215" cx="682.50002" fill="none"/>
+  <ellipse stroke="#000" stroke-width="10" ry="16.03302" rx="16.5" id="svg_39" cy="113.8255" cx="125.16669" fill="none"/>
+  <rect transform="rotate(90 119.333 433.104)" stroke="#000" id="svg_40" height="100.69012" width="34" y="382.75902" x="102.33343" fill="#000000"/>
+  <rect transform="rotate(-180 540 100.437)" stroke="#000" id="svg_43" height="47.35677" width="34" y="76.75894" x="523.00001" fill="#000000"/>
+  <rect transform="rotate(-180 441.334 115.771)" stroke="#000" id="svg_44" height="86.02345" width="34" y="72.75894" x="424.33334" fill="#000000"/>
+  <rect transform="rotate(-180 686.666 380.439)" stroke="#000" id="svg_46" height="31.35677" width="34" y="364.76026" x="669.66595" fill="#000000"/>
+  <rect transform="rotate(-180 686.666 427.105)" stroke="#000" id="svg_47" height="31.35677" width="34" y="411.42692" x="669.66595" fill="#000000"/>
+  <rect transform="rotate(-180 686.666 333.772)" stroke="#000" id="svg_48" height="31.35677" width="34" y="318.09359" x="669.66595" fill="#000000"/>
+  <rect transform="rotate(-180 686.666 287.105)" stroke="#000" id="svg_49" height="31.35677" width="34" y="271.42693" x="669.66595" fill="#000000"/>
+  <rect transform="rotate(90 253.333 621.104)" stroke="#000" id="svg_50" height="62.02344" width="34" y="590.09241" x="236.33296" fill="#000000"/>
+  <rect transform="rotate(90 320.666 669.678)" stroke="#000" y="600.66638" id="svg_51" height="138.02345" width="34" x="303.66617" fill="#000000"/>
+  <rect transform="rotate(-180 490.668 84.438)" stroke="#000" id="svg_52" height="23.35677" width="34" y="72.75962" x="473.66802" fill="#000000"/>
+  <rect transform="rotate(-180 490.668 123.105)" stroke="#000" id="svg_53" height="23.35677" width="34" y="111.42629" x="473.66802" fill="#000000"/>
+  <rect transform="rotate(90 357.333 621.104)" stroke="#000" id="svg_54" height="62.02344" width="34" y="590.09241" x="340.33296" fill="#000000"/>
+  <rect transform="rotate(90 304.666 621.104)" stroke="#000" id="svg_55" height="23.35678" width="34" y="609.42567" x="287.66621" fill="#000000"/>
+  <rect transform="rotate(90 233.999 670.437)" stroke="#000" id="svg_56" height="23.35678" width="34" y="658.759" x="216.99954" fill="#000000"/>
+  <rect transform="rotate(90 97.3328 383.771)" stroke="#000" id="svg_57" height="54.02346" width="34" y="356.75927" x="80.33283" fill="#000000"/>
+  <rect transform="rotate(90 108.666 334.437)" stroke="#000" id="svg_59" height="76.69014" width="34" y="296.09241" x="91.66631" fill="#000000"/>
+  <rect transform="rotate(90 87.333 285.104)" stroke="#000" id="svg_60" height="34.02347" width="34" y="268.0924" x="70.33298" fill="#000000"/>
+ </g>
+
+</svg>

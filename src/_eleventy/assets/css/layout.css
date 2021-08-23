@@ -1,0 +1,239 @@
+/*
+Add transition to containers so they can push in and out.
+*/
+#layout,
+#menu,
+.menu-link {
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+/*
+This is the parent `<div>` that contains the menu and the content area.
+*/
+#layout {
+    position: relative;
+    left: 0;
+    padding-left: 0;
+}
+    #layout.active #menu {
+        left: 250px;
+        width: 250px;
+    }
+
+    #layout.active .menu-link {
+        left: 250px;
+    }
+/*
+The content `<div>` is where all your content goes.
+*/
+.content {
+    box-sizing: border-box;
+    padding-bottom: 50px;
+    line-height: 1.6em;
+    position: relative;
+    z-index: 2;
+    margin-left: -14px;
+    background: white;
+}
+
+.main {
+    min-height: calc(100vh - 150px);
+}
+
+
+/*
+The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
+appears on the left side of the page.
+*/
+
+#menu {
+    margin-left: -250px;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background: var(--grey-background);
+    overflow-y: auto;
+    border-right: 1px solid var(--light-border-color);
+    user-select: none
+}
+
+.pure-menu .toggler {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+.pure-menu .toggler:after {
+    display: block;
+    content: ' ';
+    background-image: url('/assets/img/icons/chevron-right.svg');
+    background-size: 20px 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.pure-menu ul:first-child {
+    margin-left: -30px;
+}
+
+.pure-menu ul ul {
+    display: none;
+}
+
+.pure-menu li.open ul {
+    display: block;
+}
+
+.pure-menu li.open .toggler:after {
+    background-image: url('/assets/img/icons/chevron-down.svg');
+}
+
+.pure-menu li {
+    list-style-type: none;
+    font-size: 14px;
+    position: relative;
+}
+
+.pure-menu li a {
+    padding: 10px 0;
+    text-decoration: none;
+    color: var(--text-color);
+    display: inline-block;
+    width: calc(100% - 40px);
+}
+
+.pure-menu li a:hover {
+    color: var(--primary-color);
+}
+
+.toggler:hover {
+    cursor: pointer;
+}
+
+.pure-menu .active {
+    color:  var(--primary-color);
+}
+
+.pure-menu ul ul {
+    margin-left: -25px;
+}
+
+.pure-menu ul ul a {
+    color: var(--text-light-color);
+}
+
+/* -- Dynamic Button For Responsive Menu -------------------------------------*/
+
+/*
+The button to open/close the Menu is custom-made and not part of Pure. Here's
+how it works:
+*/
+
+/*
+`.menu-link` represents the responsive menu toggle that shows/hides on
+small screens.
+*/
+
+.menu-link {
+    width: 50px;
+    height: 50px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('/assets/img/icons/sidebar.svg');
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    background-position: center;
+    opacity: 0.5;
+}
+
+.menu-link:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+/* -- Responsive Styles (Media Queries) ------------------------------------- */
+
+/*
+Hides the menu at `48em`, but modify this based on your app's needs.
+*/
+@media (min-width: 48em) {
+
+    #layout {
+        padding-left: 250px; /* left col width "#menu" */
+        left: 0;
+    }
+    #menu {
+        left: 250px;
+    }
+
+    .menu-link {
+        position: fixed;
+        left: 250px;
+        display: none;
+    }
+
+    #layout.active .menu-link {
+        left: 250px;
+    }
+}
+
+@media (max-width: 48em) {
+    /* Only apply this when the window is small. Otherwise, the following
+    case results in extra padding on the left:
+        * Make the window small.
+        * Tap the menu to trigger the active state.
+        * Make the window large again.
+    */
+    #layout.active {
+        position: relative;
+        left: 250px;
+    }
+
+    .content {
+        margin-left: 0;
+    }
+
+    .active .content {
+        margin-left: -14px;
+    }
+}
+
+.top-navigation {
+    box-sizing: border-box;
+    border-bottom: 1px solid var(--light-border-color);
+    background: var(--grey-background);
+    padding: 10px 0;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+.top-navigation-left {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.top-navigation-right {
+    margin-right: 50px;
+    font-weight: bold;
+    text-align: right;
+    width: 100%;
+}
+
+.top-navigation-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}

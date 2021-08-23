@@ -1,0 +1,14 @@
+<svg viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg" class="intersect-logo-idea">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect rx="20" stroke="#000" stroke-width="50" id="svg_1" height="660.74809" width="665.00001" y="66.70033" x="66.99999" fill="none"/>
+  <ellipse ry="59.33333" rx="59.33333" id="svg_68" cy="406.00003" cx="550.00001" stroke-width="45" stroke="#000" fill="none"/>
+  <rect stroke="#000" id="svg_70" height="229.32382" width="12.00001" y="106.00442" x="543.3332" stroke-width="35" fill="none"/>
+  <rect stroke="#000" id="svg_75" height="105.32381" width="12.00001" y="108.67109" x="373.16666" stroke-width="35" fill="none"/>
+  <ellipse stroke="#000" ry="59.33333" rx="59.33333" id="svg_76" cy="288.66669" cx="379.33334" stroke-width="45" fill="none"/>
+  <rect transform="rotate(90 180 451.333)" stroke="#000" id="svg_81" height="159.99048" width="12.00001" y="371.3378" x="173.9999" stroke-width="35" fill="none"/>
+  <rect transform="rotate(135 304.667 488)" stroke="#000" id="svg_83" height="86.45137" width="12.00001" y="444.77424" x="298.66666" stroke-width="35" fill="none"/>
+  <ellipse ry="59.33333" rx="59.33333" id="svg_84" cy="575.33336" cx="392.66668" stroke-width="45" stroke="#000" fill="none"/>
+ </g>
+
+</svg>

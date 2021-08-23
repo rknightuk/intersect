@@ -1,0 +1,9 @@
+---
+title: React
+---
+
+## Links
+
+- [Safely render HTML in React | Interweave](https://interweave.dev/)
+- [React-toastify | React-Toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [Chakra UI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications](https://chakra-ui.com/?utm_source=pocket_mylist)

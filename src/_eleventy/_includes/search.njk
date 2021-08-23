@@ -1,0 +1,30 @@
+{"content" : [
+	{%- for page in collections.pages.data -%}
+	{
+		"url": "{{ page.url }}",
+		"title": "{{ page.data.title }}",
+		"topLevel": {% if page.data.data.parent %}false{% else %}true{%- endif -%},
+		"text": "{{ page.data.data.contentIndex }}",
+		"parents": [
+			{%- for crumb in page.data.data.breadcrumbs -%}
+				"{{ crumb }}"
+			{% if not loop.last %},{% else %}{%- endif -%}
+			{%- endfor -%}
+		],
+		"filePath": "{{ page.data.data.filePath }}"
+	}{% if not loop.last %},{% else %}{%- endif -%}
+	{%- endfor -%}
+],
+"links" : [
+	{%- for link in collections.linkData.links -%}
+	{
+		"title": "{{ link.title }}",
+		"link": "{{ link.href }}",
+		"domain": "{{ link.domain }}",
+		"source": {
+			"title": "{{ link.sourceTitle }}",
+			"url": "{{ link.sourceUrl }}"
+		}
+	}{% if not loop.last %},{% else %}{%- endif -%}
+	{%- endfor -%}
+]}

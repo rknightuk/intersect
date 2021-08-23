@@ -1,0 +1,140 @@
+.searching #layout {
+    filter: blur(4px);
+}
+
+.search-trigger {
+    padding: 10px;
+    opacity: .5;
+    display: flex;
+}
+
+.search-trigger:hover {
+    opacity: 1;
+}
+
+.search-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-modal {
+    display: none;
+    border: 1px solid var(--light-border-color);
+    background: #fff;
+    -webkit-box-shadow: 0 3px 10px rgb(0 0 0 / 60%);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 60%);
+    position: absolute;
+    width: calc(100% - 100px);
+    z-index: 1;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    max-width: 700px;
+    position: fixed;
+    margin: 0 auto;
+    top: 60px;
+}
+
+.search-closer {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.search-closer:hover {
+    cursor: pointer;
+}
+
+.search-closer img {
+    width: 18px;
+    height: 18px;
+}
+
+.modal-search-input {
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    font-size: 1.3em;
+    background: none;
+    border: none;
+    border-bottom: 1px solid var(--light-border-color);
+    padding: 10px 0;
+}
+
+.modal-search-input:focus {
+    outline: none;
+}
+
+.modal-search-results {
+    max-height: 503px;
+    overflow: auto;
+}
+
+.modal-search-result-wrapper {
+    position: relative;
+    border-bottom: 1px solid var(--light-border-color);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-search-result {
+    box-sizing: border-box;
+    width: 100%;
+    border-bottom: 1px solid var(--light-border-color);
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+
+.modal-search-result-wrapper .modal-search-result {
+    border-bottom: none;
+    padding-bottom: 20px;
+}
+
+.modal-search-result:last-child {
+    border-bottom: none;
+}
+
+.modal-search-result-wrapper:hover,
+.modal-search-result:hover,
+.modal-search-result:focus {
+    background-color: var(--light-primary-color);
+    outline: none;
+}
+
+.modal-search-result img {
+    width: 15px;
+    height: 15px;
+}
+
+.modal-search-result {
+    color: var(--primary-color);
+}
+
+.modal-search-result .parent-title {
+    color: var(--text-color);
+    opacity: 0.7;
+}
+
+.modal-search-result-page {
+    text-decoration: none;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: -20px;
+    margin-bottom: 3px;
+    color: var(--text-color);
+}
+
+.modal-search-alert {
+    padding: 3px;
+    font-size: 12px;
+    text-align: center;
+    display: none;
+}
+
+.showAlert .modal-search-alert {
+    display: block;
+}

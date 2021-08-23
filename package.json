@@ -1,0 +1,34 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cache:clear": "rm -rf .cache",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx gulp & npx gulp watch & npx eleventy --serve --incremental",
+    "build": "rm -rf public/* && npx gulp && npx eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.0",
+    "@11ty/eleventy-cache-assets": "^2.3.0",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "@jochenlinnemann/markdown-it-imsize": "^2.0.1-style2",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "fathom-api": "^1.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^3.0.2",
+    "markdown-it-anchor": "^8.1.2",
+    "markdown-link-extractor": "^1.3.0",
+    "parse-domain": "^3.0.3"
+  },
+  "dependencies": {}
+}
