@@ -4,6 +4,14 @@ title: Introduction
 
 I'm [Robb Knight](https://rknight.me) and this is ~~my digital garden~~ the Intersect. Everything I know. Mostly.
 
+## Quick Start
+
+- Press <kbd>/</kbd> to open the search and search the whole site
+- Want to just search links? Start you search with `l ` (that's a lowercase "L")
+- [Expanded Readme](/meta/readme/) for installation and setup
+- [Sitemap](/meta/sitemap/)
+- [View the source on GitHub](https://github.com/rknightuk/intersect)
+
 ## What Is This?
 
 To quote Nikita Volodoev directly from [their wiki](https://wiki.nikitavoloboev.xyz):
