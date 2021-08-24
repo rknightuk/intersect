@@ -17,7 +17,6 @@ body {
 }
 
 .sidebar {
-    min-height: 100vh;
     margin-left: -275px;
     transition: margin 0.25s ease-out;
     width: 275px;
@@ -41,6 +40,7 @@ body {
 
     .sidebar-toggled .sidebar {
         margin-left: -275px;
+        height: 100vh;
     }
 
     .main {
