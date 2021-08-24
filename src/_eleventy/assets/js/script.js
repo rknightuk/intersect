@@ -14,13 +14,14 @@
     document.querySelectorAll('[data-copy]').forEach(cp => {
         const copy = document.createElement('div')
         copy.className = 'copy-button'
+        copy.innerHTML = '<div>copy</div>'
         cp.appendChild(copy)
         copy.addEventListener('click', function(e) {
             text = e.currentTarget.parentElement.getElementsByTagName('code')[0].innerText
             navigator.clipboard.writeText(text).then(() => {
-                copy.className = `${copy.className} checked`
+                copy.innerHTML = '<div>copied!</div>'
                 setTimeout(() => {
-                    copy.className = 'copy-button'
+                    copy.innerHTML = '<div>copy</div>'
                 }, 750)
             })
         })

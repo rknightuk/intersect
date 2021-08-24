@@ -23,6 +23,7 @@ pre[class*="language-"] {
 	-moz-hyphens: none;
 	-ms-hyphens: none;
 	hyphens: none;
+	border-radius: 5px;
 }
 
 pre > code[class*="language-"] {
@@ -47,6 +48,7 @@ pre[class*="language-"] {
 	border: 1px solid var(--light-border-color);
 	background-color: white;
 	padding-right: 1.1em;
+	padding-top: 2em;
 }
 
 /* Inline code */
@@ -177,22 +179,28 @@ code[class*="language-css"] {
 pre { position: relative; }
 
 .copy-button {
-	width: 20px;
+	width: 60px;
 	height: 20px;
 	position: absolute;
-	top: 5px;
-	right: 5px;
-	background: url('/assets/img/icons/copy.svg');
-	background-size: 100% 100%;
-	opacity: 0.6;
-}
-
-.copy-button.checked {
-	background: url('/assets/img/icons/check.svg');
-	background-size: 100% 100%;
+	top: 0;
+	right: 0;
+	background-color: var(--light-primary-color);
+	border-bottom-left-radius: 5px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: var(--text-color);
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 0.8em;
+	border-left: 1px solid var(--light-border-color);
+	border-bottom: 1px solid var(--light-border-color);
 }
 
 .copy-button:hover {
 	cursor: pointer;
-	opacity: 1;
+	background-color: var(--primary-color);
+	color: white;
 }
