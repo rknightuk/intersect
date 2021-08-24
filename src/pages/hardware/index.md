@@ -25,3 +25,4 @@ I don't remember who said this on a podcast, but I think about this a lot in rel
 - [Why Everyone is wrong about the MagSafe Wallet - YouTube](https://www.youtube.com/watch?v=7A3i1DX8caE)
 - [Apple's Love of Cameras: Remembering the QuickTake and iSight - YouTube](https://www.youtube.com/watch?v=O9fWMTQv6-Q)
 - [David Darnes | Setups](https://setups.co/posts/david-darnes)
+- [OneOdio Headphones, Studio & DJ & Bluetooth, oneodio.com](https://www.oneodio.com/)
