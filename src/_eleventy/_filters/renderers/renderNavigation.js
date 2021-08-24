@@ -29,6 +29,6 @@ module.exports = function(data) {
 	data = pages.map(p => renderNavListItem(p, true))
 
 
-	return `<div class="pure-menu"><ul>${data.join('')}</ul></div>`
+	return `<ul>${data.join('')}</ul>`
 }
   

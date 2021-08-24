@@ -49,7 +49,7 @@
         bodyElement.className = bodyElement.className.replace('searching', '')
         searchInput.blur()
         enableScroll()
-        const markInstance = new Mark(document.getElementsByClassName('markdown-body main')[0]);
+        const markInstance = new Mark(document.getElementsByClassName('content markdown-body')[0]);
         markInstance.unmark()
     }
 
@@ -232,7 +232,7 @@
 
     if (params.q)
     {
-        const markInstance = new Mark(document.getElementsByClassName('markdown-body main')[0]);
+        const markInstance = new Mark(document.getElementsByClassName('content markdown-body')[0]);
         markInstance.mark(params.q);
 
         const firstMark = document.getElementsByTagName('mark')[0]

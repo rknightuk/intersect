@@ -40,6 +40,25 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 }
 ```
 
+## Hover Element Change Another
+
+[The Adjacent-Sibling Selector](https://meyerweb.com/eric/articles/webrev/200007a.html)
+
+```html
+<div class="hoverer">hover me</div>
+<div class="hoveree">and I will appear</div>
+```
+
+```css
+.hoveree {
+    display: none;
+}
+    
+.hoverer:hover + .hoveree {
+    display: block;
+}
+```
+
 ## Links
 
 - [CSS accent-color](https://web.dev/accent-color/)

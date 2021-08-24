@@ -36,10 +36,26 @@ templateEngineOverride: 'njk,md'
 
 ### Top 25 Linked Sites
 
+<style>
+.stats-table-cell {
+    vertical-align: middle;
+}
+
+.stats-table-external {
+    float: right;
+    margin-left: 10px;
+}
+
+.stats-table-external img {
+    width:15px;
+    height:15px;
+}
+</style>
+
 <table>
   <thead>
-    <th>Page</th>
-    <th>Pageviews</th>
+    <th>Site</th>
+    <th>Links</th>
   </thead>
   <tbody>
     {%- for domain in collections.linkData.charts.splice(0, 25) -%}

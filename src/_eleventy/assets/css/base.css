@@ -1,0 +1,150 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    color: var(--text-color);
+}
+
+.intersect {
+    display: flex;
+    overflow-x: hidden;
+}
+
+.sidebar {
+    min-height: 100vh;
+    margin-left: -275px;
+    transition: margin 0.25s ease-out;
+    width: 275px;
+    background: var(--grey-background);
+    border-right: 1px solid var(--light-border-color);
+}
+
+.sidebar-toggled .sidebar {
+    margin-left: 0;
+}
+
+.main {
+    width: 100%;
+}
+
+@media (min-width: 768px)
+{
+    .sidebar {
+        margin-left: 0;
+    }
+
+    .sidebar-toggled .sidebar {
+        margin-left: -275px;
+    }
+
+    .main {
+        min-width: 0;
+        width: 100%;
+    }
+}
+
+.github-corner svg {
+    fill: var(--primary-color); 
+    color: var(--grey-background);
+}
+
+.toolbar {
+    height: 50px;
+    display: flex;
+    align-items: space-between;
+    background-color: var(--grey-background);
+    border-bottom: 1px solid var(--light-border-color);
+}
+
+.toolbar__block {
+    flex: 1;
+    display: flex;
+}
+
+.toolbar__block.center {
+    align-items: center;
+    justify-content: center;
+}
+
+.toolbar__block.right {}
+
+.nav-trigger {
+    padding: 10px;
+    opacity: .5;
+    display: flex;
+}
+
+.nav-trigger:hover {
+    opacity: 1;
+}
+
+.sidebar ul:first-child {
+    margin-left: -30px;
+}
+
+.sidebar ul ul {
+    display: none;
+}
+
+.sidebar li.open ul {
+    display: block;
+}
+
+.sidebar li {
+    list-style-type: none;
+    font-size: 14px;
+    position: relative;
+}
+
+.sidebar li a {
+    padding: 10px 0;
+    text-decoration: none;
+    color: var(--text-color);
+    display: inline-block;
+    width: calc(100% - 40px);
+}
+
+.sidebar li a:hover {
+    color: var(--primary-color);
+}
+
+.sidebar .active {
+    color:  var(--primary-color);
+}
+
+.sidebar ul ul {
+    margin-left: -25px;
+}
+
+.sidebar ul ul a {
+    color: var(--text-light-color);
+}
+
+.sidebar .toggler {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+}
+
+.sidebar .toggler:after {
+    display: block;
+    content: ' ';
+    background-image: url('/assets/img/icons/chevron-right.svg');
+    background-size: 20px 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.sidebar li.open .toggler:after {
+    background-image: url('/assets/img/icons/chevron-down.svg');
+}
+
+.sidebar .toggler:hover {
+    cursor: pointer;
+}

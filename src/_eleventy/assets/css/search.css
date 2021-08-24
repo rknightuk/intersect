@@ -2,16 +2,6 @@
     filter: blur(4px);
 }
 
-.search-trigger {
-    padding: 10px;
-    opacity: .5;
-    display: flex;
-}
-
-.search-trigger:hover {
-    opacity: 1;
-}
-
 .search-wrapper {
     display: flex;
     justify-content: center;

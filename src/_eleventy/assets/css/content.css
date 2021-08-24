@@ -1,0 +1,102 @@
+.content {
+    padding-top: 20px!important;
+}
+
+.heading-anchor {
+    float: left;
+    margin-left: -25px;
+    width: 25px;
+    text-align: center;
+}
+
+/* Page Metadata */
+
+.meta {
+    position: relative;
+    padding: 5px 0;
+    margin-top: -17px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    border-bottom: 1px solid var(--light-border-color);
+}
+
+.meta .github-link {
+    display: flex;
+    position: absolute;
+    right: 20px;
+    opacity: .5;
+}
+
+.meta .github-link:hover {
+    opacity: 1;
+}
+
+.meta .github-link img {
+    width: 15px;
+    height: 15px;
+}
+
+.meta .breadcrumb {
+    display: flex;
+    align-items: center;
+}
+
+.meta .breadcrumb-divider {
+    width:15px;
+    height:15px;
+    margin-top: 1px;
+}
+
+/* TOC */
+
+nav.toc {
+    font-size: 14px;
+    background: var(--grey-background);
+    padding: 10px 0;
+    border: 1px solid var(--light-border-color);
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 350px;
+    position: absolute;
+    top: 24px;
+    left: 0;
+    z-index: 1;
+    display: none;
+}
+
+nav.toc ul {
+    list-style-type: disc;
+    margin-bottom: 0;
+}
+
+nav.toc ul ul {
+    margin-left: -15px;
+}
+
+.toc-toggler {
+    opacity: .5;
+    margin-right: 5px;
+    display: flex;
+    padding-top: 1px;
+}
+
+.toc-toggler:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.toc-toggler img {
+    width: 20px;
+    height: 20px;
+}
+
+.toc-toggler:hover nav.toc {
+    display: block;
+}
+
+mark {
+    background-color: yellow;
+    color: black;
+}
