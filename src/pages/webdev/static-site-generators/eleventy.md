@@ -192,3 +192,6 @@ module.exports = {
 - [philhawksworth/eleventyone: A scaffold for a quick start building with the Eleventy SSG](https://github.com/philhawksworth/eleventyone)
 - [I Finally Understand Eleventy's Data Cascade.](https://benmyers.dev/blog/eleventy-data-cascade/)
 - [maxboeck/eleventastic: An Eleventy Starter Kit](https://github.com/maxboeck/eleventastic)
+- [Learn how to display a directory treeview with your 11ty syntax highlighter](https://mastereleventy.com/blog/prism-treeview/)
+- [Add a Sitemap to Eleventy - 11ty Recipes](https://11ty.recipes/recipes/add-a-sitemap/)
+- [Eleventy/11ty Recipes](https://11ty.recipes/)

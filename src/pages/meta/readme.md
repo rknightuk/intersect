@@ -19,7 +19,7 @@ If you want to fetch Fathom popular pages on build, copy `.env.example` as `.env
 All of the source files of the content are plain markdown files. These must be markdown for the headings ID links to work but they can, in theory, be `njk` or anything else Eleventy supports. The file structure looks like this:
 
 ```txt
-📦knowledge
+📦intersect
  ┣ 📂topic
  ┃ ┗ 📂subtopic-with-subtopics
  ┃    ┗ 📜subsubtopic.md
