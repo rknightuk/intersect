@@ -2,6 +2,12 @@
 title: CSS
 ---
 
+## Include Stylesheet
+
+```html
+<link rel="stylesheet" href="style.css">
+```
+
 ## System Font Defaults
 
 [Shipping system fonts to GitHub.com](https://markdotto.com/2018/02/07/github-system-fonts/)
