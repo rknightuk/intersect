@@ -19,3 +19,7 @@ Use [youtube-dl](https://youtube-dl.org/) to download videos.
 - [512 Pixels](https://www.youtube.com/channel/UCZzXBTOSdtmOz9_VMYffr4g)
 - [Company Man](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
 - [Honest Trailers](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE)
+
+## Links
+
+- [TubeSync is a PVR (personal video recorder) for YouTube](https://github.com/meeb/tubesync)
