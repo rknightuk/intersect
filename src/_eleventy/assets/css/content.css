@@ -19,7 +19,7 @@
     font-size: 14px;
     display: flex;
     align-items: center;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     border-bottom: 1px solid var(--light-border-color);
 }
 
