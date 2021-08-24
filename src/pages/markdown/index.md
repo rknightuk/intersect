@@ -27,4 +27,5 @@ Strikethrough on Github is one _or_ two tildes, but the [Github Flavored Markdow
 - [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 - [Create a Table in Markdown with No Headers](https://rknight.me/create-a-blank-no-header-markdown-table/)
 - [nvUltra - Searchable, portable, MultiMarkdown notes](https://nvultra.com/)
+- [Notable - The Markdown-based note-taking app that doesn't suck](https://notable.app/#download)
 - [Simple Markdown Parser with JavaScript and Regular Expressions | BigOmega](https://www.bigomega.dev/markdown-parser)

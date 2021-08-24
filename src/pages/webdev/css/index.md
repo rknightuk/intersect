@@ -45,3 +45,4 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [Make “Pre” Text Wrap](https://css-tricks.com/snippets/css/make-pre-text-wrap/)
 - [Glide CSS — A tiny component-first CSS framework for Sass](https://glidecss.com/)
 - [PurgeCSS - Remove unused CSS](https://purgecss.com/#sponsors-%F0%9F%A5%B0)
+- [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)

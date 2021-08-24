@@ -21,3 +21,4 @@ title: Visual Studio Code
 - [Markdown All in One - Visual Studio Marketplace](https://marketplace.visualstudio.com/items)
 - [Auto Rename Tag - Visual Studio Marketplace](https://marketplace.visualstudio.com/items)
 - [Indent on Paste - Visual Studio Marketplace](https://marketplace.visualstudio.com/items)
+- [awesome-vscode | 🎨 A curated list of delightful VS Code packages and resources.](https://viatsko.github.io/awesome-vscode/)

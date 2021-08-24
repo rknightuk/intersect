@@ -56,6 +56,12 @@ Using [sips](https://ss64.com/osx/sips.html) (scriptable image processing system
 $ sips -Z 640 *.jpg
 ```
 
+## Invert Image Colours
+
+```bash
+for FILE in *; do convert $FILE -channel RGB -negate $FILE; done
+```
+
 ## QuickLook a File
 
 ```bash

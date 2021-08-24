@@ -31,6 +31,21 @@ I also have my own podcast, [Ruminate](https://ruminatepodcast.com). Read my [no
 - [PocketCasts](https://www.pocketcasts.com)
 - [Castro](https://castro.fm)
 
+## Get Incomparable Titles and Links
+
+Used when generating the initial versions of my [Defocused list on Letterboxd](https://letterboxd.com/rknightuk/list/defocused-podcast/).
+
+```js
+titles = document.getElementsByClassName('asset-name entry-title')
+
+data = []
+for (var i = 0; i < titles.length; i++) {
+    const title = titles[0].innerText
+    const link = titles[i].children[0].href
+    data.push({ title, link })
+}
+```
+
 ## Links
 
 - [Podcast Postcards](http://www.podcastpostcards.com/)
