@@ -47,3 +47,4 @@ I want to make sure the URLs stay the same forever, which means I need to consid
 - [My homemade wiki - All this](https://leancrew.com/all-this/2021/08/my-homemade-wiki/)
 - [Scripts for my homemade wiki - All this](https://leancrew.com/all-this/2021/08/scripts-for-my-homemade-wiki/)
 - [5 No Code Digital Gardens](https://ianjones.us/notes/digital-garden/five-no-code-digital-gardens)
+- [maximevaillancourt/digital-garden-jekyll-template: Start your own digital garden using this Jekyll template 🌱](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
