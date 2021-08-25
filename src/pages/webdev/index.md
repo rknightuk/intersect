@@ -26,3 +26,5 @@ Either of these will usually be deployed with [Laravel Forge](https://forge.lara
 - [Making the world’s fastest analytics even faster - Fathom Analytics](https://usefathom.com/blog/faster-analytics?ref=TellMyWifeImLeavingHerForSingleStore)
 - [Credits and Recognition ◆ 24 ways](https://24ways.org/2013/credits-and-recognition/)
 - [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [Ray.so - Create beautiful images of your code](https://ray.so/)
+- [Link Preview API Service | Peekalink](https://www.peekalink.io/)

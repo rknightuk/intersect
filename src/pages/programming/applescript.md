@@ -81,3 +81,4 @@ tell application \"Finder\" to set desktop picture to POSIX file "path/to/file.j
 - [Introduction to AppleScript Language Guide](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 - [List of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
 - [samknight/slack_applescript: AppleScript bundle for Slack methods](https://github.com/samknight/slack_applescript)
+- [Raycast's command scripts](https://github.com/raycast/script-commands/tree/master/commands)
