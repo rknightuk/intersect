@@ -99,7 +99,7 @@ if (cacheFileExists)
 - [deanishe/awgo: Go library for Alfred 3 + 4 workflows](https://github.com/deanishe/awgo) (go)
 - [deanishe/alfred-workflow: Full-featured library for writing Alfred 3 & 4 workflows](https://github.com/deanishe/alfred-workflow) (python)
 - [mr-pennyworth/alfred-extra-pane: Rich previews for Alfred script filters](https://github.com/mr-pennyworth/alfred-extra-pane)
-- [Workflow Icon Generator - SVG to PNG](https://icons.deanishe.net/) - Icon Fonts to PNG
+- [Workflow Icon Generator - SVG to PNG](https://icons.deanishe.net/)
 - [Writing Alfred workflows in Go. How to write Alfred workflows in Go… | by Nikita Voloboev | Medium](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432)
 - [Importing Scripts · JXA-Cookbook/JXA-Cookbook Wiki](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki/Importing-Scripts)
 
