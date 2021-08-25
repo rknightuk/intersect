@@ -12,3 +12,4 @@ title: Icons
 - [softies icon set](https://robbiepearce.com/softies/)
 - [Simple Icons - Brand Icons](https://simpleicons.org/)
 - [2600 Flag Icon Set - Resources from GoSquared](https://www.gosquared.com/resources/flag-icons/)
+- [GitHub Octicons](https://primer.style/octicons/)
