@@ -6,7 +6,7 @@ I have [quite a lot of Lego](https://brickset.com/sets/ownedby-rknightuk) althou
 
 ## Tracking Lego Sets
 
-[Brickset](https://brickset.com) is the best way to keep track of which sets and minifigures you own, as well as sets you want. It also has stats on values and number of peices.
+[Brickset](https://brickset.com) is the best way to keep track of which sets and minifigures you own, as well as sets you want. It also has stats on values and number of peices. I [wrote a blog post about it](https://rknight.me/manage-your-lego-collection-with-brickset/).
 
 [Rebrickable](https://rebrickable.com) also has collection tracking but I haven't used it.
 
@@ -26,5 +26,5 @@ Bricklink is a marketplace of sellers rather than a single store, so you have to
 - [LEGO Brick Labels - BRICK ARCHITECT](https://brickarchitect.com/labels/)
 - [Starting out to sell LEGO on BrickLink](http://thebrickblogger.com/2016/03/starting-out-to-sell-lego-on-bricklink/)
 - [Interview with Justin Ramsden | Brickset: LEGO set guide and database](https://brickset.com/article/20115/interview-with-justin-ramsden)
-- [Clockwork Heart Instructions - more info in comments : lego](https://www.reddit.com/r/lego/comments/46blje/clockwork_heart_instructions_more_info_in_comments/)
-- [Chris McVeigh](https://chrismcveigh.com/cm/welcome.html)
+- [Lego Clockwork Heart Instructions](https://www.reddit.com/r/lego/comments/46blje/clockwork_heart_instructions_more_info_in_comments/)
+- [Chris McVeigh - Lego Designer](https://chrismcveigh.com/cm/welcome.html)
