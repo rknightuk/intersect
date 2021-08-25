@@ -50,7 +50,29 @@ module.exports = function(data) {
     links = [...links, ...extractLinks(c.template.inputContent, c.data.title, c.data.page.url)]
   })
 
-  links = Object.values(links).sort((a,b) => (a.title > b.title) ? 1 : ((b.title > a.title) ? -1 : 0))
+  // sort by length of title. Longer title, probably more descriptive
+  links = Object.values(links).sort((a,b) => (a.title.length < b.title.length) ? 1 : ((b.title.length < a.title.length) ? -1 : 0))
+
+  const beforeLength = links.length
+
+  // remove duplicates, keep the ones with the longest titles
+  const fullLinks = {}
+  links = links.filter(l => {
+    const normalised = (l.href.endsWith('/') ? l.href.slice(0, -1) : l.href)
+      .replace('http://', '')
+      .replace('https://', '')
+
+    if (fullLinks[l.href]) return false
+    fullLinks[l.href] = true
+    return true
+  })
+
+  if (beforeLength !== links.length)
+  {
+    console.log(`[INTERSECT] Removed ${beforeLength - links.length} duplicate links`)
+  }
+
+  links = links.sort((a,b) => (a.title > b.title) ? 1 : ((b.title > a.title) ? -1 : 0))
 
   return {
     charts: countDomains(links),
