@@ -26,3 +26,4 @@ I don't remember who said this on a podcast, but I think about this a lot in rel
 - [Apple's Love of Cameras: Remembering the QuickTake and iSight - YouTube](https://www.youtube.com/watch?v=O9fWMTQv6-Q)
 - [David Darnes | Setups](https://setups.co/posts/david-darnes)
 - [OneOdio Headphones, Studio & DJ & Bluetooth, oneodio.com](https://www.oneodio.com/)
+- [Logitech Base Charging Stand for iPad, iPad Pro, and iPad Air](https://www.logitech.com/en-us/products/ipad-accessories/base-ipad-pro-stand.939-001454.html)

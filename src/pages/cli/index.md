@@ -68,6 +68,12 @@ for FILE in *; do convert $FILE -channel RGB -negate $FILE; done
 qlmanage -p myfile.txt
 ```
 
+## Output to Variable
+
+```bash
+VARIABLE=$(pwd)
+```
+
 ## Related
 
 - [Terminal](/macos/terminal/)

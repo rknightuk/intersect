@@ -6,6 +6,20 @@ title: AppleScript
 
 Find out if an app has AppleScript capabilities open Script Editor then File > Open Dictionary.
 
+Getting the share link for an Apple Music track isn't possible.
+
+## Run Applescript from Terminal
+
+```bash
+osascript -e 'tell application "Music" to artist of current track'
+```
+
+## Get Properties of Item
+
+```bash
+tell application "Music" to get properties of current track
+```
+
 ## Simulate Keypress
 
 ```applescript
@@ -54,6 +68,12 @@ Switch `output` for `input` to do input devices like microphones
 ```applescript
 # number is a percentage, 0 to mute
 set volume input volume 50
+```
+
+## Set Desktop Wallpaper
+
+```applescript
+tell application \"Finder\" to set desktop picture to POSIX file "path/to/file.jpg"
 ```
 
 ## Links

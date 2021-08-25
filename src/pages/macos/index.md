@@ -36,6 +36,14 @@ You can manage your menu bar apps with Bartender. Hide them or show them only in
 
 Put the audio files in `~/Library/Sounds` and they show up in Preferences > Sound > Sound Effects.
 
+## List All URL Schemes
+
+```bash
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -dump URLSchemeBinding
+```
+
+[URL Scheme Alfred workflow](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/url-schemes)
+
 ## Links
 
 - [MacStories](https://www.macstories.net/)
@@ -66,3 +74,4 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [CleanShot X for Mac](https://cleanshot.com/)
 - [Minimalist: Password Manager for iPhone, iPad, Mac, iCloud](https://minimalistpassword.com/)
 - [Custom URL Redirects with Rebrandly and Keyboard Maestro — You're Doing That Wrong](https://doingthatwrong.com/home/rebrndkm)
+- [CleanShot X – Better Screenshots](https://cleanshot.com)

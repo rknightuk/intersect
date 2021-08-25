@@ -28,6 +28,7 @@ I alias this to `gl` which gives a nicer output than standard:
 # limit to 5 commits
 git log -n 5
 ```
+
 ## Interactively Stage Partial Changes
 
 `git add -p` will go through each hunk of changes and allow you to add them ready for commiting.
@@ -73,6 +74,18 @@ e.g. Changing the `origin` remote url
 
 1. Remove the current one `git remote rm origin`
 2. Add the new one with `git remote add origin https://github.com/rknightuk/awesome-repo.git`
+
+## Set Default Branch for Git Init
+
+```bash
+git config --global init.defaultBranch main
+```
+
+## Change Commit Message
+
+```bash
+git commit --amend
+```
 
 ## Links
 
