@@ -26,7 +26,7 @@
 .meta .github-link {
     display: flex;
     position: absolute;
-    right: 20px;
+    right: 0;
     opacity: .5;
 }
 
@@ -100,4 +100,11 @@ nav.toc ul ul {
 mark {
     background-color: yellow;
     color: black;
+}
+
+footer {
+    padding: 10px;
+    border-top: 1px solid var(--light-border-color);
+    text-align: center;
+    font-size: 12px;
 }

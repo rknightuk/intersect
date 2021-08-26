@@ -100,6 +100,7 @@ module.exports = {
       return {
         linkCount: countLinks(md),
         githubLink: `${data.config.githubLink}/blob/main/${inputPath}`,
+        historyLink: `${data.config.githubLink}/commits/main/${inputPath}`,
         parent: getParent(data.page.url, data.page.fileSlug),
         breadcrumbsHTML: breadcrumbPartsHTML.join(CHEVRON),
         breadcrumbs: breadcrumbParts,
