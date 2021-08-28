@@ -2,6 +2,18 @@
 title: SVG
 ---
 
+## Apply Viewbox from an Element
+
+```js
+sourceSVG = document.getElementById('source-svg')
+// get viewbox data
+viewBox = sourceSVG.viewBox.baseVal
+// get existing
+existing = document.getElementById('existing-svg')
+// set viewbox
+existing.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.width} ${viewBox.height}`)
+```
+
 ## Links
 
 - [Using SVG | CSS-Tricks](https://css-tricks.com/using-svg/)
