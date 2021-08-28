@@ -22,3 +22,4 @@ I'm pretty vocal about the fact that I don't really like using iOS or iPadOS for
 - [Apple will require privacy “nutrition labels” from developers starting December 8th - The Verge](https://www.theverge.com/2020/11/5/21551926/apple-privacy-developers-nutrition-labels-app-store-ios-14)
 - [Watchsmith Review: Create Your Own Apple Watch Complications - MacStories](https://www.macstories.net/reviews/watchsmith-review-create-your-own-apple-watch-complications/)
 - [Mela: An Elegant and Innovative Recipe and Cooking App for iPhone, iPad, and Mac - MacStories](https://www.macstories.net/reviews/mela-an-elegant-and-innovative-recipe-and-cooking-app-for-iphone-ipad-and-mac/)
+- [‎Denim - Playlist Cover Maker on the App Store](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420)

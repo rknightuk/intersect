@@ -24,9 +24,26 @@ I alias this to `gl` which gives a nicer output than standard:
 
 ### Limit Commits
 
-```bash
+```git
 # limit to 5 commits
 git log -n 5
+```
+
+### Date Format
+
+```git
+git log --date=iso
+```
+
+### Get Last Modified Date
+
+```git
+git log -1 --format="%ad" -- index.html
+
+# get updated for all files
+git ls-tree -r --name-only HEAD | while read filename; do
+  echo "$(git log -1 --format="%ad" -- $filename) $filename"
+done
 ```
 
 ## Interactively Stage Partial Changes

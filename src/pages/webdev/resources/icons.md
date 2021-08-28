@@ -24,3 +24,7 @@ title: Icons
 - [Evil Icons](https://evil-icons.io/)
 - [Ultra Crisp Vector Line Icons (SVG, PNG, PSD, CSH, EPS, Icon Font and more)](https://linearicons.com/)
 - [Free Line Icons for Designers and Developers - Lineicons](https://lineicons.com/)
+- [Iconset - Free Icons Organizer & Manager for Mac and Windows](https://iconset.io/)
+- [Flag Icons](https://flagicons.lipis.dev/)
+- [Flag Icons](https://yammadev.github.io/flag-icons/)
+- [daviddarnes/mac-cursors: ✛ All cursor icons from OS X, in SVG format](https://github.com/daviddarnes/mac-cursors)

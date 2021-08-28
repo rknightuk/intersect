@@ -28,3 +28,4 @@ Interesting articles and topics that don't fit anywhere else.
 - [Hanke–Henry Permanent Calendar - Wikipedia](https://en.wikipedia.org/wiki/Hanke%E2%80%93Henry_Permanent_Calendar)
 - [Project Folder Structure and Task Management — You're Doing That Wrong](https://doingthatwrong.com/home/foldersandtasks)
 - [Creative 12/24 Hour Time Stamp Chronodex Time Pie Charts for Day Planner Organizer Diary Notebook Stationery store supplies|chart| - AliExpress](https://www.aliexpress.com/item/32691429037.html)
+- [A decade and a half of instability: The history of Google messaging apps | Ars Technica](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/)

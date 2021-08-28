@@ -42,6 +42,10 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -dump URLSchemeBinding
 ```
 
+## Add App to Finder Toolbar
+
+<kbd>command ⌘</kbd> and drag the app to to Finder toolbar to pin it there.
+
 [URL Scheme Alfred workflow](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/url-schemes)
 
 ## Links
