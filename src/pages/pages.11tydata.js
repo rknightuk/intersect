@@ -1,5 +1,5 @@
-const fs = require('fs')
 const markdownLinkExtractor = require('markdown-link-extractor')
+const fs = require('fs')
 
 // https://github.com/philhawksworth/hawksworx.com/blob/8c96ba2541c8fd6fe6f521cdb5e17848c231636c/src/site/_filters/squash.js
 squashContent = function(text) {
@@ -97,6 +97,12 @@ module.exports = {
         breadcrumbPartsHTML = ['<a href="/">Introduction</a>']
       }
 
+      let updated = ''
+      if (data.updated.key)
+      {
+        updated = data.updated.key[data.page.url] || ''
+      }
+
       return {
         linkCount: countLinks(md),
         githubLink: `${data.config.githubLink}/blob/main/${inputPath}`,
@@ -107,7 +113,7 @@ module.exports = {
         parentUrl,
         contentIndex: squashContent(md),
         filePath: `/${inputPath}`,
-        updated: fs.statSync(inputPath).mtime,
+        updated,
       }
     }
   }

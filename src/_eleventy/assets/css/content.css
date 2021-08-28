@@ -98,11 +98,12 @@ nav.toc ul ul {
 }
 
 mark {
-    background-color: yellow;
+    background-color: #fdffa7;
     color: black;
 }
 
 footer {
+    margin-top: 20px;
     padding: 10px;
     border-top: 1px solid var(--light-border-color);
     text-align: center;

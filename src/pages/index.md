@@ -1,5 +1,6 @@
 ---
 title: Introduction
+templateEngineOverride: 'njk,md'
 ---
 
 I'm [Robb Knight](https://rknight.me) and this is ~~my digital garden~~ the Intersect. Everything I know. Mostly.
@@ -57,7 +58,7 @@ The name is a reference to [the government database of intelligence](https://chu
 ## Recently Updated Pages
 
 <ul>
-    {%- for url in updated -%}
-        <li><a href="{{ url }}">{{ collections.pages.pageIndex[url].title }}</a></li>
+    {%- for file in updated.files.splice(0, 10) -%}
+        <li><a href="{{ file.file }}">{{ collections.pages.pageIndex[file.file].title }} <code>{{ file.updated }}</code></a></li>
     {% endfor %}
-<ul>
+</ul>

@@ -1,9 +1,11 @@
 const { AssetCache } = require('@11ty/eleventy-cache-assets')
 const { exec } = require("child_process")
+const glob = require('glob')
 
 module.exports = async function() {
     let asset = new AssetCache('intersect_updated_pages')
     let results = []
+    let updateKeyed = {}
 
     if (asset.isCacheValid('1d')) {
         console.log('[INTERSECT] Loading updated pages from cache')
@@ -11,36 +13,57 @@ module.exports = async function() {
         return results
     }
 
-    getGitLog = function () {
+    getUpdatedForFile = function(filename) {
         return new Promise((resolve, reject) => {
-            exec('git log --name-only --oneline -n 25', (error, stdout, stderr) => {
+            exec(`git log -1 --date=iso --format="%ad" -- ${filename}`, (error, stdout, stderr) => {
                 if (error) {
                     reject(error)
                     return
-                }
+                }                    
                 resolve(stdout)
             })
         })
     }
 
-    results = (await getGitLog()).split('\n').filter(l => {
-        return l.startsWith('src/pages') && l.includes('.md')
-    }).map(l => {
-        let path = l.replace('src/pages', '')
-            .replace('index.md', '')
-            .split('/')
-            .filter(p => {
-                return !p.includes('.md')
+    getFileList = function() {
+        return new Promise((resolve, reject) => {
+            glob('src/pages/**/*.md', (error, files) => {
+                if (error) {
+                    reject(error)
+                    return
+                }
+                resolve(files)
             })
-            .join('/')
+        })
+    }
 
-        return path.endsWith('/') ? path : `${path}/`
-    })
+    fileList = (await getFileList())
 
-    results = [...new Set(results)].splice(0, 10)
+    for (let index = 0; index < fileList.length; index++) {
+        const file = fileList[index]
+        const updated = (await getUpdatedForFile(file)).split(' ')[0]
+        const fileData = {
+            file: file
+                .split('\n')[0]
+                .replace('src/pages', '')
+                .replace('index.md', '')
+                .replace('.md', '/'),
+            updated,
+        }
+
+        results.push(fileData)
+        updateKeyed[fileData.file] = updated
+    }
+
+    results = results.sort((a,b) => (a.updated < b.updated) ? 1 : ((b.updated < a.updated) ? -1 : 0))
+
+    const data = {
+        files: results,
+        key: updateKeyed,
+    }
 
     console.log('[INTERSECT] Loading updated pages from git log')
-    await asset.save(results, "json")
+    await asset.save(data, "json")
 
-    return results
+    return data
 }
