@@ -149,6 +149,12 @@ title: ${heading}
 })
 ```
 
+## Set xlink:href of Element
+
+```js
+element.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', value)
+```
+
 ## Caching
 
 Simple caching technique I used before I'd read the docs for the [Eleventy Cache Assets plugin](https://www.11ty.dev/docs/plugins/cache/). Alway read the docs first.
@@ -194,3 +200,4 @@ return {
 - [Debugging—Eleventy, a simpler static site generator.](https://www.11ty.dev/docs/debugging/)
 - [David K. 🎹 on Twitter: "🔢 Quick tip: if you're sorting an array in JS and keep forgetting how to write the compare functions (like I do), here's a mnemonic device: (a, z) =&gt; a - z // ascending, like "a to z" (a, z) =&gt; z - a // descending, like "z to a" Hope this helps someone! https://t.co/swrOZewOMC" / Twitter](https://twitter.com/DavidKPiano/status/1292237580780605440)
 - [peerigon/parse-domain: Splits a hostname into subdomains, domain and (effective) top-level domains.](https://github.com/peerigon/parse-domain)
+- [FileReader.readAsDataURL() - Web APIs | MDN - image to base64](https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL)

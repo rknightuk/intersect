@@ -2,6 +2,12 @@
 title: Resources
 ---
 
+## Tweet Intent URL
+
+```html
+https://twitter.com/intent/tweet?text=Something&url=https://example.com
+```
+
 ## Related
 
 - [CSS page](/webdev/css/)
@@ -42,3 +48,4 @@ title: Resources
 - [Home - Snipe-IT Free open source IT asset management](https://snipeitapp.com/)
 - [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 - [ImageOptim — better Save for Web](https://imageoptim.com/mac)
+- [Making a Simple Site Work Offline with ServiceWorker | CSS-Tricks](https://css-tricks.com/serviceworker-for-offline/)
