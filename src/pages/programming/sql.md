@@ -1,7 +1,6 @@
 ---
-Title: SQL
+title: SQL
 ---
-
 
 ## Update Rows in Table
 
