@@ -30,6 +30,8 @@ Notes, Reminders, Mail and Safari are all my defaults for those tasks.
 
 [xbar](https://xbarapp.com) (formally BitBar) "_lets you put the output from any script/program in your macOS menu bar._". I have two plugins: microphone mute and now playing. [View my xbar plugins on Github](https://github.com/rknightuk/xbar-plugins).
 
+[CleanShot X](https://cleanshot.com) for screenshots, screen recording, and annotation.
+
 You can manage your menu bar apps with Bartender. Hide them or show them only in specific circumstances. Useful if you have a lot of menu bar apps.
 
 ## Adding Custom Alert Sounds
