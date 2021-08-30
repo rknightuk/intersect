@@ -2,7 +2,7 @@
 title: Social Media
 ---
 
-I use [Twitter](https://twitter.com/rknightuk) to shit post and [tell David Darnes when he's done a good tweet](https://twitter.com/rknightuk/status/1318880017280098304). I don't follow news accounts and I follow very few brands.
+I use [Twitter](https://twitter.com/rknightuk) to shit post and [tell David Darnes when he's done a good tweet](https://twitter.com/rknightuk/status/1318880017280098304). I don't follow news accounts and I follow very few brands. I use [Tweetbot](https://tapbots.com/tweetbot) on the Mac and iOS.
 
 I have [Facebook](https://facebook.com) but I really only use it for selling stuff on Marketplace. I know I should close my account, but it's really useful being able to get rid of my old stuff quickly.
 
@@ -17,3 +17,5 @@ I have [Facebook](https://facebook.com) but I really only use it for selling stu
 - [Perfect Twitter Screenshots - TweetPik](https://tweetpik.com/)
 - [Typefully - Twitter Threads Maker & Analytics](https://typefully.app/)
 - [Ben Rice McCarthy–A Glass of Ice Water in Hell](https://www.benricemccarthy.com/blog/2021/8/11/a-glass-of-ice-water-in-hell?utm_source=pocket_mylist)
+- [Mutebot - filters for Tweetbot](https://urre.github.io/mutebot/)
+- [Micro.blog](https://micro.blog/)

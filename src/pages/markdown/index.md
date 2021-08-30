@@ -29,3 +29,5 @@ Strikethrough on Github is one _or_ two tildes, but the [Github Flavored Markdow
 - [nvUltra - Searchable, portable, MultiMarkdown notes](https://nvultra.com/)
 - [Notable - The Markdown-based note-taking app that doesn't suck](https://notable.app/#download)
 - [Simple Markdown Parser with JavaScript and Regular Expressions | BigOmega](https://www.bigomega.dev/markdown-parser)
+- [Mark Text - Markdown Editor](https://marktext.app/)
+- [A Markdown Editor for the 21st Century | Zettlr](https://www.zettlr.com/)

@@ -28,3 +28,4 @@ Either of these will usually be deployed with [Laravel Forge](https://forge.lara
 - [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)
 - [Ray.so - Create beautiful images of your code](https://ray.so/)
 - [Link Preview API Service | Peekalink](https://www.peekalink.io/)
+- [next.js/examples/with-mysql at canary · vercel/next.js](https://github.com/vercel/next.js/tree/canary/examples/with-mysql)

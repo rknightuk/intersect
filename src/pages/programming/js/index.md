@@ -201,3 +201,5 @@ return {
 - [David K. 🎹 on Twitter: "🔢 Quick tip: if you're sorting an array in JS and keep forgetting how to write the compare functions (like I do), here's a mnemonic device: (a, z) =&gt; a - z // ascending, like "a to z" (a, z) =&gt; z - a // descending, like "z to a" Hope this helps someone! https://t.co/swrOZewOMC" / Twitter](https://twitter.com/DavidKPiano/status/1292237580780605440)
 - [peerigon/parse-domain: Splits a hostname into subdomains, domain and (effective) top-level domains.](https://github.com/peerigon/parse-domain)
 - [FileReader.readAsDataURL() - Web APIs | MDN - image to base64](https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL)
+- [getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS)
+- [Reef - A lightweight library for creating reactive, state-based UI](https://reefjs.com/)

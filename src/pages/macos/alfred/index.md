@@ -55,3 +55,4 @@ Examples:
 - [Alfred Universal Actions](https://www.alfredapp.com/universal-actions/)
 - [Alfred snippet expansion not working](https://github.com/VSCodeVim/Vim/issues/2845#issuecomment-456869199)
 - [Raycast launcher](https://www.raycast.com/)
+- [Light & Dark theme according to system settings - Discussion & Help - Alfred App Community Forum](https://www.alfredforum.com/topic/16360-light-dark-theme-according-to-system-settings/)

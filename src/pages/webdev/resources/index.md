@@ -49,3 +49,4 @@ https://twitter.com/intent/tweet?text=Something&url=https://example.com
 - [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
 - [ImageOptim — better Save for Web](https://imageoptim.com/mac)
 - [Making a Simple Site Work Offline with ServiceWorker | CSS-Tricks](https://css-tricks.com/serviceworker-for-offline/)
+- [GoogleChromeLabs/dark-mode-toggle: A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:](https://github.com/GoogleChromeLabs/dark-mode-toggle)

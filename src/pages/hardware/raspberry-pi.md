@@ -19,3 +19,4 @@ I have a couple of Raspberry Pis around. My only successful, and lasting, projec
 - [Five Best Raspberry Pi Cases](https://lifehacker.com/five-best-raspberry-pi-cases-1574306176)
 - [Mount a Raspberry Pi-Powered Google Calendar On Your Wall](https://lifehacker.com/mount-a-raspberry-pi-powered-google-calendar-on-your-wa-1484219113)
 - [I designed and printed a working Simpsons TV. Plays the first 11 seasons at random without internet. Knobs work too! : 3Dprinting](https://www.reddit.com/r/3Dprinting/comments/p9lasb/i_designed_and_printed_a_working_simpsons_tv/h9yj3c3/)
+- [Stream-Pi Home - StreamDeck alternative](https://stream-pi.com/)

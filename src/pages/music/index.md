@@ -54,3 +54,4 @@ You can do this with a smart playlist (Rule: "Loved is Loved") but songs will on
 - [Some Disney Star Remade "Genie In A Bottle" And It's...Something](https://www.buzzfeed.com/mjs538/these-kids-werent-even-born)
 - [How does Shazam work | Coding Geek](http://coding-geek.com/how-shazam-works/)
 - ["Baby Got Back:" Sir Mix-A-Lot with the Seattle Symphony - YouTube](https://www.youtube.com/watch?v=w59e20ijOpE)
+- [(489) Foo Fighters "Everlong" w/ 11-Year-Old Nandi Bushell, The Forum, Los Angeles, 8.26.21 - YouTube](https://www.youtube.com/watch)
