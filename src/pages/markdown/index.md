@@ -31,3 +31,4 @@ Strikethrough on Github is one _or_ two tildes, but the [Github Flavored Markdow
 - [Simple Markdown Parser with JavaScript and Regular Expressions | BigOmega](https://www.bigomega.dev/markdown-parser)
 - [Mark Text - Markdown Editor](https://marktext.app/)
 - [A Markdown Editor for the 21st Century | Zettlr](https://www.zettlr.com/)
+- [Nota — Pro writing app designed for local Markdown files.](https://nota.md/)
