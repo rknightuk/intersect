@@ -81,3 +81,4 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [Minimalist: Password Manager for iPhone, iPad, Mac, iCloud](https://minimalistpassword.com/)
 - [Custom URL Redirects with Rebrandly and Keyboard Maestro — You're Doing That Wrong](https://doingthatwrong.com/home/rebrndkm)
 - [CleanShot X – Better Screenshots](https://cleanshot.com)
+- [ianyh/Amethyst: Automatic tiling window manager for macOS à la xmonad.](https://github.com/ianyh/Amethyst)
