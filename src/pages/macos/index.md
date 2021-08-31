@@ -109,3 +109,4 @@ WHERE
 - [ianyh/Amethyst: Automatic tiling window manager for macOS à la xmonad.](https://github.com/ianyh/Amethyst)
 - [How to Set up Time Machine Server – 512 Pixels](https://512pixels.net/2018/08/how-to-set-up-time-machine-server/)
 - [1Piece - Multifunctional App for Mac](https://app1piece.com/)
+- [Unite for macOS - Single Site Browser](https://www.bzgapps.com/unite)
