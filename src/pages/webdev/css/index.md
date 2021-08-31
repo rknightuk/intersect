@@ -71,3 +71,5 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [Glide CSS — A tiny component-first CSS framework for Sass](https://glidecss.com/)
 - [PurgeCSS - Remove unused CSS](https://purgecss.com/#sponsors-%F0%9F%A5%B0)
 - [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
+- [The future of CSS: Nesting Selectors – Bram.us](https://www.bram.us/2019/03/17/the-future-of-css-nesting-selectors/)
+- [CSS Nesting Module](https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/)
