@@ -50,3 +50,4 @@ https://twitter.com/intent/tweet?text=Something&url=https://example.com
 - [ImageOptim — better Save for Web](https://imageoptim.com/mac)
 - [Making a Simple Site Work Offline with ServiceWorker | CSS-Tricks](https://css-tricks.com/serviceworker-for-offline/)
 - [GoogleChromeLabs/dark-mode-toggle: A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:](https://github.com/GoogleChromeLabs/dark-mode-toggle)
+- [marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.](https://github.com/marceloprates/prettymaps)
