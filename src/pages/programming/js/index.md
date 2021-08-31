@@ -203,3 +203,5 @@ return {
 - [FileReader.readAsDataURL() - Web APIs | MDN - image to base64](https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL)
 - [getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS)
 - [Reef - A lightweight library for creating reactive, state-based UI](https://reefjs.com/)
+- [Monaco Editor - VSCode editor library](https://microsoft.github.io/monaco-editor/)
+- [Monaco Editor in Laravel Livewire | Günther Debrauwer](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/)
