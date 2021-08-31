@@ -47,3 +47,4 @@ For everything else pre-PS1/N64, I use [RetroPie](https://retropie.org.uk/).
 - [Joel Burgess on Twitter: "Alright, so inspired by @NPurkeypile's bee post yesterday, here is one of my favorite bits of Skyrim oral history - the myth of the treasure fox. I've told this story before in talks/etc, but I don't think I've shared it with twitter. Here goes. https://t.co/7uaUlbpmQ8" / Twitter](https://twitter.com/JoelBurgess/status/1428008041887281157)
 - [Delta Emulator for iOS](https://deltaemulator.com/)
 - [GG| - Video Game Collection Tracker](https://ggapp.io/)
+- [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
