@@ -44,31 +44,6 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -dump URLSchemeBinding
 ```
 
-## Apple Notes Database
-
-```bash
-/Users/USER/Library/Group\ Containers/group.com.apple.notes/
-```
-
-Query for titles:
-
-```sql
-SELECT
-    t1.ztitle1,
-    t1.zfolder,
-    t1.zmodificationdate1,
-    t1.z_pk,
-    t1.znotedata,
-    t2.zdata,
-    t2.z_pk
-FROM
-    ziccloudsyncingobject AS t1
-    INNER JOIN zicnotedata AS t2 ON t1.znotedata = t2.z_pk
-WHERE
-    t1.ztitle1 IS NOT NULL
-    AND t1.zmarkedfordeletion IS NOT 1
-```
-
 ## Add App to Finder Toolbar
 
 <kbd>command ⌘</kbd> and drag the app to to Finder toolbar to pin it there.
