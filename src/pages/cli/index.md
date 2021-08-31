@@ -90,4 +90,4 @@ VARIABLE=$(pwd)
 - [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 - [cURL to fetch](https://kigiri.github.io/fetch/)
 - [Planter - indented text files to folders](https://brettterpstra.com/projects/planter/)
-
+- [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)

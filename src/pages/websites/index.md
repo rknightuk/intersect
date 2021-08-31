@@ -40,3 +40,4 @@ Websites that are useful (or just fun) but don't fit into any of the other categ
 - [How I Experience the Web Today](https://how-i-experience-web-today.com/detail.html)
 - [Convertio — File Converter](https://convertio.co/)
 - [JSPaint - MSPaint Clone](https://jspaint.app/#local:a63944244c7d3)
+- [Ready Player Me – Metaverse Full-Body 3D Avatar Creator](https://readyplayer.me/)
