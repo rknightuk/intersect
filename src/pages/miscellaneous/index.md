@@ -4,6 +4,10 @@ title: Miscellaneous
 
 Interesting articles and topics that don't fit anywhere else.
 
+[This Hacker News comment about Dropbox when it launched](https://news.ycombinator.com/item?id=9224) is so ridiculous:
+
+> For a Linux user, you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem. From Windows or Mac, this FTP account could be accessed through built-in software.
+
 ## Links
 
 - [Being Productive](https://www.firesofmay.com/productivity-tips-tricks-tools/)
