@@ -57,3 +57,4 @@ Always pay them off in full.
 - [London's black cab drivers are considering a legal challenge against accepting card payments - CityAM : CityAM](https://www.cityam.com/londons-black-cab-drivers-considering-legal-challenge/)
 - [How to explain offshore banking (and when it is naughty) to a five year old | World news | The Guardian](https://www.theguardian.com/world/2016/apr/05/how-to-explain-offshore-banking-and-when-it-is-naughty-to-a-5-year-old)
 - [First impressions of Mondo, the full stack smart bank | by Rhys Merritt | Medium](https://medium.com/@rhysmerritt/first-impressions-of-mondo-the-full-stack-smart-bank-10ca8c36d7be)
+- [The Unofficial OpenBudget User Guide | Devon Michael Dundee](https://devondundee.com/blog/the-unofficial-openbudget-user-guide)

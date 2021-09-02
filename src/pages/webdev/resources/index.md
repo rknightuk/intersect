@@ -23,6 +23,7 @@ https://twitter.com/intent/tweet?text=Something&url=https://example.com
 
 - [PersonalSit.es | Yes we got hot and fresh sites](https://personalsit.es/)
 - [Design Vault – UI patterns & design inspiration from real products](https://designvault.io/)
+- [Godly Website — The Most Godlike Web Design Inspiration](https://godly.website/)
 
 ## Color Reference
 

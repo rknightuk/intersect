@@ -34,7 +34,7 @@ You can do this with a smart playlist (Rule: "Loved is Loved") but songs will on
 
 ## Links
 
-- [Soundiiz](https://soundiiz.com/tutorial/apple-music-to-spotify) - Move playlists from Spotify to Apple Music
+- [Soundiiz - Move playlists from Spotify to Apple Music](https://soundiiz.com/tutorial/apple-music-to-spotify)
 - [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - A third party Apple Music client for Mac
 - [Doppler](https://brushedtype.co/doppler/) - A music app for Mac and iOS for "_people who buy music_"
 - [MusicThread](https://musicthread.app) - A place to share the music you love
