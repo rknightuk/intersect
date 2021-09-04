@@ -47,13 +47,13 @@ myArray.joined(separator: ", ")
 
 ### Filter
 
-```
+```swift
 let filtered = myArray.filter { $0.count > 1 }
 ```
 
 ### Iterate
 
-```
+```swift
 for element in elements {
     print(element)
 }
