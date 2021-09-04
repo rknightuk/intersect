@@ -10,3 +10,4 @@ title: Browsers
 - [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/)
 - [Polypane, The browser for ambitious developers](https://polypane.app/)
 - [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/)
+- [The Browser Company](https://thebrowser.company/)
