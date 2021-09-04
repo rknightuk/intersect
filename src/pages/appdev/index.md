@@ -1,0 +1,92 @@
+---
+title: App Development
+---
+
+Lots of random notes from building an app. See also [SwiftUI notes](/programming/swift/swiftui/).
+
+## Make  a Release in Xcode
+
+`Product > Archive`
+
+## User Settings with UserDefaults
+
+```swift
+var userDefaults = UserDefaults.standard
+
+// set default values
+userDefaults.register(
+    defaults: [
+        "enabled": true
+    ]
+)
+
+// get value
+UserDefaults.standard.bool(forKey: "enabled")
+
+// set value
+UserDefaults.standard.set(false, forKey: "enabled")
+```
+
+## Open a SwiftUI View in Window
+
+```swift
+// AboutScreenController.swift
+import Cocoa
+
+class AboutScreenController: NSWindowController, NSWindowDelegate {
+    override func windowDidLoad() {
+        super.windowDidLoad()
+    }
+}
+
+// AppDelegate.swift
+let windowController = AboutScreenController(
+    window: NSWindow(
+        contentRect: NSRect(x: NSScreen.main!.frame.width/2, y: NSScreen.main!.frame.height/2, width: 300, height: 200),
+        styleMask: [.titled, .closable, .miniaturizable, .resizable, .fullSizeContentView],
+        backing: .buffered, defer: false
+    )
+)
+
+let aboutView = AboutView()
+            
+windowController.window?.delegate = windowController
+windowController.window?.title = "TrackerZapper"
+windowController.window?.contentView = NSHostingView(rootView: aboutView)
+windowController.window?.makeKeyAndOrderFront(nil)
+NSApp.activate(ignoringOtherApps: true)
+
+// AboutView.swift
+import SwiftUI
+import Cocoa
+
+struct AboutView: View {
+    var body: some View {
+        VStack(alignment: .center) {
+            Text("This is a window")
+        }
+        .frame(width: 200, alignment: .top)
+        .padding()
+    }
+}
+```
+
+## Show About Window
+
+```swift
+// default
+NSApplication.shared.orderFrontStandardAboutPanel()
+
+// with options
+NSApplication.shared.orderFrontStandardAboutPanel(
+    options: [
+        NSApplication.AboutPanelOptionKey(rawValue: "Copyright"): "© 2021 Robb Knight"]
+)
+```
+
+## Links
+
+- [NSApplication.AboutPanelOptionKey - Keys to include in the options dictionary when displaying an About panel.](https://developer.apple.com/documentation/appkit/nsapplication/aboutpaneloptionkey)
+- [LostMoa - Customise About Panel on macOS in SwiftUI](https://lostmoa.com/blog/CustomiseAboutPanelOnMacOSInSwiftUI/)
+- [Preparing Your App for Distribution | Apple Developer Documentation](https://developer.apple.com/documentation/xcode/preparing-your-app-for-distribution)
+- [Add more information to default "About Panel" in Mac OSX with Credits.rtf](http://www.valentinourbano.com/add-more-informations-to-default-about-panel-in-mac-osx.html)

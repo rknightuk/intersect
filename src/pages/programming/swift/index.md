@@ -22,10 +22,19 @@ str.replacingOccurrences(of: "this", with: "that")
 myString.components(separatedBy: " ")
 ```
 
-### Starts With
+### Includes
 
 ```swift
+let myString = "something cool"
+// starts with
 myString.starts(with: "something")
+
+// contains
+myString.contains(with: "something")
+
+// get first or last
+myString.prefix(2) // "so"
+myString.suffix(2) // "ol"
 ```
 
 ## Arrays
