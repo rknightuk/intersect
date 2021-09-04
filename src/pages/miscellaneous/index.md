@@ -10,6 +10,7 @@ Interesting articles and topics that don't fit anywhere else.
 
 ## Links
 
+- [Josh Gray 🌵 on Twitter: "@Garrett_Archer Everything looks like a conspiracy if you don't know how anything works." / Twitter](https://twitter.com/jpgftw/status/1433810574366838788)
 - [Being Productive](https://www.firesofmay.com/productivity-tips-tricks-tools/)
 - [They and Me — No Octothorpe](https://www.nooctothorpe.com/blog/2021/7/14/they-and-me)
 - [On The Experience of Being Poor-ish, For People Who Aren't - by Resident Contrarian](https://residentcontrarian.substack.com/p/on-the-experience-of-being-poor-ish)
