@@ -85,3 +85,5 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [How to Set up Time Machine Server – 512 Pixels](https://512pixels.net/2018/08/how-to-set-up-time-machine-server/)
 - [1Piece - Multifunctional App for Mac](https://app1piece.com/)
 - [Unite for macOS - Single Site Browser](https://www.bzgapps.com/unite)
+- [Sleeve — Now playing on your Desktop](https://replay.software/sleeve)
+- [Maccy - macOS clipboard manager](https://maccy.app/)

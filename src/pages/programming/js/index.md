@@ -206,3 +206,4 @@ return {
 - [Monaco Editor - VSCode editor library](https://microsoft.github.io/monaco-editor/)
 - [Monaco Editor in Laravel Livewire | Günther Debrauwer](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/)
 - [EyeDropper/color picker API](https://wicg.github.io/eyedropper-api/)
+- [a11y-dialog lightweight dialog/modal library](https://a11y-dialog.netlify.app/)

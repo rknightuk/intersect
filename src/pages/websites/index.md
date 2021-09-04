@@ -41,3 +41,5 @@ Websites that are useful (or just fun) but don't fit into any of the other categ
 - [Convertio — File Converter](https://convertio.co/)
 - [JSPaint - MSPaint Clone](https://jspaint.app/#local:a63944244c7d3)
 - [Ready Player Me – Metaverse Full-Body 3D Avatar Creator](https://readyplayer.me/)
+- [Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop](https://pushover.net/)
+- [Make rounded corner image online (no upload) - Free tool](https://round-corner.imageonline.co/)
