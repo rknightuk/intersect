@@ -11,7 +11,7 @@
 .search-modal {
     display: none;
     border: 1px solid var(--light-border-color);
-    background: #fff;
+    background: var(--background-color);
     -webkit-box-shadow: 0 3px 10px rgb(0 0 0 / 60%);
     box-shadow: 0 3px 10px rgb(0 0 0 / 60%);
     position: absolute;

@@ -4,5 +4,17 @@
   --grey-background: #F5F7F9;
   --light-border-color: #eaecef;
   --text-color:  #24292e;
+  --dark-text-color:  #24292e;
   --text-light-color: #707070;
+  --background-color: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1D2127;
+    --grey-background: #2E333A;
+    --light-border-color: #6a6a6a;
+    --text-color:  #AFBAC6;
+    --text-light-color: #AFBAC6;
+  }
 }

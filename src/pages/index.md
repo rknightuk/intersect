@@ -59,6 +59,6 @@ The name is a reference to [the government database of intelligence](https://chu
 
 <ul>
     {%- for file in updated.files.splice(0, 10) -%}
-        <li><a href="{{ file.file }}">{{ collections.pages.pageIndex[file.file].title }} <code>{{ file.updated }}</code></a></li>
+        <li><a href="{{ file.file }}">{{ collections.pages.pageIndex[file.file].title }}</a> <code>{{ file.updated }}</code></li>
     {% endfor %}
 </ul>
