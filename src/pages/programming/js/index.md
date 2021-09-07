@@ -5,6 +5,14 @@ title: Javascript
 ## Notes
 
 - `KeyboardEvent.keycode` is deprecated, [use `KeyboardEvent.key` instead](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key)
+## Return Item at Index with `at()`
+
+```js
+const array = ['one', 'two', 'three']
+array.at(1) // two
+```
+
+[Array.prototype.at() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at)
 
 ## Sorting an Array
 
