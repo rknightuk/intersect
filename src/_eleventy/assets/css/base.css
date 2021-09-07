@@ -79,10 +79,16 @@ body {
     padding: 10px;
     opacity: .5;
     display: flex;
+    color: var(--text-color);
 }
 
 .nav-trigger:hover {
     opacity: 1;
+}
+
+.nav-trigger svg {
+    width: 30px;
+    height: 30px;
 }
 
 .sidebar ul:first-child {

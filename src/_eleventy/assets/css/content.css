@@ -28,13 +28,14 @@
     position: absolute;
     right: 0;
     opacity: .5;
+    fill: var(--text-color);
 }
 
 .meta .github-link:hover {
     opacity: 1;
 }
 
-.meta .github-link img {
+.meta .github-link svg {
     width: 15px;
     height: 15px;
 }
@@ -88,7 +89,7 @@ nav.toc ul ul {
     cursor: pointer;
 }
 
-.toc-toggler img {
+.toc-toggler svg {
     width: 20px;
     height: 20px;
 }

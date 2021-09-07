@@ -48,7 +48,7 @@
         const body = document.getElementsByTagName('body')[0]
         const darkModeActivated = body.className.includes('dark')
         if (!body.className.includes('dark') && !body.className.includes('light')) {
-            body.className = body.className += ('dark')
+            body.className = body.className += (' dark')
             return
         }
         if (darkModeActivated) {

@@ -13,7 +13,7 @@
 .dark {
   --background-color: #1D2127;
   --grey-background: #2E333A;
-  --light-border-color: #6a6a6a;
+  --light-border-color: #3e3e3e;
   --text-color:  #AFBAC6;
   --text-light-color: #AFBAC6;
 }
@@ -22,7 +22,7 @@
   :root {
     --background-color: #1D2127;
     --grey-background: #2E333A;
-    --light-border-color: #6a6a6a;
+    --light-border-color: #3e3e3e;
     --text-color:  #AFBAC6;
     --text-light-color: #AFBAC6;
   }

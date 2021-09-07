@@ -75,7 +75,7 @@ module.exports = {
       let pageIndex = data.collections.pages.pageIndex
       let breadcrumbPartsHTML = []
       let breadcrumbParts = []
-      const CHEVRON = '<img class="breadcrumb-divider" src="/assets/img/icons/chevron-right.svg">'
+      const CHEVRON = '<svg class="breadcrumb-divider"><use xlink:href="#chevron-right"></use></svg>'
       if (pageIndex) {
         let parts = data.page.url.split('/').filter(u => u)
 
