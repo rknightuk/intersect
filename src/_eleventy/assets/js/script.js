@@ -42,4 +42,20 @@
         }
     })
 
+    // toggle theme
+    document.getElementById('theme-trigger').addEventListener('click', function (e) {
+        e.preventDefault()
+        const body = document.getElementsByTagName('body')[0]
+        const darkModeActivated = body.className.includes('dark')
+        if (!body.className.includes('dark') && !body.className.includes('light')) {
+            body.className = body.className += ('dark')
+            return
+        }
+        if (darkModeActivated) {
+            body.className = body.className.replace('dark', 'light')
+        } else {
+            body.className = body.className.replace('light', 'dark')
+        }
+    })
+
 }(this, this.document));
