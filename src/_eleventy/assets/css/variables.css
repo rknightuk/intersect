@@ -7,6 +7,7 @@
   --dark-text-color:  #24292e;
   --text-light-color: #707070;
   --background-color: #ffffff;
+  --code-background: #EFF1F3;
 }
 
 /** dark mode **/
@@ -16,6 +17,7 @@
   --light-border-color: #3e3e3e;
   --text-color:  #AFBAC6;
   --text-light-color: #AFBAC6;
+  --code-background: #3C434D;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,6 +27,7 @@
     --light-border-color: #3e3e3e;
     --text-color:  #AFBAC6;
     --text-light-color: #AFBAC6;
+    --code-background: #3C434D;
   }
 }
 
@@ -37,4 +40,5 @@
   --dark-text-color:  #24292e;
   --text-light-color: #707070;
   --background-color: #ffffff;
+  --code-background: #EFF1F3;
 }

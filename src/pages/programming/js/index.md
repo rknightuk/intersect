@@ -155,6 +155,15 @@ title: ${heading}
 element.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', value)
 ```
 
+## Detect Dark Mode
+
+```js
+// returns boolean
+window.matchMedia('(prefers-color-scheme: dark)').matches
+window.matchMedia('(prefers-color-scheme: light)').matches
+window.matchMedia('(prefers-color-scheme: no-preference)').matches
+```
+
 ## Caching
 
 Simple caching technique I used before I'd read the docs for the [Eleventy Cache Assets plugin](https://www.11ty.dev/docs/plugins/cache/). Alway read the docs first.

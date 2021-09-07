@@ -157,7 +157,7 @@
   overflow: hidden;
   background: transparent;
   border: 0;
-  border-bottom: 1px solid #dfe2e5;
+  border-bottom: 1px solid var(--light-border-color);
 }
 
 .markdown-body hr:after,
@@ -642,7 +642,7 @@
 .markdown-body blockquote {
   padding: 0 1em;
   color: #6a737d;
-  border-left: .25em solid #dfe2e5;
+  border-left: .25em solid var(--light-border-color);
 }
 
 .markdown-body blockquote>:first-child {
@@ -751,16 +751,16 @@
 .markdown-body table td,
 .markdown-body table th {
   padding: 6px 13px;
-  border: 1px solid #dfe2e5;
+  border: 1px solid var(--light-border-color);
 }
 
 .markdown-body table tr {
-  background-color: #fff;
+  background-color: var(--background-color);
   border-top: 1px solid #c6cbd1;
 }
 
 .markdown-body table tr:nth-child(2n) {
-  background-color: #f6f8fa;
+  background-color: var(--grey-background);
 }
 
 .markdown-body img {
@@ -777,10 +777,10 @@
 }
 
 .markdown-body code {
-  padding: .2em .4em;
+  padding: .1em .2em;
   margin: 0;
   font-size: 85%;
-  background-color: rgba(27,31,35,.05);
+  background-color: var(--code-background);
   border-radius: 3px;
 }
 

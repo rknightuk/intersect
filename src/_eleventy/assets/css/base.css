@@ -18,9 +18,9 @@ body {
 }
 
 .sidebar {
-    margin-left: -275px;
+    margin-left: -300px;
     transition: margin 0.25s ease-out;
-    width: 275px;
+    width: 300px;
     background: var(--grey-background);
     border-right: 1px solid var(--light-border-color);
 }
@@ -40,7 +40,7 @@ body {
     }
 
     .sidebar-toggled .sidebar {
-        margin-left: -275px;
+        margin-left: -300px;
         height: 100vh;
     }
 
@@ -71,6 +71,12 @@ body {
 .toolbar__block.center {
     align-items: center;
     justify-content: center;
+}
+
+.toolbar__block.center svg {
+    width: 30px;
+    height: 30px;
+    color: var(--primary-color);
 }
 
 .toolbar__block.right {}
@@ -105,7 +111,7 @@ body {
 
 .sidebar li {
     list-style-type: none;
-    font-size: 14px;
+    font-size: 16px;
     position: relative;
 }
 
@@ -139,17 +145,25 @@ body {
     right: 15px;
 }
 
-.sidebar .toggler:after {
-    display: block;
-    content: ' ';
-    background-image: url('/assets/img/icons/chevron-right.svg');
-    background-size: 20px 20px;
-    height: 20px;
+.sidebar .toggler svg {
     width: 20px;
+    height: 20px;
 }
 
-.sidebar li.open .toggler:after {
-    background-image: url('/assets/img/icons/chevron-down.svg');
+.toggler .toggler-open {
+    display: none;
+}
+
+.toggler .toggler-closed {
+    display: block;
+}
+
+.open .toggler .toggler-open {
+    display: block;
+}
+
+.open .toggler .toggler-closed {
+    display: none;
 }
 
 .sidebar .toggler:hover {

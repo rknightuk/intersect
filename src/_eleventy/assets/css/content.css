@@ -16,7 +16,7 @@
     position: relative;
     padding: 5px 0;
     margin-top: -17px;
-    font-size: 14px;
+    font-size: 16px;
     display: flex;
     align-items: center;
     margin-bottom: 15px;
@@ -36,8 +36,8 @@
 }
 
 .meta .github-link svg {
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
 }
 
 .meta .breadcrumb {
@@ -54,7 +54,7 @@
 /* TOC */
 
 nav.toc {
-    font-size: 14px;
+    font-size: 16px;
     background: var(--grey-background);
     padding: 10px 0;
     border: 1px solid var(--light-border-color);
@@ -90,8 +90,8 @@ nav.toc ul ul {
 }
 
 .toc-toggler svg {
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 }
 
 .toc-toggler:hover nav.toc {

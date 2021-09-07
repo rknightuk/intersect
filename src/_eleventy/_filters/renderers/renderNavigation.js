@@ -19,7 +19,7 @@ module.exports = function(data) {
 				href="${page.url}"
 			>
 				${page.title}
-			</a> ${page.children && page.children.length && isTopLevel ? '<div class="toggler"></div>' : ''}
+			</a> ${page.children && page.children.length && isTopLevel ? '<div class="toggler"><svg class="toggler-closed"><use xlink:href="#chevron-right"></use></svg><svg class="toggler-open"><use xlink:href="#chevron-down"></use></svg></div>' : ''}
 			${page.children && page.children.length ? `<ul>${page.children.map(c => renderNavListItem(c)).join('')}</ul>` : ''}
 		</li>
 		`

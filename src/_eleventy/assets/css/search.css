@@ -49,6 +49,7 @@
     border: none;
     border-bottom: 1px solid var(--light-border-color);
     padding: 10px 0;
+    color: var(--text-color);
 }
 
 .modal-search-input:focus {
@@ -95,7 +96,7 @@
     outline: none;
 }
 
-.modal-search-result img {
+.modal-search-result svg {
     width: 15px;
     height: 15px;
 }
@@ -127,4 +128,10 @@
 
 .showAlert .modal-search-alert {
     display: block;
+}
+
+.no-results {
+    color: var(--text-color);
+    width: 30px;
+    height: 30px;
 }

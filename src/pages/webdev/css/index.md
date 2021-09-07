@@ -24,6 +24,10 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 :root {
   --primary-color: #db0a5b;
 }
+
+.something {
+  --primary-color: #db0a5b;
+}
 ```
 
 ## Dark Mode
@@ -74,3 +78,4 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [The future of CSS: Nesting Selectors – Bram.us](https://www.bram.us/2019/03/17/the-future-of-css-nesting-selectors/)
 - [CSS Nesting Module](https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/)
 - [How to Create Neon Text With CSS | CSS-Tricks](https://css-tricks.com/how-to-create-neon-text-with-css/)
+- [A Complete Guide to Custom Properties | CSS-Tricks](https://css-tricks.com/a-complete-guide-to-custom-properties/)

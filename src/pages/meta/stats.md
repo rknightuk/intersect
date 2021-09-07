@@ -46,7 +46,7 @@ templateEngineOverride: 'njk,md'
     margin-left: 10px;
 }
 
-.stats-table-external img {
+.stats-table-external svg {
     width:15px;
     height:15px;
 }
@@ -61,7 +61,7 @@ templateEngineOverride: 'njk,md'
     {%- for domain in collections.linkData.charts.splice(0, 25) -%}
       <tr>
         <td class="stats-table-cell"><a class="domain-search" href="https://{{ domain.domain }}" target="_blank" rel="noopener">{{ domain.domain }}</a>
-        <a class="stats-table-external" href="https://{{ domain.domain }}" target="_blank" rel="noopener"><img src="/assets/img/icons/external.svg"></a>
+        <a class="stats-table-external" href="https://{{ domain.domain }}" target="_blank" rel="noopener"><svg><use xlink:href="#external"></use></svg></a>
       </td>
       <td style="text-align: center;">
         {{ domain.count }}

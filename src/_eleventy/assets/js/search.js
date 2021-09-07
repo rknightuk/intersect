@@ -1,6 +1,6 @@
 (function (window, document) {
     // manage search
-    const NO_MATCHES = '<a class="modal-search-result" tabindex="0"><img style="width: 30px;height: 30px;" src="/assets/img/icons/ghost.svg">&nbsp;No Matches Found</a>'
+    const NO_MATCHES = '<a class="modal-search-result" tabindex="0"><svg class="no-results"><use xlink:href="#ghost"></use></svg>&nbsp;No Matches Found</a>'
     const SEARCH_INPUT_ID = 'search-input'
     const SEARCH_RESULT_CLASS = 'modal-search-result'
     const searchModal = document.getElementById('search-modal')
@@ -211,13 +211,14 @@
         {
             output = NO_MATCHES
         } else {
+            const chevron = '<svg><use xlink:href="#chevron-right"></use></svg>'
             output = results.map((r, i) => {
                 let title = r.title
                 const isPrimary = r.topLevel
                 if (isPrimary) title = `<strong>${title}</strong>`
                 return `
                     <a data-result-key="${i}" href="${r.url}?q=${query}" class="modal-search-result ${isPrimary ? 'primary' : 'secondary'}" tabindex="0">
-                        <span class="parent-title">${r.parents.join(' > ')}</span> ${!isPrimary ? '<img src="/assets/img/icons/chevron-right.svg"> ' : ''}${title}
+                        <span class="parent-title">${r.parents.join(` ${chevron}`)}</span> ${!isPrimary ? `${chevron} ` : ''}${title}
                     </a>
                 `
             }).join('')
