@@ -53,3 +53,5 @@ https://twitter.com/intent/tweet?text=Something&url=https://example.com
 - [GoogleChromeLabs/dark-mode-toggle: A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:](https://github.com/GoogleChromeLabs/dark-mode-toggle)
 - [marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.](https://github.com/marceloprates/prettymaps)
 - [amiechen/codrops-scribbler: A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.](https://github.com/amiechen/codrops-scribbler)
+- [GREV - view Github release statistics](https://hanadigital.github.io/grev/)
+- [Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/thumbnail-view/)

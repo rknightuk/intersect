@@ -7,3 +7,4 @@ I built an [Alfred workflow to copy all Safari tabs](https://github.com/rknightu
 ## Extensions
 
 - [‎Save to Pocket on the Mac App Store](https://apps.apple.com/gb/app/save-to-pocket/id1477385213)
+- [Removing service workers from Mac Safari](https://www.danielhill.com.au/removing-service-workers-from-mac-safari/)

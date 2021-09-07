@@ -2,6 +2,10 @@
 title: Browsers
 ---
 
+## Clear Specific Site Cache
+
+Preferences > Privacy > Manage Website Data > Remove
+
 ## Links
 
 - [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/)

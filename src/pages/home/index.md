@@ -19,3 +19,4 @@ OXO good grips is always a good choice for kitchen items.
 - [Buy it for life: Durable, Quality, Practical](https://www.reddit.com/r/BuyItForLife/)
 - [Nordic Light stick – Haus of interiors](https://hausofinteriors.com/products/nordic-light-stick-model-3)
 - [HOAGARD | Oops! , Metal Wall Art](https://www.hoagard.co/products/metal-wall-art-opps)
+- [Swindon Outlet | John Lewis & Partners](https://www.johnlewis.com/our-shops/swindon-outlet)

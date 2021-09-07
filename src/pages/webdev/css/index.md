@@ -73,3 +73,4 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
 - [The future of CSS: Nesting Selectors – Bram.us](https://www.bram.us/2019/03/17/the-future-of-css-nesting-selectors/)
 - [CSS Nesting Module](https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/)
+- [How to Create Neon Text With CSS | CSS-Tricks](https://css-tricks.com/how-to-create-neon-text-with-css/)

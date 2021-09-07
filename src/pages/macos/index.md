@@ -87,3 +87,4 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [Unite for macOS - Single Site Browser](https://www.bzgapps.com/unite)
 - [Sleeve — Now playing on your Desktop](https://replay.software/sleeve)
 - [Maccy - macOS clipboard manager](https://maccy.app/)
+- [Jayson - Powerful JSON viewer and editor](https://jayson.app/)
