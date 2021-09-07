@@ -55,3 +55,4 @@ https://twitter.com/intent/tweet?text=Something&url=https://example.com
 - [amiechen/codrops-scribbler: A responsive HTML template for coding projects with a clean, user friendly design. Crafted with the latest web technologies, the template is suitable for landing pages and documentations.](https://github.com/amiechen/codrops-scribbler)
 - [GREV - view Github release statistics](https://hanadigital.github.io/grev/)
 - [Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/thumbnail-view/)
+- [Logo API Tool | Find & Embed Company Logos for Free | Clearbit](https://clearbit.com/logo)

@@ -79,3 +79,4 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [CSS Nesting Module](https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/)
 - [How to Create Neon Text With CSS | CSS-Tricks](https://css-tricks.com/how-to-create-neon-text-with-css/)
 - [A Complete Guide to Custom Properties | CSS-Tricks](https://css-tricks.com/a-complete-guide-to-custom-properties/)
+- [OctoD/postcss-brexit: A post brexit plugin for post-css made for true British English programmers](https://github.com/octod/postcss-brexit)

@@ -20,3 +20,4 @@ title: HTML
 
 - [Link types: noopener - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/noopener)
 - [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
+- [On the &#60;dl&#62;](https://benmyers.dev/blog/on-the-dl/)
