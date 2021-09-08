@@ -25,6 +25,10 @@ I own a lot of consoles and it gets pretty hard trying to hook them all up to on
 
 For everything else pre-PS1/N64, I use [RetroPie](https://retropie.org.uk/).
 
+## PS5 Controller Plates
+
+I bought [these replacements for the front plate of my PS5 controllers](https://www.aliexpress.com/item/1005001946860557.html) from AliExpress and they [look fantastic](https://twitter.com/rknightuk/status/1435570309025906690).
+
 ## Links
 
 - [Stay (Short Film) - Inspired by The Last of Us](https://www.youtube.com/watch?v=o-aqxiPnLFY)
