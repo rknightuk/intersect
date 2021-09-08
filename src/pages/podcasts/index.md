@@ -55,3 +55,4 @@ for (var i = 0; i < titles.length; i++) {
 - [‎How I Became an Independent Podcaster on Apple Podcasts - Myke Hurley](https://podcasts.apple.com/us/podcast/how-i-became-an-independent-podcaster/id975601115?mt=2)
 - [Listen to podcasts at whatever speed you want – Marco.org](https://marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want)
 - [The Podcast Guest Guide](https://antonyjohnston.com/podcastguestguide/)
+- [Subscribe to a podcast from the beginning - ⏪ rewind.website](https://rewind.website/)

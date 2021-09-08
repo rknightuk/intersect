@@ -28,7 +28,7 @@ Notes, Reminders, Mail and Safari are all my defaults for those tasks.
 
 [Fantastical](https://flexibits.com/fantastical) is an excellent calendar app. It does have a full app but I never use that.
 
-[xbar](https://xbarapp.com) (formally BitBar) "_lets you put the output from any script/program in your macOS menu bar._". I have two plugins: microphone mute and now playing. [View my xbar plugins on Github](https://github.com/rknightuk/xbar-plugins).
+[xbar](https://xbarapp.com) (formally BitBar) "_lets you put the output from any script/program in your macOS menu bar._". I have two plugins: microphone mute and now playing. [View my xbar plugins on Github](https://github.com/rknightuk/xbar-plugins). [SwiftBar](https://github.com/swiftbar/SwiftBar) is another version of BitBar although it wasn't compatible with my plugins.
 
 [CleanShot X](https://cleanshot.com) for screenshots, screen recording, and annotation.
 
@@ -88,3 +88,4 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [Sleeve — Now playing on your Desktop](https://replay.software/sleeve)
 - [Maccy - macOS clipboard manager](https://maccy.app/)
 - [Jayson - Powerful JSON viewer and editor](https://jayson.app/)
+- [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
