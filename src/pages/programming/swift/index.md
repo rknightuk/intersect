@@ -71,6 +71,11 @@ elements.forEach { element in
 myArray.indices.contains(1)
 ```
 
+### Length of Array
+
+```swift
+myArray.count
+```
 ## Links
 
 - [ios - How to get all Events out of a Calendar (Swift) - Stack Overflow](https://stackoverflow.com/questions/33618685/how-to-get-all-events-out-of-a-calendar-swift)
