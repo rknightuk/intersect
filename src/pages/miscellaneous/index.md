@@ -8,6 +8,12 @@ Interesting articles and topics that don't fit anywhere else.
 
 > For a Linux user, you can already build such a system yourself quite trivially by getting an FTP account, mounting it locally with curlftpfs, and then using SVN or CVS on the mounted filesystem. From Windows or Mac, this FTP account could be accessed through built-in software.
 
+[Perfect explanation of NFTs](https://queersamus.tumblr.com/post/649552477605249025):
+
+> imagine if you went up to the mona lisa and you were like “i’d like to own this” and someone nearby went “give me 65 million dollars and i’ll burn down an unspecified amount of the amazon rainforest in order to give you this receipt of purchase” so you paid them and they went “here’s your receipt, thank you for your purchase” and went to an unmarked supply closet in the back of the museum and posted a handmade label inside it behind the brooms that said “mona lisa currently owned by jacobgalapagos” so if anyone wants to know who owns it they’d have to find this specific closet in this specific hallway and look behind the correct brooms. and you went “can i take the mona lisa home now?” and they went “oh god no are you stupid? you only bought the receipt that says you own it, you didn’t actually buy the mona lisa itself, you can’t take the real mona lisa you idiot. you CAN take this though.” and gave you the replica print in a cardboard tube that’s sold in the gift shop. also the person selling you the receipt of purchase has at no point in time ever owned the mona lisa.
+
+> unfortunately, if this doesn’t really make sense or seem like any logical person would be happy about this exchange, then you’ve understood it perfectly
+
 ## Links
 
 - [Josh Gray 🌵 on Twitter: "@Garrett_Archer Everything looks like a conspiracy if you don't know how anything works." / Twitter](https://twitter.com/jpgftw/status/1433810574366838788)

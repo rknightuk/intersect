@@ -27,3 +27,6 @@ existing.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.width} ${v
 - [SVG to PNG - Convert SVG files to PNG Online](https://svgtopng.com)
 - [SVG Sprite Generator](https://svgsprit.es/)
 - [svg-sprite/svg-sprite: SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.)](https://github.com/svg-sprite/svg-sprite)
+- [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/)
+- [Generate unique SVG design assets | Haikei](https://haikei.app/)
+- [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)

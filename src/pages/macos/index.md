@@ -16,8 +16,6 @@ You can view a close-to-up-to-date list of apps I install in my [brewfile on Git
 
 I use [1Password](https://1password.com/) to manage my passwords, credit cards, and software licences.
 
-I show and hide certain menu bar apps and icons with [Bartender](https://www.macbartender.com/).
-
 Notes, Reminders, Mail and Safari are all my defaults for those tasks.
 
 ## Menu Bar Apps
@@ -32,7 +30,7 @@ Notes, Reminders, Mail and Safari are all my defaults for those tasks.
 
 [CleanShot X](https://cleanshot.com) for screenshots, screen recording, and annotation.
 
-You can manage your menu bar apps with Bartender. Hide them or show them only in specific circumstances. Useful if you have a lot of menu bar apps.
+I show and hide certain menu bar apps and icons with [Bartender](https://www.macbartender.com/).
 
 ## Adding Custom Alert Sounds
 
@@ -44,11 +42,11 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -dump URLSchemeBinding
 ```
 
+[URL Scheme Alfred workflow](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/url-schemes)
+
 ## Add App to Finder Toolbar
 
 <kbd>command ⌘</kbd> and drag the app to to Finder toolbar to pin it there.
-
-[URL Scheme Alfred workflow](https://github.com/rknightuk/alfred-workflows/tree/main/workflows/url-schemes)
 
 ## Links
 
@@ -89,3 +87,5 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [Maccy - macOS clipboard manager](https://maccy.app/)
 - [Jayson - Powerful JSON viewer and editor](https://jayson.app/)
 - [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
+- [How to Screen Share on a Mac Remotely or Locally : HelloTech How](https://www.hellotech.com/guide/for/how-to-screen-share-on-mac-remotely-locally)
+- [Remove the proxy icon hover delay in Big Sur - BrettTerpstra.com](https://brettterpstra.com/2020/12/02/remove-the-proxy-icon-hover-delay-in-big-sur/)

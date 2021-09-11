@@ -30,3 +30,4 @@ Either of these will usually be deployed with [Laravel Forge](https://forge.lara
 - [Link Preview API Service | Peekalink](https://www.peekalink.io/)
 - [next.js/examples/with-mysql at canary · vercel/next.js](https://github.com/vercel/next.js/tree/canary/examples/with-mysql)
 - [Awesome Context Menu v2](https://codepen.io/simeydotme/pen/oNwgpGR)
+- [Webcam with checkboxes](https://www.bryanbraun.com/checkboxland/docs/demos/webcam-test/)
