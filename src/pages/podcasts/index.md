@@ -11,6 +11,8 @@ Most of the podcasts I listen to are from [Relay](https://relay.fm) and [The Inc
 - [Unhelpful Suggestions](https://unhelpful-suggestions.com/)
 - [Hello Internet](https://www.hellointernet.fm/)
 
+Hello Internet has an RSS issue where only the last 100 show up. Here is [a feed of episodes 1-50 of Hello Internet](https://github.com/yottalogical/hello-internet-archive) that you can subscribe to. I also have my own archive of all the episodes.
+
 I also have my own podcast, [Ruminate](https://ruminatepodcast.com). Read my [notes on podcast production](/podcasts/production).
 
 ## Appearances
@@ -24,6 +26,7 @@ I also have my own podcast, [Ruminate](https://ruminatepodcast.com). Read my [no
 
 - [Analog(ue) #10: It’s an Internet Show for the Radio](https://www.relay.fm/analogue/10) (2:45) - "_my favourite piece of follow up_". [Myke](https://twitter.com/imyke) got his age wrong and I pointed it out
 - [Connected #9: A War of Semantics](https://www.relay.fm/connected/9) (5:30) - "_Why does everyone know this Robb guy_" - [Viticci](https://twitter.com/viticci)
+- [Back to Work #546: Snow Day for Nerds](http://5by5.tv/b2w/546) - Merlin and Dan recommending TrackerZapper
 
 ## Podcast Apps
 

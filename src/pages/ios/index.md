@@ -26,3 +26,4 @@ I'm pretty vocal about the fact that I don't really like using iOS or iPadOS for
 - [Hacker News](https://news.ycombinator.com/)
 - [Pocket](https://getpocket.com/my-list)
 - [Sofa - Lists for books, movies, and more](https://www.sofahq.com/)
+- [‎McClockface - clock widgets](https://apps.apple.com/app/mcclockface/id1544343485)

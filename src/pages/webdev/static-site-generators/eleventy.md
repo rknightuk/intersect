@@ -195,3 +195,4 @@ module.exports = {
 - [Learn how to display a directory treeview with your 11ty syntax highlighter](https://mastereleventy.com/blog/prism-treeview/)
 - [Add a Sitemap to Eleventy - 11ty Recipes](https://11ty.recipes/recipes/add-a-sitemap/)
 - [Eleventy/11ty Recipes](https://11ty.recipes/)
+- [charisrooda/eleventy-data-starter: This is a starter template if you want to work with JSON data.](https://github.com/charisrooda/eleventy-data-starter)

@@ -8,6 +8,11 @@ Lots of random notes from building an app. See also [SwiftUI notes](/programming
 
 `Product > Archive`
 
+## Adding GitHub Package Dependency
+
+- Personal Access Token must have `repo` access
+- Use the SSH GitHub URL and not the HTTPS one, otherwise it will fail `git@github.com:user/repo.git`
+
 ## User Settings with UserDefaults
 
 ```swift
@@ -94,3 +99,6 @@ NSApplication.shared.orderFrontStandardAboutPanel(
 - [Anagh Sharma / macOS menu bar app with SwiftUI](https://www.anaghsharma.com/blog/macos-menu-bar-app-with-swiftui/)
 - [Create a macOS Menu Bar Application Using SwiftUI | by Aaron Wright | Medium](https://medium.com/@acwrightdesign/creating-a-macos-menu-bar-application-using-swiftui-54572a5d5f87)
 - [Observe NSPasteboard — Swift 4. How to listen for clipboard changes | by Federico Vitale | Medium](https://medium.com/@fede.vitale/watch-for-nspasteboard-fad29d2f874e)
+- [sindresorhus/Preferences: ⚙ Add a preferences window to your macOS app in minutes](https://github.com/sindresorhus/Preferences)
+- [sindresorhus/LaunchAtLogin: Add “Launch at Login” functionality to your macOS app in seconds](https://github.com/sindresorhus/LaunchAtLogin)
+- [sindresorhus/KeyboardShortcuts: ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes](https://github.com/sindresorhus/KeyboardShortcuts)

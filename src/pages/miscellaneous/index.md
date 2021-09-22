@@ -41,3 +41,6 @@ Interesting articles and topics that don't fit anywhere else.
 - [Creative 12/24 Hour Time Stamp Chronodex Time Pie Charts for Day Planner Organizer Diary Notebook Stationery store supplies|chart| - AliExpress](https://www.aliexpress.com/item/32691429037.html)
 - [A decade and a half of instability: The history of Google messaging apps | Ars Technica](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/)
 - [Tom on Twitter: "Seeing news reports of a shortage of lorry drivers and a worry of empty shelves? You might be asking why. I will try and explain a bit. Broadly, since as long as I can remember, there has been a shortage of lorry drivers. This is not a job people in the 21st century, want 1/ https://t.co/sFzR5Lgw53" / Twitter](https://twitter.com/thelorryist/status/1409887566753566730)
+- [Doomsday rule - determine the day of the week for a given date](https://en.wikipedia.org/wiki/Doomsday_rule)
+- [Inside the Hot Wheels Design Studio: How a Real Car Gets Turned Into a 1:64 Toy](https://www.thedrive.com/news/42183/inside-the-hot-wheels-design-studio-how-a-real-car-gets-turned-into-a-164-toy)
+- [Hacking CloudKit - How I accidentally deleted your Apple Shortcuts - Detectify Labs](https://labs.detectify.com/2021/09/13/hacking-cloudkit-how-i-accidentally-deleted-your-apple-shortcuts/)

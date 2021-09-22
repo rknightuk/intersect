@@ -19,6 +19,8 @@ Websites that are useful (or just fun) but don't fit into any of the other categ
 
 ## Misc
 
+[Marginalia Search](https://search.marginalia.nu/) is a "search engine calculates a score that aggressively favors text-heavy websites, and punishes those that have too many modern web design features"
+
 - [remove.bg](https://www.remove.bg/) - Remove the background from any image
 - [rupify](https://www.rupify.fun/) - Turn any text into a Rupi-Kaur-style poem
 - [Vocal Remover and Isolation [AI]](https://vocalremover.org/)
@@ -43,3 +45,5 @@ Websites that are useful (or just fun) but don't fit into any of the other categ
 - [Ready Player Me – Metaverse Full-Body 3D Avatar Creator](https://readyplayer.me/)
 - [Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop](https://pushover.net/)
 - [Make rounded corner image online (no upload) - Free tool](https://round-corner.imageonline.co/)
+- [Meme Maker | Supabase](https://meme.town/)
+- [Cal.com | Open Scheduling Infrastructure. Similar to Calendly](https://cal.com/)

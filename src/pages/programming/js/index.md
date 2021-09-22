@@ -224,3 +224,4 @@ return {
 - [Monaco Editor in Laravel Livewire | Günther Debrauwer](https://gdebrauwer.dev/blog/monaco-editor-in-laravel-livewire/)
 - [EyeDropper/color picker API](https://wicg.github.io/eyedropper-api/)
 - [a11y-dialog lightweight dialog/modal library](https://a11y-dialog.netlify.app/)
+- [Free Charting Library by TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/)

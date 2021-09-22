@@ -74,6 +74,13 @@ qlmanage -p myfile.txt
 VARIABLE=$(pwd)
 ```
 
+## Show Calendar
+
+```bash
+$ cal
+$ cal -y 2021
+```
+
 ## Related
 
 - [Terminal](/macos/terminal/)

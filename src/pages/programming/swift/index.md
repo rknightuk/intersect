@@ -30,7 +30,7 @@ let myString = "something cool"
 myString.starts(with: "something")
 
 // contains
-myString.contains(with: "something")
+myString.contains("something")
 
 // get first or last
 myString.prefix(2) // "so"

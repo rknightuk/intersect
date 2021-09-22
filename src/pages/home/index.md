@@ -4,6 +4,8 @@ title: Home
 
 OXO good grips is always a good choice for kitchen items.
 
+[Snuggledown duvets](https://snuggledown.co.uk) are great.
+
 ## Recommendations
 
 - [Victorinox 8 cm Pointed Tip/Serrated Edge Knife](https://www.amazon.co.uk/gp/product/B0050DIPMC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - these are sharp as hell, be careful
@@ -20,3 +22,4 @@ OXO good grips is always a good choice for kitchen items.
 - [Nordic Light stick – Haus of interiors](https://hausofinteriors.com/products/nordic-light-stick-model-3)
 - [HOAGARD | Oops! , Metal Wall Art](https://www.hoagard.co/products/metal-wall-art-opps)
 - [Swindon Outlet | John Lewis & Partners](https://www.johnlewis.com/our-shops/swindon-outlet)
+- [Neon Pixel Art LED Display Alarm Clock – theworkalley](https://theworkalley.co.uk/collections/lights/products/neon-pixel-art-led-display-alarm-clock)

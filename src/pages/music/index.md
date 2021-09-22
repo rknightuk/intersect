@@ -32,6 +32,10 @@ I also maintain playlists for all the [Tony Hawk Pro Skater](https://en.wikipedi
 
 You can do this with a smart playlist (Rule: "Loved is Loved") but songs will only show up in here if they've also been added to you library.
 
+## Albums I Can't Find
+
+- [Drunk Enough for Demos](https://www.discogs.com/Bowling-For-Soup-Drunk-Enough-For-Demos/release/9520169)
+
 ## Links
 
 - [Soundiiz - Move playlists from Spotify to Apple Music](https://soundiiz.com/tutorial/apple-music-to-spotify)
