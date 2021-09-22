@@ -2,6 +2,8 @@
 title: TrackerZapper
 ---
 
+[TrackerZapper Website](https://rknight.me/apps/tracker-zapper/)
+
 ## Links
 
 - [TrackerZapper Mac app silently removes tracking parameters from links you copy | Hacker News](https://news.ycombinator.com/item?id=28576147)
