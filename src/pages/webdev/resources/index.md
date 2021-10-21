@@ -60,3 +60,5 @@ https://twitter.com/intent/tweet?text=Something&url=https://example.com
 - [EtherDream/web2img: bundle web files into a single image](https://github.com/EtherDream/web2img)
 - [Checkboxland - Render anything as HTML checkboxes](https://www.bryanbraun.com/checkboxland/#overview)
 - [11ty/api-sparkline: Service to return sparkline SVG images.](https://github.com/11ty/api-sparkline)
+- [🏳️‍🌈 Pride Flag API](https://pride.dev/)
+- [ASCIIFlow](https://asciiflow.com/)

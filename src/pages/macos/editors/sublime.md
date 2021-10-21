@@ -11,6 +11,7 @@ You can view all [my Sublime preferences on Github](https://github.com/rknightuk
 - <kbd>command ⌘</kbd> <kbd>shift ⇧</kbd> <kbd>l</kbd> to multi-line edit the current selection
 - <kbd>command ⌘</kbd> <kbd>shift ⇧</kbd> <kbd>f</kbd> for global search
 - <kbd>⌥</kbd> <kbd>enter</kbd> when searching to select all occurances for multi-line editing
+- Set this in Preferences > Key Bindings for a save all files shortcut `{ "keys": ["ctrl+shift+alt+s"], "command": "save_all" }`
 
 ## Packages
 

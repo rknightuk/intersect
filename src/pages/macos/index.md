@@ -95,3 +95,4 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [HEIC Converter | Sindre Sorhus](https://sindresorhus.com/heic-converter)
 - [System Color Picker | Sindre Sorhus](https://sindresorhus.com/system-color-picker)
 - [Sensei - The Next Generation Mac performance tool](https://sensei.app/)
+- [Mimestream | A native macOS email client for Gmail](https://mimestream.com/)

@@ -22,6 +22,12 @@ This is just a list of things I like.
 - [Ham and Broccoli Puffs Recipe: How to Make It | Taste of Home](https://www.tasteofhome.com/recipes/ham-and-broccoli-puffs/)
 - [Basic Butter Cookies Recipe | Baked by an Introvert](https://www.bakedbyanintrovert.com/basic-butter-cookies/)
 
+### Smoothies Recipe
+
+- 200g of frozen fruit
+- 100g of semi skimmed milk (I already have it on the scales, no point in measuring any other way)
+- ~150g of yoghurt
+
 ## Links
 
 - [SimplyCook](https://www.simplycook.com/invite/EH0Q2K) referral link for a free box. I really enjoy the [Chicken Tinga](https://www.simplycook.com/recipes/chicken-tinga-for-2) and [Vietnamese Pork](https://www.simplycook.com/recipes/vietnamese-pork-for-2)

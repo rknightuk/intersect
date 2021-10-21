@@ -27,3 +27,4 @@ I don't remember who said this on a podcast, but I think about this a lot in rel
 - [David Darnes | Setups](https://setups.co/posts/david-darnes)
 - [OneOdio Headphones, Studio & DJ & Bluetooth, oneodio.com](https://www.oneodio.com/)
 - [Logitech Base Charging Stand for iPad, iPad Pro, and iPad Air](https://www.logitech.com/en-us/products/ipad-accessories/base-ipad-pro-stand.939-001454.html)
+- [Framework Laptop pre-orders are now open - modular laptop](https://frame.work/)

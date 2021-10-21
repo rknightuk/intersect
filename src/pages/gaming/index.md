@@ -51,3 +51,4 @@ I bought [these replacements for the front plate of my PS5 controllers](https://
 - [Delta Emulator for iOS](https://deltaemulator.com/)
 - [GG| - Video Game Collection Tracker](https://ggapp.io/)
 - [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
+- [Gekkio/mooneye-gb: A Game Boy research project and emulator written in Rust](https://github.com/Gekkio/mooneye-gb)

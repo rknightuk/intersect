@@ -44,3 +44,4 @@ Interesting articles and topics that don't fit anywhere else.
 - [Doomsday rule - determine the day of the week for a given date](https://en.wikipedia.org/wiki/Doomsday_rule)
 - [Inside the Hot Wheels Design Studio: How a Real Car Gets Turned Into a 1:64 Toy](https://www.thedrive.com/news/42183/inside-the-hot-wheels-design-studio-how-a-real-car-gets-turned-into-a-164-toy)
 - [Hacking CloudKit - How I accidentally deleted your Apple Shortcuts - Detectify Labs](https://labs.detectify.com/2021/09/13/hacking-cloudkit-how-i-accidentally-deleted-your-apple-shortcuts/)
+- [Startseite - Klimaticket - Austrian whole-country public transport ticket](https://www.klimaticket.at/en/)
