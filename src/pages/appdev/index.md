@@ -10,7 +10,9 @@ Lots of random notes from building an app. See also [SwiftUI notes](/programming
 
 ## Remove Unused Simulators from XCode
 
-`xcrun simctl delete unavailable`
+```bash
+xcrun simctl delete unavailable
+```
 
 ## Adding GitHub Package Dependency
 
