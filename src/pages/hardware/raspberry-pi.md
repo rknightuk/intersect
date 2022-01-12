@@ -20,3 +20,6 @@ I have a couple of Raspberry Pis around. My only successful, and lasting, projec
 - [Mount a Raspberry Pi-Powered Google Calendar On Your Wall](https://lifehacker.com/mount-a-raspberry-pi-powered-google-calendar-on-your-wa-1484219113)
 - [I designed and printed a working Simpsons TV. Plays the first 11 seasons at random without internet. Knobs work too! : 3Dprinting](https://www.reddit.com/r/3Dprinting/comments/p9lasb/i_designed_and_printed_a_working_simpsons_tv/h9yj3c3/)
 - [Stream-Pi Home - StreamDeck alternative](https://stream-pi.com/)
+- [Freenove Robot Dog Kit](https://www.amazon.co.uk/dp/B08C254F73/ref=cm_sw_r_cp_api_glt_fabc_ZKCQAVJGR3K7ZNR1BBSF)
+- [rahul-thakoor/balena-rpiplay: Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.](https://github.com/rahul-thakoor/balena-rpiplay)
+- [Now Playing: My Raspberry Pi Weekend Project • chorus.fm](https://chorus.fm/news/now-playing-my-raspberry-pi-weekend-project/)

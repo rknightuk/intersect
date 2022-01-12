@@ -48,6 +48,10 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 
 <kbd>command ⌘</kbd> and drag the app to to Finder toolbar to pin it there.
 
+## Developer Folder
+
+[~./Developer has a special icon on MacOS](https://twitter.com/a_grebenyuk/status/1458249706220527616)
+
 ## Links
 
 - [MacStories](https://www.macstories.net/)
@@ -61,7 +65,6 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [Welcome to Bunch - Bunch.app](https://bunchapp.co/)
 - [Cascadea - Remix the web.](https://cascadea.app/)
 - [mortenjust/droptogif: Zero-click animated Gifs](https://github.com/mortenjust/droptogif)
-- [MusicHarbor Unveils a New Mac-Ready iPad Design and Widgets - MacStories](https://www.macstories.net/reviews/musicharbor-unveils-a-new-mac-ready-ipad-design-and-widgets/)
 - [AirBuddy](https://v2.airbuddy.app/) - Quick AirPods connect
 - [gao-sun/eul: 🖥️ macOS status monitoring app written in SwiftUI.](https://github.com/gao-sun/eul)
 - [GitPigeon — GitHub notifications for your Mac](https://gitpigeon.com/)
@@ -96,3 +99,6 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [System Color Picker | Sindre Sorhus](https://sindresorhus.com/system-color-picker)
 - [Sensei - The Next Generation Mac performance tool](https://sensei.app/)
 - [Mimestream | A native macOS email client for Gmail](https://mimestream.com/)
+- [jwhamilton99/menu-bar-splitter: a mac utility for keeping your menu bar organized](https://github.com/jwhamilton99/menu-bar-splitter)
+- [The secret of the macOS Monterey network quality tool | DanPetrov](https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html)
+- [GrandPerspective - graphically shows the disk usage within a file system](http://grandperspectiv.sourceforge.net/)

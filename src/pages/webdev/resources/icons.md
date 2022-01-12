@@ -31,3 +31,4 @@ title: Icons
 - [djaiss/mapsicon: A free collection of maps for every country in the world, available in 11 sizes or in SVG.](https://github.com/djaiss/mapsicon)
 - [OpenMoji · Library](https://openmoji.org/library/)
 - [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/)
+- [IconKitchen](https://icon.kitchen)

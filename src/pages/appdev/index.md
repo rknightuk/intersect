@@ -8,6 +8,10 @@ Lots of random notes from building an app. See also [SwiftUI notes](/programming
 
 `Product > Archive`
 
+## Remove Unused Simulators from XCode
+
+`xcrun simctl delete unavailable`
+
 ## Adding GitHub Package Dependency
 
 - Personal Access Token must have `repo` access

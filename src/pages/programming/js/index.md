@@ -199,6 +199,23 @@ return {
 }
 ```
 
+## Get Emoji Flag from Country Code
+
+[Country Code to Flag Emoji](https://dev.to/jorik/country-code-to-flag-emoji-a21)
+```
+function getFlagEmoji(countryCode) {
+  const codePoints = countryCode
+    .toUpperCase()
+    .split('')
+    .map(char =>  127397 + char.charCodeAt());
+  return String.fromCodePoint(...codePoints);
+}
+```
+
+## Assert with console
+
+`console.assert(1 === 1)`
+
 ## Links
 
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)

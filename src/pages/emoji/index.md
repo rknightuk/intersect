@@ -10,3 +10,5 @@ title: Emoji
 - [Rocket – the best emoji app for Mac](https://matthewpalmer.net/rocket/)
 - [jeeftor/EmojiTaco: Alfred Emoji Script with Taco and other unicode 9 emoji](https://github.com/jeeftor/EmojiTaco)
 - [What About the Afghanistan Flag Emoji?](https://blog.emojipedia.org/what-about-the-afghanistan-flag-emoji/)
+- [Emoji to Scale](https://javier.xyz/emoji-to-scale/)
+- [Emojinator](https://emojinator.fun/)

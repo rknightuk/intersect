@@ -35,3 +35,4 @@ There are enough links to warrant it's own section
 - [SIMPSONS PIXELS - YouTube](https://www.youtube.com/watch?v=FIZ_gDOrzGk)
 - [The Simpsons Theme Song (A Cappella Cover) AS HEARD ON THE SIMPSONS!! - YouTube](https://www.youtube.com/watch)
 - [You Can Make a Netflix Style Doco About Literally Anything - YouTube](https://www.youtube.com/watch)
+- [오징어게임[Squid Game] CG BreakDown](https://vimeo.com/639827850)

@@ -40,11 +40,18 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 
 - [Drunk Enough for Demos](https://www.discogs.com/Bowling-For-Soup-Drunk-Enough-For-Demos/release/9520169)
 
+## MacOS Apps
+
+- [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - A third party Apple Music client for Mac
+- [Doppler](https://brushedtype.co/doppler/) - A music app for Mac and iOS for "_people who buy music_"
+- [MusicHarbor Unveils a New Mac-Ready iPad Design and Widgets - MacStories](https://www.macstories.net/reviews/musicharbor-unveils-a-new-mac-ready-ipad-design-and-widgets/)
+- [serban/menubar-ticker: A macOS menu bar item that displays the current song in iTunes or Spotify](https://github.com/serban/menubar-ticker)
+- [NepTunes — micropixels software](https://micropixels.software/neptunes)
+- [Sleeve — Now playing on your Desktop](https://replay.software/sleeve/purchased)
+
 ## Links
 
 - [Soundiiz - Move playlists from Spotify to Apple Music](https://soundiiz.com/tutorial/apple-music-to-spotify)
-- [AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra) - A third party Apple Music client for Mac
-- [Doppler](https://brushedtype.co/doppler/) - A music app for Mac and iOS for "_people who buy music_"
 - [MusicThread](https://musicthread.app) - A place to share the music you love
 - [What’s a cover of a song that you like more than the original? : AskUK](https://www.reddit.com/r/AskUK/comments/ok38w5/whats_a_cover_of_a_song_that_you_like_more_than/)
 - [10 Best Hip-Hop Albums Of All Times (as of 2021) | SPY](https://spy.com/articles/lifestyle/entertainment/best-hip-hop-albums-1202755966/)
@@ -62,4 +69,5 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 - [Some Disney Star Remade "Genie In A Bottle" And It's...Something](https://www.buzzfeed.com/mjs538/these-kids-werent-even-born)
 - [How does Shazam work | Coding Geek](http://coding-geek.com/how-shazam-works/)
 - ["Baby Got Back:" Sir Mix-A-Lot with the Seattle Symphony - YouTube](https://www.youtube.com/watch?v=w59e20ijOpE)
-- [(489) Foo Fighters "Everlong" w/ 11-Year-Old Nandi Bushell, The Forum, Los Angeles, 8.26.21 - YouTube](https://www.youtube.com/watch)
+- [Foo Fighters "Everlong" w/ 11-Year-Old Nandi Bushell, The Forum, Los Angeles, 8.26.21 - YouTube](https://www.youtube.com/watch)
+- [DECO on Twitter: "If ‘Bitter Sweet Symphony’ came out in the 80s 🎶🔥 Like & RT Full version anyone?: https://t.co/wLH0Xgi8bi https://t.co/EZGvclB17j" / Twitter](https://twitter.com/decobanduk/status/1466675894169260032)

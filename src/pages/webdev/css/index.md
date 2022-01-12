@@ -81,3 +81,4 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [A Complete Guide to Custom Properties | CSS-Tricks](https://css-tricks.com/a-complete-guide-to-custom-properties/)
 - [OctoD/postcss-brexit: A post brexit plugin for post-css made for true British English programmers](https://github.com/octod/postcss-brexit)
 - [Grainy Gradients | CSS-Tricks](https://css-tricks.com/grainy-gradients/)
+- [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)

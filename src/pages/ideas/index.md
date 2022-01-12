@@ -27,6 +27,7 @@ Things I don't need:
 
 - [Wallabag](https://wallabag.org/en) seems to be the only option in this space.
 - [GoodLinks app](https://wallabag.org/en) overkill for my needs
+- [LinkBin](https://dhaydl.github.io/LinkBinWebsite/)
 
 ### Open Source Tumblr
 

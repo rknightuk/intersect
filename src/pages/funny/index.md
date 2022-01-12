@@ -15,3 +15,4 @@ title: Funny
     - [Let Me Tell You About My Pet: Patricia Lockwood on Miette](https://www.thecut.com/2019/08/let-me-tell-you-about-my-pet-patricia-lockwood-miette.html)
     - [Eniko on Twitter: "You ever think about how Miette doesn't know how famous she is on the internet" / Twitter](https://twitter.com/Enichan/status/1428763305875804171)
 - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com/)
+- ["What scares me about people who watch Friends is that they say "Do you watch Friends" instead of "Have you watched Friends" implying they never stop watching Friends. They just keep continuously watching it over and over"](https://twitter.com/clintonio12/status/1075207271163015168)

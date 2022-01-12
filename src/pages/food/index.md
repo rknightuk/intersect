@@ -14,13 +14,13 @@ This is just a list of things I like.
 - [Warburtons Breakfast Muffins](https://www.warburtons.co.uk/products/pancakes-potato-cakes-and-muffins/4-toasting-muffins/)
 - [Rodeo Joe’s Jalapeno Flamers](https://www.costco.com.au/Business-Delivery/Rodeo-Joes-Jalapeno-Flamers-12kg/p/35144_BD#:~:text=Rodeo%20Joe's%20Jalapeno%20Flamers%20%2D%20Green,Suitable%20for%20Lacto%2Dovo%20Vegetarians.)
 - [Marks and Spencers pizzas](https://www.marksandspencer.com/c/food-to-order/adventures-in-food/stonebaked-pizza) are the best shop-bought pizzas I've found.
-- [This buffalo hot sauce](https://www.sauceshop.co/collections/chilli-hot-sauces-1/products/buffalo-hot-sauce)
 
 ## Recipes
 
 - [Bacon Egg Cups Recipe by Tasty](https://tasty.co/recipe/bacon-egg-cups)
 - [Ham and Broccoli Puffs Recipe: How to Make It | Taste of Home](https://www.tasteofhome.com/recipes/ham-and-broccoli-puffs/)
 - [Basic Butter Cookies Recipe | Baked by an Introvert](https://www.bakedbyanintrovert.com/basic-butter-cookies/)
+- [Best Sugar Cookie Recipe | In Katrina's Kitchen](https://www.inkatrinaskitchen.com/best-sugar-cookie-recipe-ever/)
 
 ### Smoothies Recipe
 

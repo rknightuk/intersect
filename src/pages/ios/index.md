@@ -27,3 +27,4 @@ I'm pretty vocal about the fact that I don't really like using iOS or iPadOS for
 - [Pocket](https://getpocket.com/my-list)
 - [Sofa - Lists for books, movies, and more](https://www.sofahq.com/)
 - [‎McClockface - clock widgets](https://apps.apple.com/app/mcclockface/id1544343485)
+- [Sorted³ – seamlessly integrates your events and tasks into one timeline](https://www.sortedapp.com/how-it-works)

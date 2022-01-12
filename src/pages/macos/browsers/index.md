@@ -15,3 +15,4 @@ Preferences > Privacy > Manage Website Data > Remove
 - [Polypane, The browser for ambitious developers](https://polypane.app/)
 - [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/)
 - [The Browser Company](https://thebrowser.company/)
+- [Orion Browser by Kagi](https://browser.kagi.com/)

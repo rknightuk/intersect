@@ -18,6 +18,8 @@ Workflows in Alfred are user-made scripts that can automate tasks like [getting 
 
 I've made a [number of my own workflows](https://rknight.me/alfred-workflows/).
 
+[Starred Alfred workflows list on Github](https://github.com/stars/rknightuk/lists/alfred-workflows).
+
 Using workflows requires the [Alfred Powerpack](https://www.alfredapp.com/powerpack/).
 
 [My notes on Workflow development](/macos/alfred/workflow-development)
@@ -56,3 +58,4 @@ Examples:
 - [Alfred snippet expansion not working](https://github.com/VSCodeVim/Vim/issues/2845#issuecomment-456869199)
 - [Raycast launcher](https://www.raycast.com/)
 - [Light & Dark theme according to system settings - Discussion & Help - Alfred App Community Forum](https://www.alfredforum.com/topic/16360-light-dark-theme-according-to-system-settings/)
+- [Searching for GIFs with Alfred, Revisited – 512 Pixels](https://512pixels.net/2021/10/searching-for-gifs-with-alfred-revisited/)
