@@ -1,3 +1,4 @@
+
 ---
 title: Production
 ---
@@ -6,7 +7,8 @@ I have recorded and edited over 130 episodes of [my podcast](https://www.ruminat
 
 If you want to hear from actual professionals I recommend [episode 200 of Upgrade](https://www.relay.fm/upgrade/200).
 
-- I record using a [Blue Yeti](https://www.bluemic.com/en-gb/products/yeti/). There are much better microphones available
+I record using a ~~[Blue Yeti](https://www.bluemic.com/en-gb/products/yeti/)~~ [Razer Seiren Mini](https://www.razer.com/streaming-microphones/razer-seiren-mini/RZ19-03450100-R3M1). There are much better microphones available
+
 - Call with Skype or Zoom
 - Record my local audio plus Skype backup with [Audio Hijack Pro](https://rogueamoeba.com/audiohijackpro/)
 - Edit in [GarageBand](https://www.apple.com/uk/mac/garageband/). It would probably be easier in [Logic Pro](https://www.apple.com/uk/logic-pro/) but I'm not paying for it
