@@ -28,3 +28,4 @@ Bricklink is a marketplace of sellers rather than a single store, so you have to
 - [Interview with Justin Ramsden | Brickset: LEGO set guide and database](https://brickset.com/article/20115/interview-with-justin-ramsden)
 - [Lego Clockwork Heart Instructions](https://www.reddit.com/r/lego/comments/46blje/clockwork_heart_instructions_more_info_in_comments/)
 - [Chris McVeigh - Lego Designer](https://chrismcveigh.com/cm/welcome.html)
+- [Minifig Display Frame Black | Digs for Figs](https://digsforfigs.com/product/minifig-display-frame-black/)

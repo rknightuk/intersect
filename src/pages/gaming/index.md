@@ -57,3 +57,5 @@ I bought [these replacements for the front plate of my PS5 controllers](https://
 - [Backloggd - A Video Game Collection Tracker](https://www.backloggd.com/)
 - [Razer Quick Charging Stand for PS5™ - Black | Console](https://www.razer.com/gb-en/console-accessories/razer-universal-quick-charging-stand-for-xbox/RC21-01900200-R3M1)
 - [The Bizarre Story Of Rockstar's Cancelled Austin Powers Kart Racer](https://www.thegamer.com/the-bizarre-story-of-rockstars-cancelled-austin-powers-kart-racer/)
+- [Playdate Pulp](https://play.date/pulp/)
+- [water111/jak-project](https://github.com/water111/jak-project)

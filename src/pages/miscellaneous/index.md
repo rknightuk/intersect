@@ -51,3 +51,4 @@ Interesting articles and topics that don't fit anywhere else.
 - [Die Hard Christmas Ornament : 11 Steps - Instructables](https://www.instructables.com/Die-Hard-Christmas-Ornament/)
 - [UKADS on Twitter: "Have an unbeatable time in Portsmouth in 1998 https://t.co/L6JONtLC9N" / Twitter](https://twitter.com/ukads3/status/1456924374116745218)
 - [Waveform visualiser](https://jbt.io/waveform/)
+- [Photographer Finds Polar Bears That Took Over Abandoned Buildings | PetaPixel](https://petapixel.com/2022/01/13/photographer-finds-polar-bears-that-took-over-abandoned-buildings/)
