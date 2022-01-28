@@ -231,7 +231,6 @@ function getFlagEmoji(countryCode) {
 - [How can I get query string values in JavaScript?](https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript)
 - [mark.js - JavaScript keyword highlighter](https://markjs.io/)
 - [JavaScript Event KeyCodes](https://keycode.info/)
-- [Debugging—Eleventy, a simpler static site generator.](https://www.11ty.dev/docs/debugging/)
 - [David K. 🎹 on Twitter: "🔢 Quick tip: if you're sorting an array in JS and keep forgetting how to write the compare functions (like I do), here's a mnemonic device: (a, z) =&gt; a - z // ascending, like "a to z" (a, z) =&gt; z - a // descending, like "z to a" Hope this helps someone! https://t.co/swrOZewOMC" / Twitter](https://twitter.com/DavidKPiano/status/1292237580780605440)
 - [peerigon/parse-domain: Splits a hostname into subdomains, domain and (effective) top-level domains.](https://github.com/peerigon/parse-domain)
 - [FileReader.readAsDataURL() - Web APIs | MDN - image to base64](https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL)
