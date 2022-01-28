@@ -202,7 +202,8 @@ return {
 ## Get Emoji Flag from Country Code
 
 [Country Code to Flag Emoji](https://dev.to/jorik/country-code-to-flag-emoji-a21)
-```
+
+```js
 function getFlagEmoji(countryCode) {
   const codePoints = countryCode
     .toUpperCase()
