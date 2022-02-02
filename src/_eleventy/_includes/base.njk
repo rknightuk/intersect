@@ -26,7 +26,7 @@
 		<meta name="twitter:description" content="{{ config.description }}">
 
 		{% if config.fathomTrackingId %}
-			<script src="https://cdn.usefathom.com/script.js" data-site="{{ config.fathomTrackingId }}" defer></script>
+			<script src="https://{{ config.fathomDomain }}/script.js" data-site="{{ config.fathomTrackingId }}" defer></script>
 		{% endif %}
 		
 		<script>
