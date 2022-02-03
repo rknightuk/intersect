@@ -69,5 +69,5 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 - [Some Disney Star Remade "Genie In A Bottle" And It's...Something](https://www.buzzfeed.com/mjs538/these-kids-werent-even-born)
 - [How does Shazam work | Coding Geek](http://coding-geek.com/how-shazam-works/)
 - ["Baby Got Back:" Sir Mix-A-Lot with the Seattle Symphony - YouTube](https://www.youtube.com/watch?v=w59e20ijOpE)
-- [Foo Fighters "Everlong" w/ 11-Year-Old Nandi Bushell, The Forum, Los Angeles, 8.26.21 - YouTube](https://www.youtube.com/watch)
+- [Foo Fighters "Everlong" w/ 11-Year-Old Nandi Bushell, The Forum, Los Angeles, 8.26.21 - YouTube](https://www.youtube.com/watch?v=jsDgrKdczAE)
 - [DECO on Twitter: "If ‘Bitter Sweet Symphony’ came out in the 80s 🎶🔥 Like & RT Full version anyone?: https://t.co/wLH0Xgi8bi https://t.co/EZGvclB17j" / Twitter](https://twitter.com/decobanduk/status/1466675894169260032)

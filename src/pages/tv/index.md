@@ -33,6 +33,6 @@ There are enough links to warrant it's own section
 - [Inside the labs where Netflix is trying to make televisions suck less | The Verge](https://www.theverge.com/2015/5/21/8635587/inside-the-netflix-tv-testing-labs)
 - [Mr. Robot Parody - YouTube](https://www.youtube.com/watch?v=Be_TtJqMcZU)
 - [SIMPSONS PIXELS - YouTube](https://www.youtube.com/watch?v=FIZ_gDOrzGk)
-- [The Simpsons Theme Song (A Cappella Cover) AS HEARD ON THE SIMPSONS!! - YouTube](https://www.youtube.com/watch)
-- [You Can Make a Netflix Style Doco About Literally Anything - YouTube](https://www.youtube.com/watch)
+- [The Simpsons Theme Song (A Cappella Cover) AS HEARD ON THE SIMPSONS!! - YouTube](https://www.youtube.com/watch?v=hZwJ3BZ6gig)
+- [You Can Make a Netflix Style Doco About Literally Anything - YouTube](https://www.youtube.com/watch?v=9BUrNe3Vhtk)
 - [오징어게임[Squid Game] CG BreakDown](https://vimeo.com/639827850)
