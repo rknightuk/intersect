@@ -2,6 +2,7 @@
 title: PiSight Camera
 ---
 
+
 ## Links
 
 - [Today’s Webcams Are Boring, so I Brought Back a Classic | by Max Braun | Debugger](https://debugger.medium.com/todays-webcams-are-boring-so-i-brought-back-a-classic-291cc7c94c76)
@@ -10,3 +11,4 @@ title: PiSight Camera
 - [Building a PiSight](https://muffinresearch.co.uk/building-a-pisight/)
 - [PiSight Monitor Stand](https://github.com/maxbbraun/pisight/tree/26c4cef49d1f5b3d396f66f86c58a1d579e686a7/monitor_stand)
 - [iSight Clamp for ToM by quadrivia - Thingiverse](https://www.thingiverse.com/thing:11761)
+- [Hand Mirror, for Mac](https://handmirror.app/)

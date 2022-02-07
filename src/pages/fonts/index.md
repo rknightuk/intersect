@@ -11,3 +11,5 @@ title: Fonts
 - [Apple's 30th Anniversary Macintosh Icon Font — Weston Happ](http://www.westonhapp.com/notes/2014/1/25/apples-30th-anniversary-macintosh-icon-font)
 - [mozilla/Fira: Mozilla's new typeface, used in Firefox OS](https://github.com/mozilla/Fira)
 - [Inter font family](https://rsms.me/inter/)
+- [Type With Pride](https://www.typewithpride.com/)
+- [DanielHartUK/Dot-Matrix-Typeface: A simple Dot Matrix style typeface](https://github.com/DanielHartUK/Dot-Matrix-Typeface)
