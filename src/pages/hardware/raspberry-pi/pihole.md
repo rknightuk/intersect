@@ -6,6 +6,8 @@ title: Pi-hole
 
 You can get basic stats about blocked requests at `http://<Your pihole address>/admin/api.php`.
 
+The dashboard is accessible at `http://pi.hole` by default. You don't need to add it to your hosts file like I did.
+
 ## Links
 
 - [eko/pihole-exporter: A Prometheus exporter for PI-Hole's Raspberry PI ad blocker](https://github.com/eko/pihole-exporter)
