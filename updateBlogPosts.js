@@ -8,7 +8,7 @@ const fetch = require('node-fetch')
 const fs = require('fs')
 
 fetchPosts = async () => {
-    const posts = await fetch('https://rknight.me/feed.json')
+    const posts = await fetch('https://rknight.me/posts.json')
     .then(res => res.json())
     .then(json => {
         return json.posts

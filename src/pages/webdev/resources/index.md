@@ -8,6 +8,11 @@ title: Resources
 https://twitter.com/intent/tweet?text=Something&url=https://example.com
 ```
 
+## VirtualBox
+
+`vagrant destroy` doesn't remove the VM on the Mac and will give an error of `VirtualBox
+is reporting another VM with that name already exists`. To remove it completely, go to `~/VirtualBox VMs` and delete it from there
+
 ## Related
 
 - [CSS page](/webdev/css/)

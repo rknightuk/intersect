@@ -69,3 +69,4 @@ Run `passwd` then choose a new password
 - [PIVPN: Simplest way to setup a VPN](https://www.pivpn.io/)
 - [Cacti® - The Complete RRDTool-based Graphing Solution](https://cacti.net/)
 - [nomachinez/pidisplay dashboard](https://github.com/nomachinez/pidisplay)
+- [A privacy-first, open-source home assistant | Gladys Assistant](https://gladysassistant.com/)

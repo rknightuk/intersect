@@ -217,6 +217,16 @@ function getFlagEmoji(countryCode) {
 
 `console.assert(1 === 1)`
 
+## Format Lists with `Intl.ListFormat`
+
+```js
+const vehicles = ['One', 'Two', 'Three'];
+const formatter = new Intl.ListFormat('en', { style: 'long', type: 'conjunction' });
+formatter.format(vehicles) // One, Two, and Three
+```
+
+[Intl.ListFormat docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/ListFormat)
+
 ## Links
 
 - [Introducing Astro: Ship Less JavaScript](https://astro.build/blog/introducing-astro)
