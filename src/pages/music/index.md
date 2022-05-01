@@ -48,6 +48,8 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 - [serban/menubar-ticker: A macOS menu bar item that displays the current song in iTunes or Spotify](https://github.com/serban/menubar-ticker)
 - [NepTunes — micropixels software](https://micropixels.software/neptunes)
 - [Sleeve — Now playing on your Desktop](https://replay.software/sleeve/purchased)
+- [Cider](https://cider.sh/)
+
 
 ## Links
 

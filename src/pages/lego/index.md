@@ -1,3 +1,4 @@
+
 ---
 title: Lego
 ---
@@ -29,3 +30,5 @@ Bricklink is a marketplace of sellers rather than a single store, so you have to
 - [Lego Clockwork Heart Instructions](https://www.reddit.com/r/lego/comments/46blje/clockwork_heart_instructions_more_info_in_comments/)
 - [Chris McVeigh - Lego Designer](https://chrismcveigh.com/cm/welcome.html)
 - [Minifig Display Frame Black | Digs for Figs](https://digsforfigs.com/product/minifig-display-frame-black/)
+- [DeLorean Time Machine from Back to the Future in Speed Champions style : lego](https://www.reddit.com/r/lego/comments/ub059x/delorean_time_machine_from_back_to_the_future_in/)
+- [Display cases and stands for Pop Culture collectables – Wicked Brick](https://www.wickedbrick.com/)

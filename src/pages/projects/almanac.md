@@ -60,3 +60,7 @@ Almanac will match up previous posts where the same thing has been watched and d
 - [Movies](/movies)
 - [Gaming](/gaming)
 - [Books](/books)
+
+## Links
+
+- [Movie Mash is an self-hosted open source movie tracker](https://moviemash.dotenv.dev/)

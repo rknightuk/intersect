@@ -13,3 +13,8 @@ title: Fonts
 - [Inter font family](https://rsms.me/inter/)
 - [Type With Pride](https://www.typewithpride.com/)
 - [DanielHartUK/Dot-Matrix-Typeface: A simple Dot Matrix style typeface](https://github.com/DanielHartUK/Dot-Matrix-Typeface)
+- [Programming Fonts - Test Drive programming fonts](https://www.programmingfonts.org/)
+- [rbanffy/3270font: A 3270 font in a modern format](https://github.com/rbanffy/3270font)
+- [IBM/plex: The package of IBM’s typeface, IBM Plex.](https://github.com/IBM/plex)
+- [rsms/inter: The Inter font family](https://github.com/rsms/inter)
+- [Bjørn Karmann › Occlusion Grotesque - a typeface carved into a tree](https://bjoernkarmann.dk/occlusion-grotesque)

@@ -52,6 +52,16 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 
 [~./Developer has a special icon on MacOS](https://twitter.com/a_grebenyuk/status/1458249706220527616)
 
+## Zoom in Preview
+
+[Press <code>`</code> to toggle it](https://twitter.com/codepo8/status/1511650091425222657)
+
+## Built in speed test
+
+```bash
+networkQuality -v
+```
+
 ## Links
 
 - [MacStories](https://www.macstories.net/)
@@ -102,3 +112,5 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 - [jwhamilton99/menu-bar-splitter: a mac utility for keeping your menu bar organized](https://github.com/jwhamilton99/menu-bar-splitter)
 - [The secret of the macOS Monterey network quality tool | DanPetrov](https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html)
 - [GrandPerspective - graphically shows the disk usage within a file system](http://grandperspectiv.sourceforge.net/)
+- [Downlink - real-time satellite imagery on your desktop](https://downlinkapp.com/)
+- [Reflex - Reflex takes control of your media keys, and directs them to the app of your choosing](https://stuntsoftware.com/reflex/)
