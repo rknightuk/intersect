@@ -18,3 +18,4 @@ You can see all of [my choosy rules on Github](https://github.com/rknightuk/dotf
 
 - [johnste/finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 - [will-stone/browserosaurus: The browser prompter for macOS](https://github.com/will-stone/browserosaurus)
+- [Velja on the Mac App Store](https://apps.apple.com/app/id1607635845)
