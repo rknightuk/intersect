@@ -16,3 +16,7 @@ Never host your own email unless you like problems.
 - [waschinski/photo-stream: Self-hosted, super simple photo stream](https://github.com/waschinski/photo-stream/)
 - [thelounge/thelounge: 💬 ‎ Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 - [Sandstorm](https://sandstorm.io/)
+- [omnivore-app/omnivore: Omnivore is a complete, open source read-it-later solution for people who like reading.](https://github.com/omnivore-app/omnivore)
+- [Home - Mealie](https://hay-kot.github.io/mealie/)
+- [MaxLeiter/Drift: Drift is a self-hostable Gist alternative and paste service](https://github.com/MaxLeiter/Drift)
+- [Coolify - An open-source & self-hostable Heroku / Netlify alternative](https://coolify.io/)

@@ -18,3 +18,4 @@ title: COVID-19
 - [Antivaxers Think Their ‘Pure’ Semen Will Skyrocket in Value](https://www.vice.com/en/article/epn8j4/antivax-semen-fertility-covid-vaccine-safe)
 - [Genius Of Lunch on Twitter: "Absolutely insane anti-vax sticker outside my apartment https://t.co/x7Nya4BPrP" / Twitter](https://twitter.com/ConorHaloReach/status/1427707880405442573)
 - [Explaining the Pandemic to my Past Self - Julie Nolke](https://www.youtube.com/playlist)
+- [Astrophysicist gets magnets stuck up nose while inventing coronavirus device | Australia news | The Guardian](https://www.theguardian.com/australia-news/2020/mar/30/astrophysicist-gets-magnets-stuck-up-nose-while-inventing-coronavirus-device)

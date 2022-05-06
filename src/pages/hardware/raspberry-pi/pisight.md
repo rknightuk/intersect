@@ -12,3 +12,4 @@ title: PiSight Camera
 - [PiSight Monitor Stand](https://github.com/maxbbraun/pisight/tree/26c4cef49d1f5b3d396f66f86c58a1d579e686a7/monitor_stand)
 - [iSight Clamp for ToM by quadrivia - Thingiverse](https://www.thingiverse.com/thing:11761)
 - [Hand Mirror, for Mac](https://handmirror.app/)
+- [peterbay/camera-control: Simple command-line application for controlling camera settings through V4L2.](https://github.com/peterbay/camera-control)

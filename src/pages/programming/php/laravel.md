@@ -15,3 +15,4 @@ Source `nvm` in the deploy script to fix this:
 - [Installation - Laravel - The PHP Framework For Web Artisans](https://laravel.com/docs)
 - [Laravel Forge | PHP Hosting For Artisans](https://forge.laravel.com)
 - [Laracasts](https://laracasts.com/)
+- [Ploi Move - Forge alternative](https://move.ploi.app/)

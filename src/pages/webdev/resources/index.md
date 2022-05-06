@@ -36,6 +36,14 @@ is reporting another VM with that name already exists`. To remove it completely,
 - [Red CMYK color code | flatuicolorpicker : Best Flat Colors UI Design](https://www.flatuicolorpicker.com/)
 - [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
 
+## DuckDuckGo Icon API
+
+[DuckDuckGo have an api/endpoint for favicons](https://icons.duckduckgo.com/ip3/rknight.me.ico). Example:
+
+```bash
+https://icons.duckduckgo.com/ip3/rknight.me.ico
+```
+
 ## Links
 
 - [Details element with custom arrow](https://codepen.io/NielsVoogt/details/YbaNPd)
@@ -70,3 +78,5 @@ is reporting another VM with that name already exists`. To remove it completely,
 - [M3O - An open source AWS alternative | M3O](https://blog.m3o.com/2021/10/20/m3o-an-open-source-aws-alternative.html)
 - [Primitives — Radix UI - Unstyled, accessible components for building high‑quality design systems and web apps in React](https://www.radix-ui.com/)
 - [Logoipsum | Free Placeholder Logo For Your Design Mock-up](https://logoipsum.com/)
+- [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
+- [IRA Design - Build your own amazing illustrations @ Creative Tim](https://iradesign.io/)

@@ -1,0 +1,25 @@
+---
+title: IndieWeb
+---
+
+[IndieWeb is a people-focused alternative to the "corporate web"](https://indieweb.org/)
+
+## Micropub
+
+[Micropub is a W3C Recommendation](https://www.w3.org/TR/micropub/#w3c-recommendation-23-may-2017):
+
+> The Micropub protocol is used to create, update and delete posts on one's own domain using third-party clients. Web apps and native apps (e.g., iPhone, Android) can use Micropub to post and edit articles, short notes, comments, likes, photos, events or other kinds of posts on your own website
+
+## Resources
+
+- [skpy/micropub: a minimal PHP micropub endpoint, with media support](https://github.com/skpy/micropub)
+- [Micropub Rocks! - a validator to help you test your Micropub implementation](https://micropub.rocks/)
+
+## Platforms
+
+- [lists.sh -- a microblog for lists](https://lists.sh/)
+- [Micro.blog](https://micro.blog/)
+
+## Related
+
+- [Micro.blog page](/indieweb/microblog)

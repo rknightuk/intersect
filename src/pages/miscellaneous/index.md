@@ -13,6 +13,11 @@ Interesting articles and topics that don't fit anywhere else.
 > imagine if you went up to the mona lisa and you were like “i’d like to own this” and someone nearby went “give me 65 million dollars and i’ll burn down an unspecified amount of the amazon rainforest in order to give you this receipt of purchase” so you paid them and they went “here’s your receipt, thank you for your purchase” and went to an unmarked supply closet in the back of the museum and posted a handmade label inside it behind the brooms that said “mona lisa currently owned by jacobgalapagos” so if anyone wants to know who owns it they’d have to find this specific closet in this specific hallway and look behind the correct brooms. and you went “can i take the mona lisa home now?” and they went “oh god no are you stupid? you only bought the receipt that says you own it, you didn’t actually buy the mona lisa itself, you can’t take the real mona lisa you idiot. you CAN take this though.” and gave you the replica print in a cardboard tube that’s sold in the gift shop. also the person selling you the receipt of purchase has at no point in time ever owned the mona lisa.
 
 > unfortunately, if this doesn’t really make sense or seem like any logical person would be happy about this exchange, then you’ve understood it perfectly
+> 
+> 
+[Cryptocurrency](https://twitter.com/SaddestRobots/status/1511711771211571201):
+
+> cryptocurrency is basically a bunch of people getting really excited to buy lotto tickets because the guy who owns the machine that prints lotto tickets told them he makes a lot of money on lotto tickets
 
 ## Links
 
