@@ -20,3 +20,5 @@ Never host your own email unless you like problems.
 - [Home - Mealie](https://hay-kot.github.io/mealie/)
 - [MaxLeiter/Drift: Drift is a self-hostable Gist alternative and paste service](https://github.com/MaxLeiter/Drift)
 - [Coolify - An open-source & self-hostable Heroku / Netlify alternative](https://coolify.io/)
+- [PikaPods - Instant Open Source App Hosting](https://www.pikapods.com/)
+- [RSSHub](https://docs.rsshub.app/en/)

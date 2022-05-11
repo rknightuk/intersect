@@ -19,6 +19,7 @@ title: IndieWeb
 
 - [lists.sh -- a microblog for lists](https://lists.sh/)
 - [Micro.blog](https://micro.blog/)
+- [Blot](https://blot.im/)
 
 ## Related
 

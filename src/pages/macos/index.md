@@ -56,6 +56,16 @@ Put the audio files in `~/Library/Sounds` and they show up in Preferences > Soun
 
 [Press <code>`</code> to toggle it](https://twitter.com/codepo8/status/1511650091425222657)
 
+## Remove background in Preview
+
+1. Select 'Markup'
+2. Select 'Auto Alpha' 
+3. Click and drag down to select the desired background
+4. Press delete on the keyboard 
+5. Repeat steps 3 & 4 if necessary
+
+Source: [10 Tips - Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about#viewer-cdv6n)
+
 ## Built in speed test
 
 ```bash
