@@ -61,3 +61,4 @@ I bought [these replacements for the front plate of my PS5 controllers](https://
 - [water111/jak-project](https://github.com/water111/jak-project)
 - [Africa by Toto but its played on instruments in Majora's Mask - YouTube](https://www.youtube.com/watch?v=Av5oRf88aso&t=8s)
 - [LDtk – 2D level editor](https://ldtk.io/)
+- [PlayStation's ultimate list of gaming terms | This Month on PlayStation (US)](https://www.playstation.com/en-us/editorial/this-month-on-playstation/playstation-ultimate-gaming-glossary/)
