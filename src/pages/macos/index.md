@@ -124,3 +124,4 @@ networkQuality -v
 - [GrandPerspective - graphically shows the disk usage within a file system](http://grandperspectiv.sourceforge.net/)
 - [Downlink - real-time satellite imagery on your desktop](https://downlinkapp.com/)
 - [Reflex - Reflex takes control of your media keys, and directs them to the app of your choosing](https://stuntsoftware.com/reflex/)
+- [JackWellborn/Find-and-Paste-URL-from-Browser: A script to quickly return a given url from Safari or Google Chrome.](https://github.com/JackWellborn/Find-and-Paste-URL-from-Browser)

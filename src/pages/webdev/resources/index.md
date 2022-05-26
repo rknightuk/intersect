@@ -80,3 +80,5 @@ https://icons.duckduckgo.com/ip3/rknight.me.ico
 - [Logoipsum | Free Placeholder Logo For Your Design Mock-up](https://logoipsum.com/)
 - [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)
 - [IRA Design - Build your own amazing illustrations @ Creative Tim](https://iradesign.io/)
+- [Vadootv - Video hosting & marketing made simple by Vadoo](https://www.vadoo.tv/)
+- [updown.io – Website monitoring, simple and inexpensive](https://updown.io/#pricing)

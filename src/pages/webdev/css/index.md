@@ -82,3 +82,4 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [OctoD/postcss-brexit: A post brexit plugin for post-css made for true British English programmers](https://github.com/octod/postcss-brexit)
 - [Grainy Gradients | CSS-Tricks](https://css-tricks.com/grainy-gradients/)
 - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
+- [Light and dark mode in just 14 lines of CSS](https://whitep4nth3r.com/blog/quick-light-dark-mode-css/)

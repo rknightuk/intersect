@@ -251,3 +251,5 @@ formatter.format(vehicles) // One, Two, and Three
 - [EyeDropper/color picker API](https://wicg.github.io/eyedropper-api/)
 - [a11y-dialog lightweight dialog/modal library](https://a11y-dialog.netlify.app/)
 - [Free Charting Library by TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/)
+- [Day.js · 2kB JavaScript date utility library](https://day.js.org/)
+- [SaraVieira/next-fullstack-starter: A nextjs full stack starter for your dreams](https://github.com/SaraVieira/next-fullstack-starter)

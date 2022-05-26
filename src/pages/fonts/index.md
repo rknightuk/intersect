@@ -18,3 +18,4 @@ title: Fonts
 - [IBM/plex: The package of IBM’s typeface, IBM Plex.](https://github.com/IBM/plex)
 - [rsms/inter: The Inter font family](https://github.com/rsms/inter)
 - [Bjørn Karmann › Occlusion Grotesque - a typeface carved into a tree](https://bjoernkarmann.dk/occlusion-grotesque)
+- [Dev Fonts](https://devfonts.gafi.dev/)

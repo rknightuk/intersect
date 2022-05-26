@@ -9,3 +9,4 @@ I use [Almanac](https://almanac.rknight.me/?category=book) to track what books I
 - [The companion app for your book shelf / Oku (formally Readng)](https://oku.club/?notice=oku)
 - [Literal](https://literal.club/)
 - [indiebookclub is a simple app for tracking books you are reading](https://indiebookclub.biz/)
+- [Bionic Reading: Faster. Better. More focused. Reading.](https://bionic-reading.com/)

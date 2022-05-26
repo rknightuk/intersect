@@ -4,6 +4,8 @@ title: YouTube
 
 Use [youtube-dl](https://youtube-dl.org/) to download videos.
 
+Channle RSS feeds: `https://www.youtube.com/feeds/videos.xml?channel_id=`
+
 ## Gaming
 
 - [Girlfriend Reviews](https://www.youtube.com/channel/UC2eEGT06FrWFU6VBnPOR9lg)
