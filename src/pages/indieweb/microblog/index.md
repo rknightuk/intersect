@@ -12,3 +12,4 @@ I use Micro.blog for short posts, photos, book tracking, and read later. [My mic
 - [cleverdevil/micromemories: Add an "On This Day" feature to a Micro.blog website](https://github.com/cleverdevil/micromemories)
 - [thatguygriff/plugin-open-graph: This plugin adds Open Graph meta tags to create social media and iMessage previews for posts](https://github.com/thatguygriff/plugin-open-graph)
 - [A few quick notes about building Micro.blog themes – Colin Devroe](https://cdevroe.com/2021/03/29/notes-mb-themes/)
+- [Hide posts bookmarklets :: Darby M. Dixon III](https://darby3.micro.blog/2022/10/04/throwing-a-code.html)
