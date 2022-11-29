@@ -14,3 +14,4 @@ title: Editors
 - [nvUltra - Searchable, portable, MultiMarkdown notes](https://nvultra.com/)
 - [nvALT](https://brettterpstra.com/projects/nvalt/)
 - [Standard Notes, A Simple And Private Notes App](https://standardnotes.com)
+- [IvanMathy/Boop: A scriptable scratchpad for developers. In slow yet steady progress.](https://github.com/IvanMathy/Boop)
