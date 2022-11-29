@@ -82,3 +82,4 @@ https://icons.duckduckgo.com/ip3/rknight.me.ico
 - [IRA Design - Build your own amazing illustrations @ Creative Tim](https://iradesign.io/)
 - [Vadootv - Video hosting & marketing made simple by Vadoo](https://www.vadoo.tv/)
 - [updown.io – Website monitoring, simple and inexpensive](https://updown.io/#pricing)
+- [The Open Source Firebase Alternative | Supabase](https://supabase.com/)

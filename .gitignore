@@ -8,3 +8,4 @@ fathom_cache.json
 src/_eleventy/_data/config.json
 src/pages/.drafts
 src/pages/.nota
+src/pages/.obsidian

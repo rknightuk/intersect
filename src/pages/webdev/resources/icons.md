@@ -32,3 +32,4 @@ title: Icons
 - [OpenMoji · Library](https://openmoji.org/library/)
 - [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/)
 - [IconKitchen](https://icon.kitchen)
+- [100,000 free icons, illustrations, emojis – Streamline 4.0](https://www.streamlinehq.com/)
