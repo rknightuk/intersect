@@ -7,6 +7,8 @@ title: COVID-19
 - I actually like working from home
 - Leave the house once in a while
 
+[My posts about covid](https://toot.rknight.me/categories/covid/)
+
 ## Links
 
 - [Daily summary | Coronavirus in the UK](https://coronavirus.data.gov.uk/)

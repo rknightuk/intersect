@@ -72,6 +72,10 @@ Source: [10 Tips - Preview the Mac app people forget about](https://www.fourth-w
 networkQuality -v
 ```
 
+## Keyboard Navigation in Modals
+
+[System Settings > Keyboard > Keyboard Navigation](https://twitter.com/wesbos/status/1602324079482118145)
+
 ## Links
 
 - [MacStories](https://www.macstories.net/)

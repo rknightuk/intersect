@@ -2,6 +2,8 @@
 title: Almanac
 ---
 
+**This project is now deprecated in favour of posting on [my micro.blog](https://toot.rknight.me)**
+
 [View my Almanac](https://almanac.rknight.me)
 [View Source on Github](https://github.com/rknightuk/almanac)
 

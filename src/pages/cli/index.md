@@ -81,6 +81,24 @@ $ cal
 $ cal -y 2021
 ```
 
+### Variable is null
+
+```bash
+if [ -z "$VAR" ]; then
+    echo "VAR is null"
+    exit
+fi
+```
+
+### Output file list
+
+```bash
+for file in ./dir/*; do
+      echo "${file##*/}"
+    done
+
+```
+
 ## Related
 
 - [Terminal](/macos/terminal/)

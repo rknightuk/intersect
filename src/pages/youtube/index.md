@@ -4,7 +4,7 @@ title: YouTube
 
 Use [youtube-dl](https://youtube-dl.org/) to download videos.
 
-Channle RSS feeds: `https://www.youtube.com/feeds/videos.xml?channel_id=`
+Channel RSS feeds: `https://www.youtube.com/feeds/videos.xml?channel_id=`
 
 ## Gaming
 

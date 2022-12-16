@@ -33,3 +33,4 @@ title: Icons
 - [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/)
 - [IconKitchen](https://icon.kitchen)
 - [100,000 free icons, illustrations, emojis – Streamline 4.0](https://www.streamlinehq.com/)
+- [Icon Maker by Raycast](https://icon.ray.so/)
