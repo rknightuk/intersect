@@ -35,6 +35,7 @@ is reporting another VM with that name already exists`. To remove it completely,
 - [Brand Colors](https://brandcolors.net) - The biggest collection of official brand color codes
 - [Red CMYK color code | flatuicolorpicker : Best Flat Colors UI Design](https://www.flatuicolorpicker.com/)
 - [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
+- [Open Color color scheme](https://yeun.github.io/open-color/)
 
 ## DuckDuckGo Icon API
 
