@@ -2,7 +2,7 @@
 title: IndieWeb
 ---
 
-[IndieWeb is a people-focused alternative to the "corporate web"](https://indieweb.org/)
+[IndieWeb is a people-focused alternative to the "corporate web"](https://indieweb.org/). Also including resources for quick blogging here.
 
 ## Micropub
 
@@ -12,6 +12,7 @@ title: IndieWeb
 
 ## Resources
 
+- [Indiekit](https://getindiekit.com/)
 - [skpy/micropub: a minimal PHP micropub endpoint, with media support](https://github.com/skpy/micropub)
 - [Micropub Rocks! - a validator to help you test your Micropub implementation](https://micropub.rocks/)
 
@@ -20,6 +21,7 @@ title: IndieWeb
 - [lists.sh -- a microblog for lists](https://lists.sh/)
 - [Micro.blog](https://micro.blog/)
 - [Blot](https://blot.im/)
+- [Bear Blog](https://bearblog.dev/)
 
 ## Related
 
