@@ -24,6 +24,8 @@ These are instances I see a lot of people using and/or I find interesting.
 
 - [Elk](https://elk.zone/home)
 - [Pinafore](https://pinafore.social)
+- [Mastodeck](https://mastodeck.com/)
+- [Phanpy](https://phanpy.social/#/)
 
 ## Apps
 
