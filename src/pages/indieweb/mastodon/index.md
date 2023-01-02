@@ -18,6 +18,8 @@ These are instances I see a lot of people using and/or I find interesting.
 - [https://indieapps.space](https://indieapps.space) - Exclusively for accounts dedicated to apps. Lots of cool indie apps on here.
 - [https://mastodon.macstories.net](https://mastodon.macstories.net) - MacStories own instance for the team. Hopefully we see more sites do this in the future.
 
+[https://instances.social/](https://instances.social/) helps you choose an instance, also has an API.
+
 ## Web clients
 
 - [Elk](https://elk.zone/home)
