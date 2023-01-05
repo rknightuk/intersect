@@ -91,7 +91,7 @@ const myFunction = () => {
 }
 ```
 
-## Use Nunjucks in Markdown Files
+## Ignore Nunjucks in Markdown Files
 
 ```yaml
 templateEngineOverride: njk,md
