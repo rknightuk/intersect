@@ -26,7 +26,7 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 }
 
 .something {
-  --primary-color: #db0a5b;
+  color: var(--primary-color);
 }
 ```
 
