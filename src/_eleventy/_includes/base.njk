@@ -28,7 +28,7 @@
 		{% if config.fathomTrackingId %}
 			<script src="https://{{ config.fathomDomain }}/script.js" data-site="{{ config.fathomTrackingId }}" defer></script>
 		{% endif %}
-		
+
 		<script>
 			searchIndex = {% include 'search.njk' %}
 		</script>
@@ -38,9 +38,23 @@
 		<div class="search-wrapper">
 			<div class="search-modal" id="search-modal">
 				<div id="search-closer" class="search-closer"><svg><use xlink:href="#x"></use></svg></div>
-				<input id="search-input" class="modal-search-input" type="text" placeholder="Search..." tabindex="0"/>
-				<div class="modal-search-alert" id="search-alert"></div>
-				<div class="modal-search-results" id="search-results"></div>
+				<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+
+                <style>
+                @media (prefers-color-scheme: dark) {
+                    :root {
+                    --pagefind-ui-primary: #eeeeee;
+                    --pagefind-ui-text: #eeeeee;
+                    --pagefind-ui-background: #1D2127;
+                    --pagefind-ui-border: #152028;
+                    --pagefind-ui-tag: #152028;
+                    }
+                }
+                </style>
+
+                <div id="pagefind-search" class="search"></div>
+
+                <script src="/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#pagefind-search', showImages: false });"></script>
 			</div>
 		</div>
 		<div id="intersect" class="intersect">
@@ -75,7 +89,9 @@
 							<a target="_blank" rel="noopener" class="github-link" href="{{ data.githubLink }}"><svg><use xlink:href="#github"></use></svg></a>
 						</div>
 
-						{{ content | safe }}
+                        <div data-pagefind-body>
+						    {{ content | safe }}
+                        </div>
 
 						<footer>
 							Updated <strong>{{ data.updated }}</strong> &bull; <a target="_blank" rel="noopener" href="{{ data.historyLink }}">View page history</a>

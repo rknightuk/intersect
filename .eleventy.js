@@ -3,6 +3,7 @@ const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
 const markdownItImageSize = require('@jochenlinnemann/markdown-it-imsize')
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
+const { execSync } = require('child_process')
 
 module.exports = function(eleventyConfig) {
 	// Don't use .gitignore otherwise the CSS won't copy over on compile
@@ -61,6 +62,10 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter('objectDebug', function(value) {
 		return `<pre>${JSON.stringify(value, '', 2)}</pre>`
 	})
+
+    eleventyConfig.on('eleventy.after', () => {
+        execSync(`npx pagefind --source public --glob \"**/*.html\"`, { encoding: 'utf-8' })
+    })
 
 	return {
 		passthroughFileCopy: true,
