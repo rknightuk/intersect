@@ -2,6 +2,6 @@
 title: Sitemap
 ---
 
-{{ collections.pages.data | eleventyNavigation | eleventyNavigationToHtml | safe }}
+{{ collections.pages.data | eleventyNavigation | eleventyNavigationToHtml }}
 
 [sitemap.xml](/sitemap.xml)

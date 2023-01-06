@@ -29,6 +29,7 @@
     position: absolute;
     top: 5px;
     right: 5px;
+    z-index: 1;
 }
 
 .search-closer:hover {
@@ -134,4 +135,16 @@
     color: var(--text-color);
     width: 30px;
     height: 30px;
+}
+
+.pagefind-ui__drawer {
+    padding: 10px!important;
+}
+
+.pagefind-ui__message {
+    padding: 0!important;
+}
+
+.pagefind-ui__search-input {
+    /* background-color: #1D2127!important; */
 }
