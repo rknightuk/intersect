@@ -15,7 +15,7 @@ I'm [Robb Knight](https://rknight.me) and this is ~~my digital garden~~ the Inte
 
 ## What Is This?
 
-To quote Nikita Volodoev directly from [their wiki](https://wiki.nikitavoloboev.xyz):
+To quote Nikita Volodoev directly from [their wiki](https://wiki.nikiv.dev/).
 
 > This is my personal wiki where I share everything I know about this world in form of an online GitBook hosted on GitHub.
 
