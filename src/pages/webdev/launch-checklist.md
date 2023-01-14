@@ -6,24 +6,21 @@ title: Launch Checklist
 
 ```txt
 - [ ] Favicons https://realfavicongenerator.net/
+- [ ] SVG to PNG https://image.online-convert.com/convert-to-svg
 - [ ] Open Graph data
 - [ ] Readme/installation
 - [ ] Alt on images
 - [ ] Rel noopener on `_blank` links
 ```
 
-## Open Graph/Twitter Example
+## Meta Tags
 
 ```html
 <meta property="og:title" content="title">
 <meta property="og:description" content="description">
+<meta property="og:description" content="description">
 <meta property="og:image" content="image url">
 <meta property="og:url" content="page url">
-
-<meta name="twitter:title" content="title">
-<meta name="twitter:description" content="description">
-<meta name="twitter:image" content="image url">
-<meta name="twitter:card" content="card image">
 ```
 
 ## Links

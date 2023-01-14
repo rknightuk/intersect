@@ -17,8 +17,12 @@ These are instances I see a lot of people using and/or I find interesting.
 - [https://mastodon.design](https://mastodon.design) - Design focused.
 - [https://indieapps.space](https://indieapps.space) - Exclusively for accounts dedicated to apps. Lots of cool indie apps on here.
 - [https://mastodon.macstories.net](https://mastodon.macstories.net) - MacStories own instance for the team. Hopefully we see more sites do this in the future.
+- https://masthead.social/about
 
-[https://instances.social/](https://instances.social/) helps you choose an instance, also has an API.
+### Other lists of instances
+
+- [https://instances.social/](https://instances.social/) helps you choose an instance, also has an API.
+- [A list of Mastodon Instances — coxy](https://coxy.co/mastodon/)
 
 ## Web clients
 
