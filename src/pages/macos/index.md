@@ -131,3 +131,4 @@ networkQuality -v
 - [JackWellborn/Find-and-Paste-URL-from-Browser: A script to quickly return a given url from Safari or Google Chrome.](https://github.com/JackWellborn/Find-and-Paste-URL-from-Browser)
 - [Pika color picker • Super High Fives](https://superhighfives.com/pika)
 - [Today — Sindre Sorhus](https://sindresorhus.com/today)
+- [Espanso - A Privacy-first, Cross-platform Text Expander](https://espanso.org/)

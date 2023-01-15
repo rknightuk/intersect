@@ -84,3 +84,4 @@ https://icons.duckduckgo.com/ip3/rknight.me.ico
 - [Vadootv - Video hosting & marketing made simple by Vadoo](https://www.vadoo.tv/)
 - [updown.io – Website monitoring, simple and inexpensive](https://updown.io/#pricing)
 - [The Open Source Firebase Alternative | Supabase](https://supabase.com/)
+- [Generate avatars with initials - User Initial avatars](https://ui-avatars.com/)

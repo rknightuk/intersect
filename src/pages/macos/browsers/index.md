@@ -16,3 +16,4 @@ Preferences > Privacy > Manage Website Data > Remove
 - [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/)
 - [The Browser Company](https://thebrowser.company/)
 - [Orion Browser by Kagi](https://browser.kagi.com/)
+- [Sizzy — The browser for web developers](https://sizzy.co/)

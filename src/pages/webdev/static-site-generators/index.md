@@ -24,3 +24,4 @@ Static site generators turn files (markdown, html, json, whatever) into HTML fil
 - [Adding search to a JAMstack site](https://www.hawksworx.com/blog/adding-search-to-a-jamstack-site/)
 - [tcort/markdown-link-extractor: extracts links from markdown texts](https://github.com/tcort/markdown-link-extractor)
 - [Sergey | the little static site generator](https://sergey.cool/)
+- [Strapi - Open source Node.js Headless CMS 🚀](https://strapi.io/)

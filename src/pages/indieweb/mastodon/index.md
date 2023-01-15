@@ -24,6 +24,16 @@ These are instances I see a lot of people using and/or I find interesting.
 - [https://instances.social/](https://instances.social/) helps you choose an instance, also has an API.
 - [A list of Mastodon Instances — coxy](https://coxy.co/mastodon/)
 
+## Setting up webfinger
+
+Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com` and it point to your mastodon account
+
+- [Configure Eleventy to Host a Custom Mastodon Alias – ReverentGeek](https://reverentgeek.com/configure-eleventy-to-host-a-custom-mastodon-alias/)
+- [Use your own user @ domain for Mastodon discoverability with the WebFinger Protocol without hosting a server - Scott Hanselman's Blog](https://www.hanselman.com/blog/use-your-own-user-domain-for-mastodon-discoverability-with-the-webfinger-protocol-without-hosting-a-server)
+- [Alias your mastodon account to your own domain with Netlify redirect](https://www.hawksworx.com/blog/alias-your-mastodon-username-to-your-domain-with-one-netlify-config-setting/)
+- [Alias your Mastodon username to your own domain with Jekyll | Phil Nash](https://philna.sh/blog/2022/11/23/alias-your-mastodon-username-to-your-own-domain-with-jekyll/)
+
+
 ## Web clients
 
 - [Elk](https://elk.zone/home)
@@ -40,3 +50,5 @@ These are instances I see a lot of people using and/or I find interesting.
 ## Links
 
 - [bird.makeup - Home Page](https://bird.makeup/) - This allows you to follow Twitter users on Mastodon. Not sure how well it works.
+- [Searchtodon: Private Timeline Search for Mastodon](https://searchtodon.social/) - A no longer running experiment
+- [toot.pics - show photo alt text](https://toot.pics/)
