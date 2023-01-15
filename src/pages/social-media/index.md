@@ -19,3 +19,4 @@ I have [Facebook](https://facebook.com) but I really only use it for selling stu
 - [Ben Rice McCarthy–A Glass of Ice Water in Hell](https://www.benricemccarthy.com/blog/2021/8/11/a-glass-of-ice-water-in-hell?utm_source=pocket_mylist)
 - [Mutebot - filters for Tweetbot](https://urre.github.io/mutebot/)
 - [Micro.blog](https://micro.blog/)
+- [Minus](https://minus.social/)
