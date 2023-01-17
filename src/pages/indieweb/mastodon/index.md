@@ -17,7 +17,9 @@ These are instances I see a lot of people using and/or I find interesting.
 - [https://mastodon.design](https://mastodon.design) - Design focused.
 - [https://indieapps.space](https://indieapps.space) - Exclusively for accounts dedicated to apps. Lots of cool indie apps on here.
 - [https://mastodon.macstories.net](https://mastodon.macstories.net) - MacStories own instance for the team. Hopefully we see more sites do this in the future.
+- [botsin.space](https://botsin.space/about) - bot-friendly instance
 - https://masthead.social/about
+- [me.dm by Medium.com](https://me.dm/about)
 
 ### Other lists of instances
 
