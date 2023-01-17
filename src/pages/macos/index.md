@@ -132,3 +132,4 @@ networkQuality -v
 - [Pika color picker • Super High Fives](https://superhighfives.com/pika)
 - [Today — Sindre Sorhus](https://sindresorhus.com/today)
 - [Espanso - A Privacy-first, Cross-platform Text Expander](https://espanso.org/)
+- [Maccy - macOS clipboard manager](https://maccy.app/)
