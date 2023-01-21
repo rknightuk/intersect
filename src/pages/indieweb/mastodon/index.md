@@ -48,6 +48,8 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Metatext](https://apps.apple.com/us/app/metatext/id1523996615)
 - [Ivory](https://tapbots.social/@ivory)
 - [tooot](https://apps.apple.com/us/app/tooot/id1549772269)
+- [Homecoming for Mastodon Safari extension](https://underpassapp.com/homecoming/)
+- [Quintessence - Top links on your instance](https://quintsns.pianeta.uno)
 
 ## Links
 

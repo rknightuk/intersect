@@ -34,3 +34,4 @@ title: Icons
 - [IconKitchen](https://icon.kitchen)
 - [100,000 free icons, illustrations, emojis – Streamline 4.0](https://www.streamlinehq.com/)
 - [Icon Maker by Raycast](https://icon.ray.so/)
+- [Nordicons | Nord Design System](https://nordhealth.design/nordicons/?utm_source=pocket_saves)
