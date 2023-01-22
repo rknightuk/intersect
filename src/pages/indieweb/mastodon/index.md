@@ -51,6 +51,8 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Homecoming for Mastodon Safari extension](https://underpassapp.com/homecoming/)
 - [Quintessence - Top links on your instance](https://quintsns.pianeta.uno)
 - [MastoFeed - Send your RSS Feeds to Mastodon](https://mastofeed.org/)
+- [Mastodon Share](https://mastodonshare.com/
+
 
 ## Digest Tools
 
