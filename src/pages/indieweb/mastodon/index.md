@@ -50,6 +50,14 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [tooot](https://apps.apple.com/us/app/tooot/id1549772269)
 - [Homecoming for Mastodon Safari extension](https://underpassapp.com/homecoming/)
 - [Quintessence - Top links on your instance](https://quintsns.pianeta.uno)
+- [MastoFeed - Send your RSS Feeds to Mastodon](https://mastofeed.org/)
+
+## Digest Tools
+
+- [hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline](https://github.com/hodgesmr/mastodon_digest)
+- [mauforonda/mastodon_digest: A Python script that aggregates recent popular tweets from your Mastodon timeline](https://github.com/mauforonda/mastodon_digest)
+- [mauforonda/mastodon_email_digest: Scans posts you haven't yet seen in your mastodon timeline and sends the most popular ones to your inbox](https://github.com/mauforonda/mastodon_email_digest)
+
 
 ## Links
 
