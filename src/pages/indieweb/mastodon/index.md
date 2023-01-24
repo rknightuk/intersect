@@ -39,7 +39,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 ## Web clients
 
 - [Elk](https://elk.zone/home)
-- [Pinafore](https://pinafore.social)
+- ~~[Pinafore](https://pinafore.social)~~ [Semaphore](https://semaphore.social) is the new version
 - [Mastodeck](https://mastodeck.com/)
 - [Phanpy](https://phanpy.social/#/)
 
