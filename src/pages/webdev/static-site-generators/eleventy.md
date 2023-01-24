@@ -197,3 +197,4 @@ module.exports = {
 - [Eleventy/11ty Recipes](https://11ty.recipes/)
 - [charisrooda/eleventy-data-starter: This is a starter template if you want to work with JSON data.](https://github.com/charisrooda/eleventy-data-starter)
 - [A Set of Useful 11ty Filters | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/useful-11ty-filters/)
+- [11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.](https://github.com/11ty/eleventy-base-blog)
