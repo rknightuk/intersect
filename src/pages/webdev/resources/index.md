@@ -88,3 +88,4 @@ https://icons.duckduckgo.com/ip3/rknight.me.ico
 - [The World’s Best Industry Specific Lorem Ipsum Generator!!](https://www.boom-online.co.uk/lorem-ipsum/)
 - [UI Filler](https://www.uifiller.com/)
 - [Screely - Generate Website Mockups](https://www.screely.com/)
+- [Mario Ipsum | Random 8-bit awesomeness](https://www.mipsum.nl/)
