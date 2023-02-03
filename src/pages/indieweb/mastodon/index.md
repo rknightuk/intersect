@@ -42,6 +42,11 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - ~~[Pinafore](https://pinafore.social)~~ [Semaphore](https://semaphore.social) is the new version
 - [Mastodeck](https://mastodeck.com/)
 - [Phanpy](https://phanpy.social/#/)
+- [Tooty](https://n1k0.github.io/tooty/)
+- [https://fe.soapbox.pub/login/external](https://fe.soapbox.pub/login/external)
+- [Cuckoo+](https://www.cuckoo.social/#/oauth)
+- [https://imgur.io/gallery/B62XEVL](https://imgur.io/gallery/B62XEVL)
+
 
 ## Apps
 
@@ -66,3 +71,5 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [bird.makeup - Home Page](https://bird.makeup/) - This allows you to follow Twitter users on Mastodon. Not sure how well it works.
 - [Searchtodon: Private Timeline Search for Mastodon](https://searchtodon.social/) - A no longer running experiment
 - [toot.pics - show photo alt text](https://toot.pics/)
+- [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/)
+- [Mastodon instance custom emoji list](https://emojos.in/)

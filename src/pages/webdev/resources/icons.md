@@ -36,3 +36,4 @@ title: Icons
 - [Icon Maker by Raycast](https://icon.ray.so/)
 - [Nordicons | Nord Design System](https://nordhealth.design/nordicons/?utm_source=pocket_saves)
 - [Tabler Icons - 1400+ Open source free SVG icons](https://tablericons.com/)
+- [svg-icon collection](https://leungwensen.github.io/svg-icon/#windows)
