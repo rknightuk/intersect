@@ -46,6 +46,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [https://fe.soapbox.pub/login/external](https://fe.soapbox.pub/login/external)
 - [Cuckoo+](https://www.cuckoo.social/#/oauth)
 - [https://imgur.io/gallery/B62XEVL](https://imgur.io/gallery/B62XEVL)
+- [litterbox](https://litterbox.koyu.space/)
 
 
 ## Apps
