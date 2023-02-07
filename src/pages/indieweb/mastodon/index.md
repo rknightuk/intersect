@@ -64,6 +64,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline](https://github.com/hodgesmr/mastodon_digest)
 - [mauforonda/mastodon_digest: A Python script that aggregates recent popular tweets from your Mastodon timeline](https://github.com/mauforonda/mastodon_digest)
 - [mauforonda/mastodon_email_digest: Scans posts you haven't yet seen in your mastodon timeline and sends the most popular ones to your inbox](https://github.com/mauforonda/mastodon_email_digest)
+- [FeedSeer](https://news.feedseer.com/)
 
 
 ## Links
@@ -73,3 +74,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [toot.pics - show photo alt text](https://toot.pics/)
 - [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/)
 - [Mastodon instance custom emoji list](https://emojos.in/)
+- [Change or Switch servers on Mastodon: Step-by-step guide](https://nerdschalk.com/change-or-switch-servers-on-mastodon-step-by-step-guide/)
+- [Mastodon miscellany - All this](https://leancrew.com/all-this/2023/02/mastodon-miscellany/)
+- [Mastodon instance custom emoji list](https://emojos.in/)
+- [StreetPass for Mastodon](https://streetpass.social/)
