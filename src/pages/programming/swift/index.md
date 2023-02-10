@@ -87,5 +87,3 @@ myArray.count
 - [How to detect a URL in a String using NSDataDetector - free Swift 5.4 example code and tips](https://www.hackingwithswift.com/example-code/strings/how-to-detect-a-url-in-a-string-using-nsdatadetector)
 - [JavaScriptCore - NSHipster / Swift](https://nshipster.com/javascriptcore/)
 - [Swift and JavaScript interaction - DEV Community](https://dev.to/gualtierofr/swift-and-javascript-interaction-35gm)
-- [Hacker News](https://news.ycombinator.com/)
-- [Pocket](https://getpocket.com/my-list)

@@ -7,7 +7,7 @@
 body {
     padding: 0;
     margin: 0;
-    font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
     color: var(--text-color);
     background-color: var(--background-color);
 }
@@ -51,7 +51,7 @@ body {
 }
 
 .github-corner svg {
-    fill: var(--primary-color); 
+    fill: var(--primary-color);
     color: var(--grey-background);
 }
 
@@ -111,7 +111,6 @@ body {
 
 .sidebar li {
     list-style-type: none;
-    font-size: 16px;
     position: relative;
 }
 
@@ -121,6 +120,10 @@ body {
     color: var(--text-color);
     display: inline-block;
     width: calc(100% - 40px);
+}
+
+.sidebar .top-level {
+    font-weight: bold;
 }
 
 .sidebar li a:hover {

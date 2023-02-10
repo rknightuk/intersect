@@ -12,4 +12,3 @@ News stories are fleeting. Go back and read and the news from a week or a month 
 
 - [Hello Internet #29: Courses for Horses](https://www.hellointernet.fm/29) - good discussion on "the news"
 - [The Markup](https://themarkup.org/)
-- [Hacker News](https://news.ycombinator.com/)

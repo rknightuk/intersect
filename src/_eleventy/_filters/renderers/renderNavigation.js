@@ -12,10 +12,10 @@ module.exports = function(data) {
 
 		data = `
 		<li
-			${isOpen ? 'class="open"' : ''}
+			class="${isOpen ? 'open' : ''}"
 		>
-			<a 
-				${isCurrentPage ? 'class="active"' : ''}
+			<a
+				class="${isCurrentPage ? 'active' : ''} ${isTopLevel ? 'top-level' : ''}"
 				href="${page.url}"
 			>
 				${page.title}
@@ -31,4 +31,3 @@ module.exports = function(data) {
 
 	return `<ul>${data.join('')}</ul>`
 }
-  

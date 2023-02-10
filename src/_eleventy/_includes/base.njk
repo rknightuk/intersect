@@ -20,14 +20,16 @@
 
 		<meta property="og:title" content="{{ title }} - {{ config.title }}">
 		<meta property="og:description" content="{{ config.description }}">
+        <meta property="description" content="{{ config.description }}">
 		<meta property="og:url" content="{{ config.baseUrl }}{{ page.url }}">
-
-		<meta name="twitter:title" content="{{ title }} - {{ config.title }}">
-		<meta name="twitter:description" content="{{ config.description }}">
+        <meta property="og:image" content="https://intersect.rknight.me/assets/img/preview.png">
 
 		{% if config.fathomTrackingId %}
 			<script src="https://{{ config.fathomDomain }}/script.js" data-site="{{ config.fathomTrackingId }}" defer></script>
 		{% endif %}
+
+        <link rel="preconnect" href="https://fonts.bunny.net">
+        <link href="https://fonts.bunny.net/css?family=atkinson-hyperlegible:400,400i,700,700i|source-code-pro:400" rel="stylesheet" />
 
 		<script>
 			searchIndex = {% include 'search.njk' %}

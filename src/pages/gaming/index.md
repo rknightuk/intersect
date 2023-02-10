@@ -50,8 +50,6 @@ I bought [these replacements for the front plate of my PS5 controllers](https://
 - [Joel Burgess on Twitter: "Alright, so inspired by @NPurkeypile's bee post yesterday, here is one of my favorite bits of Skyrim oral history - the myth of the treasure fox. I've told this story before in talks/etc, but I don't think I've shared it with twitter. Here goes. https://t.co/7uaUlbpmQ8" / Twitter](https://twitter.com/JoelBurgess/status/1428008041887281157)
 - [GG| - Video Game Collection Tracker](https://ggapp.io/)
 - [Playdate Pulp: Zero to video game in 60 Seconds](https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds)
-- [Hacker News](https://news.ycombinator.com/)
-- [Pocket](https://getpocket.com/my-list)
 - [Deathloop's Design Explained by Creative Director Dinga Bakaba | Noclip - YouTube](https://www.youtube.com/watch?v=3ra-jkrurR4)
 - [I ranked every level in Tony Hawk's Pro Skater 1: AndyTHPS](https://www.youtube.com/watch?v=60mRoRb3OOs)
 - [Backloggd - A Video Game Collection Tracker](https://www.backloggd.com/)

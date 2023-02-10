@@ -16,7 +16,7 @@
     position: relative;
     padding: 5px 0;
     margin-top: -17px;
-    font-size: 16px;
+    font-size: 18px;
     display: flex;
     align-items: center;
     margin-bottom: 15px;
@@ -54,7 +54,7 @@
 /* TOC */
 
 nav.toc {
-    font-size: 16px;
+    font-size: 18px;
     background: var(--grey-background);
     padding: 10px 0;
     border: 1px solid var(--light-border-color);

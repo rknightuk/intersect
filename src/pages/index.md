@@ -47,14 +47,6 @@ A lot of the pages will just be snippets and links that I want to remember. For 
 
 The name is a reference to [the government database of intelligence](https://chuck-nbc.fandom.com/wiki/The_Intersect) that the titular character gets embedded in his in head in the TV show [Chuck](https://en.wikipedia.org/wiki/Chuck_(TV_series)).
 
-## Elsewhere
-
-- [Website](https://rknight.me)
-- [Twitter](https://twitter.com/rknightuk)
-- [Github](https://github.com/rknightuk)
-- [Instagram](https://instagram.com/rknightuk)
-- `rknightuk` on lots of other things
-
 ## Recently Updated Pages
 
 <ul>

@@ -35,6 +35,8 @@ module.exports = async function() {
         sort_by: 'pageviews:desc',
     })
 
+    console.log(pageviews)
+
     await asset.save(pageviews, "json")
 
     return {
