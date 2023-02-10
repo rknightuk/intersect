@@ -12,7 +12,7 @@ module.exports = function(data) {
 
 		data = `
 		<li
-			class="${isOpen ? 'open' : ''}"
+			class="open"
 		>
 			<a
 				class="${isCurrentPage ? 'active' : ''} ${isTopLevel ? 'top-level' : ''}"

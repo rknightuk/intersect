@@ -1,6 +1,8 @@
 const FEATURED = [
   '/',
   '/meta/',
+  '/indieweb/',
+  '/webdev/',
 ]
 
 module.exports = function(collection) {
