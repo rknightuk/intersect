@@ -79,3 +79,4 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Mastodon miscellany - All this](https://leancrew.com/all-this/2023/02/mastodon-miscellany/)
 - [Mastodon instance custom emoji list](https://emojos.in/)
 - [StreetPass for Mastodon](https://streetpass.social/)
+- [Share on Mastodon button](https://share-on-mastodon.micahilbery.com/)
