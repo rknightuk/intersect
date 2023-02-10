@@ -23,3 +23,4 @@ You can even enable [public pages](https://app.usefathom.com/share/hhytrxsk/poti
 - [Simple Analytics - Simple, clean, and privacy-friendly analytics](https://simpleanalytics.com/)
 - [0xnr/awesome-analytics: A curated list of analytics frameworks, software and other tools.](https://github.com/0xnr/awesome-analytics)
 - [Website Traffic and Performance Insights | Panelbear](https://panelbear.com/)
+- [Website Analytics Made Simple and Privacy-friendly - TinyAnalytics](https://tinyanalytics.io/)
