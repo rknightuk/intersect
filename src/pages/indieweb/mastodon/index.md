@@ -18,8 +18,10 @@ These are instances I see a lot of people using and/or I find interesting.
 - [https://indieapps.space](https://indieapps.space) - Exclusively for accounts dedicated to apps. Lots of cool indie apps on here.
 - [https://mastodon.macstories.net](https://mastodon.macstories.net) - MacStories own instance for the team. Hopefully we see more sites do this in the future.
 - [botsin.space](https://botsin.space/about) - bot-friendly instance
-- https://masthead.social/about
+- [Masthead](https://masthead.social/about)
 - [me.dm by Medium.com](https://me.dm/about)
+- [strangeobject.space](https://strangeobject.space/explore)
+- [FlipScreen](https://flipscreen.social/explore)
 
 ### Other lists of instances
 
@@ -43,9 +45,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Mastodeck](https://mastodeck.com/)
 - [Phanpy](https://phanpy.social/#/)
 - [Tooty](https://n1k0.github.io/tooty/)
-- [https://fe.soapbox.pub/login/external](https://fe.soapbox.pub/login/external)
 - [Cuckoo+](https://www.cuckoo.social/#/oauth)
-- [https://imgur.io/gallery/B62XEVL](https://imgur.io/gallery/B62XEVL)
 - [litterbox](https://litterbox.koyu.space/)
 
 
@@ -54,10 +54,19 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Metatext](https://apps.apple.com/us/app/metatext/id1523996615)
 - [Ivory](https://tapbots.social/@ivory)
 - [tooot](https://apps.apple.com/us/app/tooot/id1549772269)
+- [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
+
+## Browser Extensions
+
+- [StreetPass for Mastodon](https://streetpass.social/)
 - [Homecoming for Mastodon Safari extension](https://underpassapp.com/homecoming/)
-- [Quintessence - Top links on your instance](https://quintsns.pianeta.uno)
-- [MastoFeed - Send your RSS Feeds to Mastodon](https://mastofeed.org/)
+
+## Sharing and Crossposting
+
+- [Echo - RSS Cross Poster](https://echo.rknight.me/)
 - [Mastodon Share](https://mastodonshare.com/)
+- [Share on Mastodon button](https://share-on-mastodon.micahilbery.com/)
+- [MastoFeed - Send your RSS Feeds to Mastodon](https://mastofeed.org/)
 
 
 ## Digest Tools
@@ -66,17 +75,19 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [mauforonda/mastodon_digest: A Python script that aggregates recent popular tweets from your Mastodon timeline](https://github.com/mauforonda/mastodon_digest)
 - [mauforonda/mastodon_email_digest: Scans posts you haven't yet seen in your mastodon timeline and sends the most popular ones to your inbox](https://github.com/mauforonda/mastodon_email_digest)
 - [FeedSeer](https://news.feedseer.com/)
+- [Quintessence - Top links on your instance](https://quintsns.pianeta.uno)
+
+## Search
+
+- [Searchtodon: Private Timeline Search for Mastodon](https://searchtodon.social/) - A no longer running experiment
+- [Tootfinder](https://www.tootfinder.ch/) - opt-in search
 
 
 ## Links
 
 - [bird.makeup - Home Page](https://bird.makeup/) - This allows you to follow Twitter users on Mastodon. Not sure how well it works.
-- [Searchtodon: Private Timeline Search for Mastodon](https://searchtodon.social/) - A no longer running experiment
 - [toot.pics - show photo alt text](https://toot.pics/)
 - [Cheap Bots, Toot Sweet!](https://cheapbotstootsweet.com/)
 - [Mastodon instance custom emoji list](https://emojos.in/)
 - [Change or Switch servers on Mastodon: Step-by-step guide](https://nerdschalk.com/change-or-switch-servers-on-mastodon-step-by-step-guide/)
 - [Mastodon miscellany - All this](https://leancrew.com/all-this/2023/02/mastodon-miscellany/)
-- [Mastodon instance custom emoji list](https://emojos.in/)
-- [StreetPass for Mastodon](https://streetpass.social/)
-- [Share on Mastodon button](https://share-on-mastodon.micahilbery.com/)
