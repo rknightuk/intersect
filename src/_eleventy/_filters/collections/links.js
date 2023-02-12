@@ -47,7 +47,10 @@ module.exports = function(data) {
   let links = []
 
   collection.forEach((c) => {
-    links = [...links, ...extractLinks(c.template.inputContent, c.data.title, c.data.page.url)]
+    // if (c.inputPath !== './src/pages/404.html')
+    // {
+        links = [...links, ...extractLinks(c.template._frontMatter.content, c.data.title, c.data.page.url)]
+    // }
   })
 
   // sort by length of title. Longer title, probably more descriptive

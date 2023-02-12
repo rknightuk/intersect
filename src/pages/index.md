@@ -46,11 +46,3 @@ A lot of the pages will just be snippets and links that I want to remember. For 
 ## Why "Intersect"?
 
 The name is a reference to [the government database of intelligence](https://chuck-nbc.fandom.com/wiki/The_Intersect) that the titular character gets embedded in his in head in the TV show [Chuck](https://en.wikipedia.org/wiki/Chuck_(TV_series)).
-
-## Recently Updated Pages
-
-<ul>
-    {%- for file in updated.files.splice(0, 10) -%}
-        <li><a href="{{ file.file }}">{{ collections.pages.pageIndex[file.file].title }}</a> <code>{{ file.updated }}</code></li>
-    {% endfor %}
-</ul>

@@ -10,7 +10,7 @@ squashContent = function(text) {
   var content = content.toLowerCase();
 
   content = content.toLowerCase().replace(URL_REGEX, '')
-  
+
   // remove all html elements and new lines
   var re = /(&lt;.*?&gt;)/gi;
   var result = unescape(content.replace(re, ''));
@@ -97,12 +97,6 @@ module.exports = {
         breadcrumbPartsHTML = ['<a href="/">Introduction</a>']
       }
 
-      let updated = ''
-      if (data.updated.key)
-      {
-        updated = data.updated.key[data.page.url] || ''
-      }
-
       return {
         linkCount: countLinks(md),
         githubLink: `${data.config.githubLink}/blob/main/${inputPath}`,
@@ -113,7 +107,6 @@ module.exports = {
         parentUrl,
         contentIndex: squashContent(md),
         filePath: `/${inputPath}`,
-        updated,
       }
     }
   }
