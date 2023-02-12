@@ -10,25 +10,6 @@ templateEngineOverride: 'njk,md'
 - {{ navPages.length }} topics
 - {{ collections.pages.data.length }} pages
 
-### Top 25 Pages by Pageviews
-
-[Data from Fathom](https://usefathom.com/ref/IXCLSF)
-
-<table>
-  <thead>
-    <th>Page</th>
-    <th>Pageviews</th>
-  </thead>
-  <tbody>
-    {%- for page in fathom.popularPages.splice(0, 25) -%}
-        <tr>
-            <td><a href="{{ page.pathname }}">{{ collections.pages.pageIndex[page.pathname].title }}</td>
-            <td>{{ page.pageviews }}</td>
-        </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
 ## Links
 
 - {{ collections.linkData.links.length }} links
