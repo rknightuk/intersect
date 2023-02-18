@@ -49,18 +49,24 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 - [NepTunes — micropixels software](https://micropixels.software/neptunes)
 - [Sleeve — Now playing on your Desktop](https://replay.software/sleeve/purchased)
 - [Cider](https://cider.sh/)
+- [Music MiniPlayer for macOS](https://marioaguzman.github.io/musicminiplayer/)
 
 
-## Links
+## Other Apps
 
 - [Soundiiz - Move playlists from Spotify to Apple Music](https://soundiiz.com/tutorial/apple-music-to-spotify)
 - [MusicThread](https://musicthread.app) - A place to share the music you love
+- [Album Whale](https://albumwhale.com/)
+- [Songlink/Odesli](https://odesli.co/)
+- [“iPod Shuffle” Music Shortcut for iOS and macOS — Nathaniel Daught](https://daught.me/blog/ipod-shuffle-music-shortcut-ios-macos)
+
+## Links
+
 - [What’s a cover of a song that you like more than the original? : AskUK](https://www.reddit.com/r/AskUK/comments/ok38w5/whats_a_cover_of_a_song_that_you_like_more_than/)
 - [10 Best Hip-Hop Albums Of All Times (as of 2021) | SPY](https://spy.com/articles/lifestyle/entertainment/best-hip-hop-albums-1202755966/)
 - [If Eminem Was English - YouTube](https://www.youtube.com/watch?v=efkc4TaYL5w)
 - [iPod.js](https://tannerv.com/ipod/)
 - [‎Take Control by Old Gods of Asgard](https://music.apple.com/gb/album/take-control/1476853848?i=1476854232)
-- [Songlink/Odesli](https://odesli.co/)
 - [Kenickie](https://en.wikipedia.org/wiki/Kenickie) - Lauren Laverne's band
 - [Kiss Guy (YAYO Sanchez) plays Monkeywrench w/ Foo Fighters Austin TX 4-18-18 - YouTube](https://www.youtube.com/watch?v=Z4b6BPaO944)
 - [Kiss Guy: How I blew Dave Grohl's mind](https://www.loudersound.com/features/i-am-the-kiss-guy-that-played-monkey-wrench-with-foo-fighters)
@@ -73,5 +79,3 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 - ["Baby Got Back:" Sir Mix-A-Lot with the Seattle Symphony - YouTube](https://www.youtube.com/watch?v=w59e20ijOpE)
 - [Foo Fighters "Everlong" w/ 11-Year-Old Nandi Bushell, The Forum, Los Angeles, 8.26.21 - YouTube](https://www.youtube.com/watch?v=jsDgrKdczAE)
 - [DECO on Twitter: "If ‘Bitter Sweet Symphony’ came out in the 80s 🎶🔥 Like & RT Full version anyone?: https://t.co/wLH0Xgi8bi https://t.co/EZGvclB17j" / Twitter](https://twitter.com/decobanduk/status/1466675894169260032)
-- [“iPod Shuffle” Music Shortcut for iOS and macOS — Nathaniel Daught](https://daught.me/blog/ipod-shuffle-music-shortcut-ios-macos)
-- [Album Whale](https://albumwhale.com/)

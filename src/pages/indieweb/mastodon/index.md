@@ -91,3 +91,4 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Mastodon instance custom emoji list](https://emojos.in/)
 - [Change or Switch servers on Mastodon: Step-by-step guide](https://nerdschalk.com/change-or-switch-servers-on-mastodon-step-by-step-guide/)
 - [Mastodon miscellany - All this](https://leancrew.com/all-this/2023/02/mastodon-miscellany/)
+- [Automating your Mastodon profile with Pipedream.com | Stefan Bohacek](https://stefanbohacek.com/blog/automating-your-mastodon-profile-with-pipedream-com/)

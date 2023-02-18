@@ -59,3 +59,4 @@ for (var i = 0; i < titles.length; i++) {
 - [Listen to podcasts at whatever speed you want – Marco.org](https://marco.org/2015/02/17/listen-to-podcasts-at-whatever-speed-you-want)
 - [The Podcast Guest Guide](https://antonyjohnston.com/podcastguestguide/)
 - [Subscribe to a podcast from the beginning - ⏪ rewind.website](https://rewind.website/)
+- [Podcast Search](https://podsearch.david-smith.org/)

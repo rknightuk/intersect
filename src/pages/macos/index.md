@@ -133,3 +133,4 @@ networkQuality -v
 - [Today — Sindre Sorhus](https://sindresorhus.com/today)
 - [Espanso - A Privacy-first, Cross-platform Text Expander](https://espanso.org/)
 - [Maccy - macOS clipboard manager](https://maccy.app/)
+- [Pulsar - A Community-led Hyper-Hackable Text Editor](https://pulsar-edit.dev/)

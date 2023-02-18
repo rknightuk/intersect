@@ -89,3 +89,5 @@ https://icons.duckduckgo.com/ip3/rknight.me.ico
 - [UI Filler](https://www.uifiller.com/)
 - [Screely - Generate Website Mockups](https://www.screely.com/)
 - [Mario Ipsum | Random 8-bit awesomeness](https://www.mipsum.nl/)
+- [dariusk/corpora: A collection of small corpuses of interesting data for the creation of bots and similar stuff.](https://github.com/dariusk/corpora)
+- [Meridian - OpenStreetMap-based places database and API.](https://latl.ong/)

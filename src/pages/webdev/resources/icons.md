@@ -10,6 +10,7 @@ title: Icons
 - [Font Awesome](https://fontawesome.com/)
 - [Line Awesome — Free Beautiful Icon Font - Drop-in replacement for Font Awesome](https://icons8.com/line-awesome)
 - [softies icon set](https://robbiepearce.com/softies/)
+- 
 - [Simple Icons - Brand Icons](https://simpleicons.org/)
 - [2600 Flag Icon Set - Resources from GoSquared](https://www.gosquared.com/resources/flag-icons/)
 - [GitHub Octicons](https://primer.style/octicons/)
@@ -37,3 +38,6 @@ title: Icons
 - [Nordicons | Nord Design System](https://nordhealth.design/nordicons/?utm_source=pocket_saves)
 - [Tabler Icons - 1400+ Open source free SVG icons](https://tablericons.com/)
 - [svg-icon collection](https://leungwensen.github.io/svg-icon/#windows)
+- [ISO 7010 - Wikipedia](https://en.wikipedia.org/wiki/ISO_7010)
+- [tvler/laundry-symbols: Every laundry symbol as a 24x24 SVG](https://github.com/tvler/laundry-symbols)
+- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)

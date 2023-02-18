@@ -22,6 +22,7 @@ title: IndieWeb
 - [Micro.blog](https://micro.blog/)
 - [Blot](https://blot.im/)
 - [Bear Blog](https://bearblog.dev/)
+- [microblog.pub - A self-hosted, single-user, ActivityPub powered microblog.](https://docs.microblog.pub/)
 
 ## Related
 
