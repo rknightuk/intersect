@@ -58,3 +58,4 @@ Interesting articles and topics that don't fit anywhere else.
 - [Waveform visualiser](https://jbt.io/waveform/)
 - [Photographer Finds Polar Bears That Took Over Abandoned Buildings | PetaPixel](https://petapixel.com/2022/01/13/photographer-finds-polar-bears-that-took-over-abandoned-buildings/)
 - [MadRabbit/halmak: The final version of the AI designed keyboard layout](https://github.com/MadRabbit/halmak)
+- [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
