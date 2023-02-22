@@ -41,3 +41,4 @@ title: Icons
 - [ISO 7010 - Wikipedia](https://en.wikipedia.org/wiki/ISO_7010)
 - [tvler/laundry-symbols: Every laundry symbol as a 24x24 SVG](https://github.com/tvler/laundry-symbols)
 - [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
+- [SVG Format - KanjiVG](https://kanjivg.tagaini.net/svg-format.html)
