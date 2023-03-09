@@ -10,6 +10,8 @@ title: Mastodon
 
 ## Instances
 
+[FediBlock](https://joinfediverse.wiki/FediBlock) is a list of instances that you should avoid (or block if you're an instance admin)
+
 These are instances I see a lot of people using and/or I find interesting.
 
 - [https://social.lol](https://social.lol) - The instance I use. This is part of [omg.lol](https://home.omg.lol/referred-by/robb) which costs $20 a year.
@@ -23,8 +25,8 @@ These are instances I see a lot of people using and/or I find interesting.
 ### Misc Instances 
 
 - [https://mastodon.macstories.net](https://mastodon.macstories.net) - MacStories own instance for the team. Hopefully we see more sites do this in the future.
+- [https://relayfm.social/](https://relayfm.social/) - Same as MacStories but for Relay.fm
 - [botsin.space](https://botsin.space/about) - bot-friendly instance
-- [Masthead](https://masthead.social/about)
 - [me.dm by Medium.com](https://me.dm/about)
 
 ### Other lists of instances
@@ -51,7 +53,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Tooty](https://n1k0.github.io/tooty/)
 - [Cuckoo+](https://www.cuckoo.social/#/oauth)
 - [litterbox](https://litterbox.koyu.space/)
-
+- [MastoMetrics](https://mastometrics.com)
 
 ## Apps
 
