@@ -59,3 +59,5 @@ Interesting articles and topics that don't fit anywhere else.
 - [Photographer Finds Polar Bears That Took Over Abandoned Buildings | PetaPixel](https://petapixel.com/2022/01/13/photographer-finds-polar-bears-that-took-over-abandoned-buildings/)
 - [MadRabbit/halmak: The final version of the AI designed keyboard layout](https://github.com/MadRabbit/halmak)
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
+- [Historic Tale Construction Kit - Bayeux](https://htck.github.io/bayeux/#!/)
+- [Catalogue | Mobile Phone Museum](https://www.mobilephonemuseum.com/catalogue/)

@@ -63,6 +63,20 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 }
 ```
 
+### Quick Calendar with grids
+
+[Source](https://mastodon.nz/@mez/110063913946649082)
+
+Setting up a calendar with HTML/CSS is so easy these days.
+Make a container, put 28, 30, or 31 elements inside. Add two (2) lines of CSS:
+
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+
+Then tell `calendar > day:first-child` to start at the appropriate spot in the grid with `grid-column-start: n`
+
+You’re done. Style to taste.
+
 ## Links
 
 - [CSS accent-color](https://web.dev/accent-color/)

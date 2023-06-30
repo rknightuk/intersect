@@ -43,3 +43,4 @@ title: Icons
 - [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
 - [SVG Format - KanjiVG](https://kanjivg.tagaini.net/svg-format.html)
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
+- [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)

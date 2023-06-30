@@ -34,3 +34,5 @@ Either of these will usually be deployed with [Laravel Forge](https://forge.lara
 - [Now you see me, now you don't: feature-flagging with LaunchDarkly at incident.io | incident.io | incident.io](https://incident.io/blog/feature-flagging-launch-darkly)
 - [lon lat lon lat lon - macwright.com - lat long order reference](https://macwright.com/lonlat/)
 - [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
+- [WebReflection/linkedom: A triple-linked lists based DOM implementation.](https://github.com/WebReflection/linkedom) - An alternative to Cheerio
+- [Dear Console,… - a collection of code snippets to use in the browser console](https://codepo8.github.io/dearconsole/)

@@ -19,3 +19,7 @@ title: Fonts
 - [rsms/inter: The Inter font family](https://github.com/rsms/inter)
 - [Bjørn Karmann › Occlusion Grotesque - a typeface carved into a tree](https://bjoernkarmann.dk/occlusion-grotesque)
 - [Dev Fonts](https://devfonts.gafi.dev/)
+- [petykowski/London-Underground-Dot-Matrix-Typeface: A set of dot matrix fonts in the style of TfL's Underground arrivals board.](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono/releases)
+- [Free Faces](https://www.freefaces.gallery/)
+- [ZXSpectrum/fonts/inline at main · blogmywiki/ZXSpectrum · GitHub](https://github.com/blogmywiki/ZXSpectrum/tree/main/fonts/inline)

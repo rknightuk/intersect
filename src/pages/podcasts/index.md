@@ -60,3 +60,4 @@ for (var i = 0; i < titles.length; i++) {
 - [The Podcast Guest Guide](https://antonyjohnston.com/podcastguestguide/)
 - [Subscribe to a podcast from the beginning - ⏪ rewind.website](https://rewind.website/)
 - [Podcast Search](https://podsearch.david-smith.org/)
+- [Castopod by Ad Aures | Your Free & Open-source Podcast Host](https://castopod.org/)
