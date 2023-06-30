@@ -17,3 +17,4 @@ Ones I've used (including on this site):
 - [RPGUI - RPG-style gui in HTML5!](http://ronenness.github.io/RPGUI/)
 - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 - [Simple.css](https://simplecss.org/)
+- [holiday.css - a minimalist classless CSS theme with dark mode support. Only 5 KB.](https://holidaycss.js.org/)

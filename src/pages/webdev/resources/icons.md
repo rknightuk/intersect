@@ -42,3 +42,4 @@ title: Icons
 - [tvler/laundry-symbols: Every laundry symbol as a 24x24 SVG](https://github.com/tvler/laundry-symbols)
 - [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
 - [SVG Format - KanjiVG](https://kanjivg.tagaini.net/svg-format.html)
+- [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)

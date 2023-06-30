@@ -84,3 +84,4 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 - [Light and dark mode in just 14 lines of CSS](https://whitep4nth3r.com/blog/quick-light-dark-mode-css/)
 - [A responsive striped CSS gradient inspired by 80s VHS tapes](https://whitep4nth3r.com/blog/responsive-striped-css-pattern-80s-vhs-tapes/)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
