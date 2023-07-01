@@ -6,7 +6,7 @@ title: Mastodon
 
 - [Movetodon: Find your Twitter Friends on Mastodon](https://www.movetodon.org/)
 - [Twitodon](https://twitodon.com/)
-- [Followgraph for Mastodon](https://followgraph.vercel.app/) - This one finds people you follow follow to find new people to...follow.
+- [Followgraph for Mastodon](https://followgraph.vercel.app/) - This one finds people you follow to find new people to...follow.
 
 ## Instances
 
@@ -34,10 +34,11 @@ These are instances I see a lot of people using and/or I find interesting.
 - [https://instances.social/](https://instances.social/) helps you choose an instance, also has an API.
 - [A list of Mastodon Instances — coxy](https://coxy.co/mastodon/)
 
-## Setting up webfinger
+## Setting up webfinger and ActivityPub
 
 Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com` and it point to your mastodon account
 
+- [Building an ActivityPub Server](https://rknight.me/building-an-activitypub-server/)
 - [Configure Eleventy to Host a Custom Mastodon Alias – ReverentGeek](https://reverentgeek.com/configure-eleventy-to-host-a-custom-mastodon-alias/)
 - [Use your own user @ domain for Mastodon discoverability with the WebFinger Protocol without hosting a server - Scott Hanselman's Blog](https://www.hanselman.com/blog/use-your-own-user-domain-for-mastodon-discoverability-with-the-webfinger-protocol-without-hosting-a-server)
 - [Alias your mastodon account to your own domain with Netlify redirect](https://www.hawksworx.com/blog/alias-your-mastodon-username-to-your-domain-with-one-netlify-config-setting/)
@@ -74,7 +75,6 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Share on Mastodon button](https://share-on-mastodon.micahilbery.com/)
 - [MastoFeed - Send your RSS Feeds to Mastodon](https://mastofeed.org/)
 
-
 ## Digest Tools
 
 - [hodgesmr/mastodon_digest: A Python script that aggregates recent popular posts from your Mastodon timeline](https://github.com/hodgesmr/mastodon_digest)
@@ -82,6 +82,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [mauforonda/mastodon_email_digest: Scans posts you haven't yet seen in your mastodon timeline and sends the most popular ones to your inbox](https://github.com/mauforonda/mastodon_email_digest)
 - [FeedSeer](https://news.feedseer.com/)
 - [Quintessence - Top links on your instance](https://quintsns.pianeta.uno)
+- [feditrends](https://feditrends.com/)
 
 ## Search
 
