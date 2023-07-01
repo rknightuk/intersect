@@ -4,13 +4,15 @@ title: Mastodon
 
 ## People Finders
 
-- [Movetodon: Find your Twitter Friends on Mastodon](https://www.movetodon.org/)
-- [Twitodon](https://twitodon.com/)
+- ~~[Movetodon: Find your Twitter Friends on Mastodon](https://www.movetodon.org/)~~
+- ~~[Twitodon](https://twitodon.com/)~~
 - [Followgraph for Mastodon](https://followgraph.vercel.app/) - This one finds people you follow to find new people to...follow.
 
 ## Instances
 
 [FediBlock](https://joinfediverse.wiki/FediBlock) is a list of instances that you should avoid (or block if you're an instance admin)
+
+[Bugle](https://bugle.lol) is a self-hosted ActivityPub server I built.
 
 These are instances I see a lot of people using and/or I find interesting.
 
