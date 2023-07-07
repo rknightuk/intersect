@@ -69,6 +69,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 
 - [StreetPass for Mastodon](https://streetpass.social/)
 - [Homecoming for Mastodon Safari extension](https://underpassapp.com/homecoming/)
+- [stefanbohacek/mastodon-tools: Making Mastodon easier to use.](https://github.com/stefanbohacek/mastodon-tools)
 
 ## Sharing and Crossposting
 
