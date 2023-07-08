@@ -103,3 +103,4 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Mastodon miscellany - All this](https://leancrew.com/all-this/2023/02/mastodon-miscellany/)
 - [Automating your Mastodon profile with Pipedream.com | Stefan Bohacek](https://stefanbohacek.com/blog/automating-your-mastodon-profile-with-pipedream-com/)
 - [joyeusenoelle/GuideToMastodon: An increasingly less-brief guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
+- [muesli/mastotool: A collection of command-line tools to work with your Mastodon account](https://github.com/muesli/mastotool)
