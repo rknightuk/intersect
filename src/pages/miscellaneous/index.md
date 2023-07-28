@@ -61,3 +61,5 @@ Interesting articles and topics that don't fit anywhere else.
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
 - [Historic Tale Construction Kit - Bayeux](https://htck.github.io/bayeux/#!/)
 - [Catalogue | Mobile Phone Museum](https://www.mobilephonemuseum.com/catalogue/)
+- [You Wouldn't Edit a Meme - Online Meme Generator](https://youwouldntsteala.website/editor.html)
+- [AppleDB | AppleDB](https://appledb.dev/)

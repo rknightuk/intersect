@@ -36,3 +36,4 @@ existing.setAttribute('viewBox', `${viewBox.x} ${viewBox.y} ${viewBox.width} ${v
 - [Hero Patterns | Free repeatable SVG background patterns for your web projects](https://www.heropatterns.com/)
 - [SVGeez - Free customizable SVG background patterns | Home](https://www.svgeez.com/)
 - [Basic Pattern Repository](https://patterns.helloyes.dev/)
+- [Animated line drawing in SVG - JakeArchibald.com](https://jakearchibald.com/2013/animated-line-drawing-svg/)

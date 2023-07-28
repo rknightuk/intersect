@@ -2,6 +2,12 @@
 title: Fonts
 ---
 
+## Fonts from media
+
+- **Scott Pilgrim vs. The World**
+    - [Superfly](https://www.dafont.com/superfly.font)
+    - [Dusty](https://www.dafont.com/dusty.font)
+
 ## Links
 
 - [Courier Prime: It's Courier, just better.](https://quoteunquoteapps.com/courierprime/)
@@ -23,3 +29,4 @@ title: Fonts
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono/releases)
 - [Free Faces](https://www.freefaces.gallery/)
 - [ZXSpectrum/fonts/inline at main · blogmywiki/ZXSpectrum · GitHub](https://github.com/blogmywiki/ZXSpectrum/tree/main/fonts/inline)
+- [Commit Mono. Neutral programming typeface.](https://commitmono.com/)

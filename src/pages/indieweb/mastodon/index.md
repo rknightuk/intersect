@@ -104,3 +104,5 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Automating your Mastodon profile with Pipedream.com | Stefan Bohacek](https://stefanbohacek.com/blog/automating-your-mastodon-profile-with-pipedream-com/)
 - [joyeusenoelle/GuideToMastodon: An increasingly less-brief guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
 - [muesli/mastotool: A collection of command-line tools to work with your Mastodon account](https://github.com/muesli/mastotool)
+- [andy-blum/fed-embed: A highly customizable, lightweight mastodon feed embed component](https://github.com/andy-blum/fed-embed)
+- [Gaelan/minifedi: Run a tiny fediverse on your machine for testing, with no fuss.](https://github.com/gaelan/minifedi)

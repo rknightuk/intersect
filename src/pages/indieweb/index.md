@@ -27,3 +27,8 @@ title: IndieWeb
 ## Related
 
 - [Micro.blog page](/indieweb/microblog)
+
+## Links
+
+- [lib.reviews - a free, open and not-for-profit platform for reviewing absolutely anything, in any language](https://lib.reviews/)
+- [radio free fedi - sounds from the fediverse to the universe](https://party.radiofreefedi.net/)
