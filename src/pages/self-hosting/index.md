@@ -23,3 +23,4 @@ Never host your own email unless you like problems.
 - [PikaPods - Instant Open Source App Hosting](https://www.pikapods.com/)
 - [RSSHub](https://docs.rsshub.app/en/)
 - [Lissy93/dashy: 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!](https://github.com/Lissy93/dashy?utm_source=pocket_saves)
+- [Codeberg.org](https://codeberg.org/)

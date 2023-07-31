@@ -44,3 +44,4 @@ title: Icons
 - [SVG Format - KanjiVG](https://kanjivg.tagaini.net/svg-format.html)
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
 - [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
+- [Iconbuddy — 100K+ open source icons](https://iconbuddy.app/)
