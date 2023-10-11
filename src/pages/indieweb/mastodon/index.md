@@ -35,6 +35,7 @@ These are instances I see a lot of people using and/or I find interesting.
 
 - [https://instances.social/](https://instances.social/) helps you choose an instance, also has an API.
 - [A list of Mastodon Instances — coxy](https://coxy.co/mastodon/)
+- [activitypub.network](https://activitypub.network/)
 
 ## Setting up webfinger and ActivityPub
 

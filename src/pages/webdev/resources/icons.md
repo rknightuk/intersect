@@ -45,3 +45,4 @@ title: Icons
 - [Brands of the World™ | Download vector logos and logotypes](https://www.brandsoftheworld.com/)
 - [700+ CSS Icons, Customizable, Retina Ready & API](https://css.gg/)
 - [Iconbuddy — 100K+ open source icons](https://iconbuddy.app/)
+- [deadsuperhero/decentralized-social-icons: An attempt to put all of the Fediverse project logos into one icon font. - decentralized-social-icons - Codeberg.org](https://codeberg.org/deadsuperhero/decentralized-social-icons)
