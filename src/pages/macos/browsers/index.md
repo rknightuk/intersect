@@ -17,3 +17,4 @@ Preferences > Privacy > Manage Website Data > Remove
 - [The Browser Company](https://thebrowser.company/)
 - [Orion Browser by Kagi](https://browser.kagi.com/)
 - [Sizzy — The browser for web developers](https://sizzy.co/)
+- [Polypane, The browser for ambitious web developers](https://polypane.app/)

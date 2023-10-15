@@ -117,3 +117,4 @@ for file in ./dir/*; do
 - [Planter - indented text files to folders](https://brettterpstra.com/projects/planter/)
 - [Linux/BSD command line wizardry: Learn to think in sed, awk, and grep | Ars Technica](https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/)
 - [Share local sites via secure tunnels with Expose - Share local sites via secure tunnels with Expose](https://expose.dev/)
+- [Starship: Cross-Shell Prompt](https://starship.rs/)

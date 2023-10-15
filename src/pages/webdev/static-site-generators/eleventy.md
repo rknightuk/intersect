@@ -199,3 +199,5 @@ module.exports = {
 - [A Set of Useful 11ty Filters | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/useful-11ty-filters/)
 - [11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.](https://github.com/11ty/eleventy-base-blog)
 - [Organizing the Eleventy config file | Lene Saile](https://www.lenesaile.com/en/blog/organizing-the-eleventy-config-file/)
+- [Build a Blogroll with Eleventy | Ben Myers](https://benmyers.dev/blog/eleventy-blogroll/)
+- [Automatically generate open graph images in Eleventy | bnijenhuis](https://bnijenhuis.nl/notes/automatically-generate-open-graph-images-in-eleventy/)

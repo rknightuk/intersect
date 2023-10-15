@@ -20,3 +20,6 @@ I have [Facebook](https://facebook.com) but I really only use it for selling stu
 - [Mutebot - filters for Tweetbot](https://urre.github.io/mutebot/)
 - [Micro.blog](https://micro.blog/)
 - [Minus](https://minus.social/)
+- [SpaceHey — a space for friends.](https://spacehey.com/)  
+- [Introducing tweetus-deletus 🐦🪄💀 - a tool to automate deleting your tweets, through the browser · Jamie Tanna | Software Engineer](https://www.jvt.me/posts/2023/09/30/tweetus-deletus/)
+- [Redact - Delete Your Social Media Posts](https://redact.dev/)

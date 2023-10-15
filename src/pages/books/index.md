@@ -11,3 +11,4 @@ I use [Almanac](https://almanac.rknight.me/?category=book) to track what books I
 - [indiebookclub is a simple app for tracking books you are reading](https://indiebookclub.biz/)
 - [Bionic Reading: Faster. Better. More focused. Reading.](https://bionic-reading.com/)
 - [BookBrainz – The Open Book Database](https://bookbrainz.org/)
+- [Banned Book Book Club](https://www.bannedbookbook.club/)

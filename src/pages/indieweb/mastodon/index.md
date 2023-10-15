@@ -107,4 +107,5 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [muesli/mastotool: A collection of command-line tools to work with your Mastodon account](https://github.com/muesli/mastotool)
 - [andy-blum/fed-embed: A highly customizable, lightweight mastodon feed embed component](https://github.com/andy-blum/fed-embed)
 - [Gaelan/minifedi: Run a tiny fediverse on your machine for testing, with no fuss.](https://github.com/gaelan/minifedi)
-- [Mastopoet](https://mastopoet.ohjelmoi.fi/)
+- [Mastopoet - Mastodon post screenshot tool](https://mastopoet.ohjelmoi.fi/)
+- [Fediverse Export Analyzer](https://fediverse-export-analyzer.stefanbohacek.dev/)

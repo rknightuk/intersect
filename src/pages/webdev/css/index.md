@@ -99,3 +99,6 @@ You’re done. Style to taste.
 - [Light and dark mode in just 14 lines of CSS](https://whitep4nth3r.com/blog/quick-light-dark-mode-css/)
 - [A responsive striped CSS gradient inspired by 80s VHS tapes](https://whitep4nth3r.com/blog/responsive-striped-css-pattern-80s-vhs-tapes/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [CSS HD Gradients](https://gradient.style)
+- [The Flipping CSS Loaders Collection](https://css-loaders.com/flipping/)
+- [CSS Selectors Playground](https://selectors.app/)

@@ -62,3 +62,6 @@ for (var i = 0; i < titles.length; i++) {
 - [Podcast Search](https://podsearch.david-smith.org/)
 - [Castopod by Ad Aures | Your Free & Open-source Podcast Host](https://castopod.org/)
 - [Podcast de facto Standard](https://podcast-standard.org/podcast_standard/)
+- [OP3: The Open Podcast Prefix Project](https://op3.dev/)
+- [PodUptime | Real time monitoring overview](https://poduptime.com/)
+- [Host your podcast 2.0 on Castopod | Castopod.com by Ad Aures](https://castopod.com/en)

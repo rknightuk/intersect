@@ -134,3 +134,4 @@ networkQuality -v
 - [Espanso - A Privacy-first, Cross-platform Text Expander](https://espanso.org/)
 - [Maccy - macOS clipboard manager](https://maccy.app/)
 - [Pulsar - A Community-led Hyper-Hackable Text Editor](https://pulsar-edit.dev/)
+- [Bezel • Show your iPhone on your Mac](https://getbezel.app/)

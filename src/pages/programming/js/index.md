@@ -254,3 +254,4 @@ formatter.format(vehicles) // One, Two, and Three
 - [Day.js · 2kB JavaScript date utility library](https://day.js.org/)
 - [SaraVieira/next-fullstack-starter: A nextjs full stack starter for your dreams](https://github.com/SaraVieira/next-fullstack-starter)
 - [squirm-inal Web Component Demo terminal](https://squirminal.zachleat.dev/)
+- [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
