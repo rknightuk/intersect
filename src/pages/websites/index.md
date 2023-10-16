@@ -54,3 +54,4 @@ Websites that are useful (or just fun) but don't fit into any of the other categ
 - [Welcome to Metric-time.com](https://metric-time.com/)
 - [Connect APIs, Remarkably Fast - Pipedream](https://pipedream.com/)
 - [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home)
+- [Internet Archive Scholar](https://scholar.archive.org/)

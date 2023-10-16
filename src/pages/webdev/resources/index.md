@@ -51,7 +51,6 @@ https://icons.duckduckgo.com/ip3/rknight.me.ico
 - [Style Stage from Modern CSS Solutions](https://stylestage.dev/)
 - [Undesign | Collection of free design tools and resources for makers, developers and designers](https://undesign.learn.uno/)
 - [Social Media Sharing Buttons. No JavaScript. No tracking. Super fast and easy.](https://sharingbuttons.io/)
-- [Font Tester - Swooshable](https://swooshable.com/fonttester)
 - [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)
 - [GitHub Corners](https://tholman.com/github-corners/)
 - [Let's Encrypt](https://letsencrypt.org/) - TLS certificates

@@ -38,3 +38,5 @@ title: Fonts
 - [robhagemans/hoard-of-bitfonts: turns out I like bitmap fonts](https://github.com/robhagemans/hoard-of-bitfonts/tree/master)
 - [lauridskern/open-runde: A soft, rounded variant of Inter](https://github.com/lauridskern/open-runde)
 - [naipefoundry/gabarito](https://github.com/naipefoundry/gabarito)
+- [Hoard of bitfonts](http://robhagemans.github.io/monobit/)
+- [Font Tester - Swooshable](https://swooshable.com/fonttester)
