@@ -93,3 +93,4 @@ https://icons.duckduckgo.com/ip3/rknight.me.ico
 - [dariusk/corpora: A collection of small corpuses of interesting data for the creation of bots and similar stuff.](https://github.com/dariusk/corpora)
 - [Meridian - OpenStreetMap-based places database and API.](https://latl.ong/)
 - [OrbStack · Fast, light, simple Docker & Linux on macOS](https://orbstack.dev/)
+- [StackBricks App - Database-Management for Developer Machines](https://stackbricks.app/)
