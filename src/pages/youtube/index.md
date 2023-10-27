@@ -25,3 +25,4 @@ Channel RSS feeds: `https://www.youtube.com/feeds/videos.xml?channel_id=`
 ## Links
 
 - [TubeSync is a PVR (personal video recorder) for YouTube](https://github.com/meeb/tubesync)
+- [Invidious - An open source alternative front-end to YouTube](https://invidious.io/)

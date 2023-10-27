@@ -77,6 +77,12 @@ Then tell `calendar > day:first-child` to start at the appropriate spot in the g
 
 You’re done. Style to taste.
 
+### Double Text Shadow
+
+```css
+text-shadow: rgba(10, 189, 240, 0.298039) 3px 3px 0px, rgba(254, 1, 1, 0.298039) -3px -3px 0px;
+```
+
 ## Links
 
 - [CSS accent-color](https://web.dev/accent-color/)

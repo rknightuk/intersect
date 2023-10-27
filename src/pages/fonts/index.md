@@ -40,3 +40,4 @@ title: Fonts
 - [naipefoundry/gabarito](https://github.com/naipefoundry/gabarito)
 - [Hoard of bitfonts](http://robhagemans.github.io/monobit/)
 - [Font Tester - Swooshable](https://swooshable.com/fonttester)
+- [shaunsingh/SFMono-Nerd-Font-Ligaturized: Apple's SFMono font nerd-font patched and ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)

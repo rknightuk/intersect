@@ -12,7 +12,7 @@ I record using a ~~[Blue Yeti](https://www.bluemic.com/en-gb/products/yeti/)~~ [
 - Record my local audio plus Skype backup with [Audio Hijack Pro](https://rogueamoeba.com/audiohijackpro/)
 - Edit in [GarageBand](https://www.apple.com/uk/mac/garageband/). It would probably be easier in [Logic Pro](https://www.apple.com/uk/logic-pro/) but I'm not paying for it
 - Edit metadata and chapters with [Forecast](https://overcast.fm/forecast)
-- Hosted with [Simplecast](https://simplecast.com/)
+- Hosted ~~with [Simplecast](https://simplecast.com/)~~ my own custom site
 
 ## Links
 
