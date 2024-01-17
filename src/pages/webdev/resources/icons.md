@@ -50,3 +50,4 @@ title: Icons
 - [Phosphor Icons](https://phosphoricons.com/)
 - [Game Icons](https://game-icons.net/)
 - [PokéSprite - Pokemon sprites](https://msikma.github.io/pokesprite/overview/dex-gen7.html)
+- [Tiny Emoji](https://tiny.emoji.serenityos.net/)

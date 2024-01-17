@@ -36,3 +36,4 @@ Either of these will usually be deployed with [Laravel Forge](https://forge.lara
 - [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
 - [WebReflection/linkedom: A triple-linked lists based DOM implementation.](https://github.com/WebReflection/linkedom) - An alternative to Cheerio
 - [Dear Console,… - a collection of code snippets to use in the browser console](https://codepo8.github.io/dearconsole/)
+- [Simple Web Server](https://simplewebserver.org/)

@@ -82,3 +82,5 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 - ["Baby Got Back:" Sir Mix-A-Lot with the Seattle Symphony - YouTube](https://www.youtube.com/watch?v=w59e20ijOpE)
 - [Foo Fighters "Everlong" w/ 11-Year-Old Nandi Bushell, The Forum, Los Angeles, 8.26.21 - YouTube](https://www.youtube.com/watch?v=jsDgrKdczAE)
 - [DECO on Twitter: "If ‘Bitter Sweet Symphony’ came out in the 80s 🎶🔥 Like & RT Full version anyone?: https://t.co/wLH0Xgi8bi https://t.co/EZGvclB17j" / Twitter](https://twitter.com/decobanduk/status/1466675894169260032)
+- [grey280/playlister: A command-line tool for reading your iTunes/Music.app playlists](https://github.com/grey280/playlister)
+[jam.coop | A new music platform. For us.](https://jam.coop/)

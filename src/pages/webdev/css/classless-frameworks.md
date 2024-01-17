@@ -20,4 +20,4 @@ Ones I've used (including on this site):
 - [holiday.css - a minimalist classless CSS theme with dark mode support. Only 5 KB.](https://holidaycss.js.org/)
 - [Simple.css](https://simplecss.org/)
 - [missing.css](https://missing.style/)
-
+- [new css](https://newcss.net/)

@@ -129,3 +129,4 @@ git commit --amend
 - [imsky/git-fresh: Keep your Git repo fresh.](https://github.com/imsky/git-fresh)
 - [Mastering Git submodules. Hair-pulling. Helpless rage… | by Christophe Porteneuve | Medium](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
 - [Teach Yourself Git Without Learning a Single Git Command | itoshkov.github.io](https://itoshkov.github.io/git-tutorial)
+- [gitmoji | An emoji guide for your commit messages](https://gitmoji.dev/)
