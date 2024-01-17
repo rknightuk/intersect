@@ -83,6 +83,17 @@ You’re done. Style to taste.
 text-shadow: rgba(10, 189, 240, 0.298039) 3px 3px 0px, rgba(254, 1, 1, 0.298039) -3px -3px 0px;
 ```
 
+### Stop iOS changing unicode characters to emoji
+
+```
+[aria-checked="false"] > i::before {
+    content: "\2610\fe0e";
+}
+[aria-checked="true"] > i::before {
+    content: "\2611\fe0e";
+}
+```
+
 ## Links
 
 - [CSS accent-color](https://web.dev/accent-color/)

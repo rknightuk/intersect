@@ -48,3 +48,5 @@ title: Icons
 - [deadsuperhero/decentralized-social-icons: An attempt to put all of the Fediverse project logos into one icon font. - decentralized-social-icons - Codeberg.org](https://codeberg.org/deadsuperhero/decentralized-social-icons)
 - [MacUser's Custom Icon Pack IV - Macintosh Garden](https://macintoshgarden.org/apps/macusers-custom-icon-pack-iv)
 - [Phosphor Icons](https://phosphoricons.com/)
+- [Game Icons](https://game-icons.net/)
+- [PokéSprite - Pokemon sprites](https://msikma.github.io/pokesprite/overview/dex-gen7.html)

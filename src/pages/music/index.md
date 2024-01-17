@@ -60,6 +60,7 @@ Sometimes Music won't upload a song when you import it. Right click on it and ch
 - [Songlink/Odesli](https://odesli.co/)
 - [“iPod Shuffle” Music Shortcut for iOS and macOS — Nathaniel Daught](https://daught.me/blog/ipod-shuffle-music-shortcut-ios-macos)
 - [Longplay](https://longplay.rocks/)
+- [Tuneful](https://github.com/martinfekete10/Tuneful)
 
 
 ## Links

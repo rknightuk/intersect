@@ -65,6 +65,7 @@ Setting up a webfinger for Mastodon allows anyone to search `you@yourdomain.com`
 - [Ivory](https://tapbots.social/@ivory)
 - [tooot](https://apps.apple.com/us/app/tooot/id1549772269)
 - [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
+- [Sora](https://mszpro.com/sorasns/)
 
 ## Browser Extensions
 

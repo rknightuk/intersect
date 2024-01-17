@@ -22,6 +22,24 @@ I alias this to `gl` which gives a nicer output than standard:
 * 418d17c Menu now shows and hides Robb Knight, 10 hours ago
 ```
 
+### Commits Per Day
+
+```git
+git log --date=short --pretty=format:%ad | sort | uniq -c
+```
+
+Example:
+
+```
+ 1 2017-12-08
+ 6 2017-12-26
+12 2018-01-01
+13 2018-01-02
+10 2018-01-14
+ 7 2018-01-17
+ 5 2018-01-18
+```
+
 ### Limit Commits
 
 ```git
